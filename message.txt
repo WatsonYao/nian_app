@@ -1,0 +1,16 @@
+.id("1").image("pet_plankton_1").message("虽然没有抽到宠物 但你抽到了一个抱抱").build());
+.id("2").image("pet_plankton_2").message("作为一个烧麦 不知道被吃掉 是幸运还是不幸呀").build());
+.id("3").image("pet_plankton_3").message("(・ω・) -__- )・∀・) 好挤呀").build());
+.id("4").image("pet_plankton_4").message("今天我从天空飘着时 看到地上有个 可爱的女孩子在玩念").build());
+.id("5").image("pet_plankton_5").message("我们还会见面的！ 吖，别摔手机啊").build());
+.id("6").image("pet_plankton_6").message("作为一个医生 我每天都被自己帅晕").build());
+.id("7").image("pet_plankton_7").message("打劫念币啦").build());
+.id("8").image("pet_plankton_8").message("谢谢你的念币 终于凑够钱买别墅了").build());
+.id("9").image("pet_plankton_9").message("不好意思 跑错片场了").build());
+.id("10").image("pet_plankton_10").message("谢谢你喂我 我已经快十分钟没吃过东西了").build());
+.id("11").image("pet_plankton_11").message("是 你 在 召 唤 我 吗").build());
+.id("12").image("pet_plankton_12").message("同样是独角 为什么它是传说中的宠物 而我只能做美男子呢").build());
+.id("13").image("pet_plankton_13").message("你说你原本想抽的不是我？ 我的心碎了").build());
+.id("14").image("pet_plankton_14").message("如果看到一只拉风的炸鸡 接下来一辈子都会交好运").build());
+.id("15").image("pet_plankton_15").message("我妈说花开的时候 就会遇到真爱").build());
+.id("16").image("pet_plankton_16").message("每当有人对我说  give me five 的时候 我都既快乐又困扰").build());
