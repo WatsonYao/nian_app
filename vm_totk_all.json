@@ -1,0 +1,1448 @@
+{
+  "up": [
+    {
+      "Number": "001",
+      "Voice Memory": "Sacred Tree of the Zonai",
+      "Description": "The lives of our people and this tree are interconnected. As we prospered, so too did it. It was the site for many of our rituals, and though that role has since been taken up by the Temple of Time, I am sure this sacred tree watches over us still.",
+      "cn": "我们族人的生命与这棵树息息相关。我们繁荣，它也随之昌盛。这里曾是我们许多仪式的举行地点，尽管这个角色后来被时之神殿所取代，但我相信这棵神圣的树仍然在守护着我们。"
+    },
+    {
+      "Number": "002",
+      "Voice Memory": "Fading Legacy",
+      "Description": "A crystal refinery, and one responsible for a highly complex manufacturing process. The nature of the work was such that only a select few constructs could perform it, and only two of those remain in operation. Fortunately that is enough for now, though apparently there was a time when they could be found throughout the kingdom...",
+      "cn": "一座水晶精炼厂，负责一个高度复杂的制造过程。由于工作的性质，只有少数几个魔像能够执行，而目前只有两个仍在运作。幸运的是，目前这已经足够了，尽管据说曾经有一段时间它们遍布整个王国……"
+    },
+    {
+      "Number": "003",
+      "Voice Memory": "Piercing Evil",
+      "Description": "The Temple of Time is a bell tower and faithful time keeper as well as a spiritual center of this land. It was constructed in a traditional Zonai architectural style that extends both up into the sky and down into the ground. It was believed in ancient times that such a design could pierce through evil.",
+      "cn": "时之神殿是一座钟楼和忠实的时间守护者，也是这片土地的精神中心。它以传统的左纳乌建筑风格建造，向上延伸至天空，向下深入地底。在古代，人们相信这样的设计可以刺穿邪恶。"
+    },
+    {
+      "Number": "004",
+      "Voice Memory": "The Altar",
+      "Description": "This altar is considered the most holy place in the temple, and it is where we give offerings as part of our prayers for a bountiful, peaceful world. I have heard ancient legends that it could interact with a sacred power, allowing travel back and forth through time... Though how this was done is a mystery to me.",
+      "cn": "这座祭坛被认为是神殿中最神圣的地方，我们在这里献上祭品，作为我们为丰饶、和平的世界祈祷的一部分。我曾听说过古老的传说，说它可以与一种神圣的力量互动，允许在时间中来回穿梭……尽管这是如何做到的，对我来说是个谜。"
+    },
+    {
+      "Number": "005",
+      "Voice Memory": "The Forest Ostrich",
+      "Description": "The forest ostriches were once on the brink of extinction. However, a proposal by the queen was made to protect them, and eventually this species flourished once more. Though they were originally only found in colder lands, they are highly adaptable, thriving in all but the frigid polar regions.",
+      "cn": "森林鸵鸟曾一度濒临灭绝。然而，女王提出了保护它们的建议，最终这个物种再次繁盛起来。虽然它们最初只在较冷的地区被发现，但它们适应性很强，在除了严寒的极地地区以外的所有地方都能茁壮成长。"
+    },
+    {
+      "Number": "006",
+      "Voice Memory": "Energy Lines",
+      "Description": "These rails are intended to transport materials, but they also supply energy through pipes. The Goron people make extensive use of this kind of mechanism, and I believe it is possible they modeled their designs on our own technology...",
+      "cn": "这些轨道旨在运输材料，但它们也通过管道供应能源。哥隆族人广泛使用这种机制，我相信他们可能是模仿我们自己的技术来设计的……"
+    },
+    {
+      "Number": "007",
+      "Voice Memory": "Construct Compassion",
+      "Description": "On occasion, constructs have been observed forming a line as they wait for an available charging spot. More interestingly, some will give up their place in that line to allow constructs with a greater need to recharge first. Were it that everyone always acted with such empathy...",
+      "cn": "有时候，可以观察到魔像们排成一队，等待可用的充电点。更有趣的是，有些魔像会放弃自己的位置，让更有需要的魔像先充电。要是每个人都能总是这样有同理心就好了……"
+    },
+    {
+      "Number": "008",
+      "Voice Memory": "A Sense of Taste",
+      "Description": "Our Culinary Constructs were imparted with knowledge of both cooking meals and concocting medicines. Though they have no taste buds, they learned to mimic the movements we make when tasting food. Even my sister, who gifted them with the ability to learn in the first place, was surprised by what they glean through simple observation.",
+      "cn": "我们的烹饪魔像被传授了烹饪和调配药物的知识。虽然它们没有味蕾，但它们学会了模仿我们品尝食物时的动作。就连我的妹妹，那个最初赋予它们学习能力的人，也对它们通过简单观察所学到的东西感到惊讶。"
+    },
+    {
+      "Number": "009",
+      "Voice Memory": "Musings",
+      "Description": "This is known as a Zonai device dispenser, but the concept of leaving things to chance is not one often seen in our civilization. I myself believe that it was originally created with a different purpose. Maybe it was used for entertainment, or maybe it was not even originally made by the Zonai... The ways of our ancestors are sometimes unclear, but they are also interesting puzzles to unravel.",
+      "cn": "这被称为左纳乌装置分配器，但在我们的文明中，将事情交给偶然性的概念并不常见。我本人相信它最初是为不同目的而创造的。也许它是用于娱乐，或者甚至根本不是由左纳乌人制造的……我们祖先的方式有时不甚明了，但它们也是有趣的待解之谜。"
+    },
+    {
+      "Number": "010",
+      "Voice Memory": "Sky Island Guardians",
+      "Description": "Though the Flux Constructs can enter a standby mode, reducing energy consumption outside of battle, they remain one of our less energy-efficient creations. Considering their limitations, I would love to improve on their design and give them greater range, but my sister says the ancients' schematics for them are quite abstruse.",
+      "cn": "虽然方块魔像可以进入待机模式，在战斗之外减少能量消耗，但它们仍然是我们能源效率较低的创造物之一。考虑到它们的局限性，我很想改进它们的设计，赋予它们更大的活动范围，但我妹妹说古人留下的设计图相当深奥难懂。"
+    },
+    {
+      "Number": "011",
+      "Voice Memory": "Crafted Snowscape",
+      "Description": "It was here that we used the capabilities of frost emitters to create a permanently snowy region. By encircling the island in cold air, we created an ideal place to test the durability of constructs and Zonai devices. I'll always remember the look of wonder on Sonia's face the first time we came here.",
+      "cn": "我们就是在这里利用冰霜发射器的能力，创造了一个永久的雪域。通过用冷空气环绕岛屿，我们创造了一个测试魔像和左纳乌装置耐久性的理想场所。我永远都会记得索尼娅第一次来这里时脸上那惊奇的表情。"
+    },
+    {
+      "Number": "012",
+      "Voice Memory": "Solo Riders Only",
+      "Description": "We intended for this airfield to allow easy transportation of goods between sky islands—while I hoped the people of Hyrule would make use of it, the flying machines proved challenging to control. I once sought to join Sonia while she practiced with one, but a construct stopped me, insisting that the devices are limited to one rider...",
+      "cn": "我们打算用这个机场来方便空岛之间的货物运输——尽管我希望海拉鲁的人民能使用它，但事实证明飞行器很难控制。有一次我想加入索尼娅，当时她正在练习一架飞行器，但一个魔像阻止了我，坚称这些装置仅限单人乘坐……"
+    },
+    {
+      "Number": "013",
+      "Voice Memory": "Inexperienced Constructs",
+      "Description": "I do not believe anyone else is as proficient at handling Zonai devices as the Maker Constructs. That said, one should be careful around the inventions of less experienced ones. I recall a very chaotic rafting ride when a misaligned fan made it nearly impossible to steer. I was scared half to death throughout, but Queen Sonia enjoyed herself.",
+      "cn": "我不相信有谁能像制造魔像那样精通操作左纳乌装置。话虽如此，对于经验不足的魔像的发明，还是要小心。我记得有一次非常混乱的漂流，一个没对准的风扇使得筏子几乎无法驾驶。我全程都吓得半死，但索尼娅女王却玩得很开心。"
+    },
+    {
+      "Number": "014",
+      "Voice Memory": "Circular Design",
+      "Description": "Circular designs often represent an eternal bond and were even thought to ward off evil. Perhaps with that in mind, many of the structures here have been constructed with a circular shape. Though this was once an archive containing many important records, now only those my sister keeps remain.",
+      "cn": "圆形设计通常代表永恒的纽带，甚至被认为可以辟邪。也许是出于这个想法，这里的许多建筑都采用了圆形。虽然这里曾经是存放许多重要记录的档案馆，但现在只剩下我妹妹保存的那些了。"
+    },
+    {
+      "Number": "015",
+      "Voice Memory": "Zonaite Forge Island",
+      "Description": "Zonaite was once readily found even on sky islands; this giant refinery is a remnant of a time where its scarcity seemed impossible. Of course, the lava that powered the refinery still remains. I should consult with my sister and see whether we can yet find a use for this furnace...",
+      "cn": "左纳乌矿石曾经在空岛上也很容易找到；这个巨大的精炼厂是一个时代的遗迹，那时它的稀缺似乎是不可想象的。当然，为精炼厂提供动力的熔岩仍然存在。我应该和我妹妹商量一下，看看我们是否还能为这个熔炉找到用途……"
+    },
+    {
+      "Number": "016",
+      "Voice Memory": "Valor Island",
+      "Description": "Those that complete the skydiving trial are bestowed empowering attire. It allows them to better control their movement in the air, and if all the pieces are worn together, the wearer need not fear striking the ground no matter how far they fall. The ancient Zonai even fell to the surface at times, but I believe this attire kept them safe too.",
+      "cn": "完成跳伞试炼的人将被授予赋能的服装。它能让他们更好地控制在空中的移动，如果所有部件一起穿上，无论从多高的地方坠落，穿戴者都不必担心撞击地面。古代的左纳乌人有时甚至会坠落到地面，但我相信这套服装也保护了他们的安全。"
+    },
+    {
+      "Number": "017",
+      "Voice Memory": "Low-Gravity Space",
+      "Description": "I have heard that the original reason for the lower gravity in this space was to reduce the jolts cargo could experience during transit. However, it has an additional use; it seems the Zora greatly enjoy the sensation of swimming through the sky.",
+      "cn": "我听说这个空间重力较低的最初原因是为了减少货物在运输过程中可能遭受的颠簸。然而，它还有一个额外的用途；看来卓拉族人非常享受在天空中游泳的感觉。"
+    },
+    {
+      "Number": "018",
+      "Voice Memory": "Floating Spheres of Water",
+      "Description": "Thanks to the plentiful water available here, this is a prime spot for conducting water-related research. The floating spheres, for example, have the potential to revolutionize logistics, but as they do not retain their shape for long, their use is limited to certain islands.",
+      "cn": "得益于这里丰富的水源，这里是进行水相关研究的绝佳地点。例如，漂浮的水球有潜力彻底改变物流，但由于它们不能长时间保持形状，其用途仅限于某些岛屿。"
+    },
+    {
+      "Number": "019",
+      "Voice Memory": "Wellspring Island",
+      "Description": "The water that flows from here eventually becomes clouds and rain, bringing water down to the land. The Zora people in ancient times had dealings with the Zonai, and I can imagine they used the immense waterfall to travel from the surface to the sky. Hmm. It is appropriate some refer to this waterfall as a bridge.",
+      "cn": "从这里流出的水最终会变成云和雨，将水带到陆地。古代的卓拉族人与左纳乌人有过往来，我可以想象他们利用巨大的瀑布从地面旅行到天空。嗯。有人把这个瀑布称为一座桥是恰当的。"
+    },
+    {
+      "Number": "020",
+      "Voice Memory": "Floating Scales Island",
+      "Description": "I thought it very strange when I heard from the Zora that there was a fish in the sky, but now I see what they meant. They also told me to stand on the edge of the center platform and look out to the southwest, but I... Oh... I understand! Mmm. Quite befitting the Zora.",
+      "cn": "当我从卓拉族人那里听说天空中有一条鱼时，我觉得非常奇怪，但现在我明白他们的意思了。他们还告诉我要站在中央平台的边缘向西南方向望去，但我……哦……我明白了！嗯。真不愧是卓拉族人。"
+    },
+    {
+      "Number": "021",
+      "Voice Memory": "Launch Mechanism",
+      "Description": "A lot of debris is scattered in the area. It is likely that cargo was handled here and...hmm... Perhaps the strange shape of the container made it difficult to control the launch mechanism...",
+      "cn": "该地区散落着大量碎片。很可能这里曾经处理过货物，而且……嗯……也许是容器的奇特形状使得发射机制难以控制……"
+    },
+    {
+      "Number": "022",
+      "Voice Memory": "Sky Mine",
+      "Description": "This area was once known for the abundance of ore that could be mined from the numerous floating islands. Many gathered here to make their fortunes, though today, only a few mines remain. The sight of ore deposits sparkling in the night sky—wonderful company at one's side—is a better kind of fortune, in any case...",
+      "cn": "这个地区曾因其众多浮岛上可开采的丰富矿石而闻名。许多人聚集在这里发家致富，尽管如今只剩下少数几个矿场。夜空中闪闪发光的矿床——身边有美好的伴侣——无论如何，这都是一种更好的财富……"
+    },
+    {
+      "Number": "023",
+      "Voice Memory": "Ruled by the Dragon",
+      "Description": "It is said that until the guardian of this labyrinth offered guidance, a soul would be set to wander these halls. Perhaps this was the room where those dishonest with themselves were judged...where the guardian of this place weighed the courage of a soul.",
+      "cn": "据说，除非这个迷宫的守护者提供指引，否则一个灵魂将注定在这些大厅里徘徊。也许这里就是审判那些对自己不诚实的人的房间……是这个地方的守护者衡量一个灵魂勇气的地方。"
+    },
+    {
+      "Number": "024",
+      "Voice Memory": "Bravery Island",
+      "Description": "In a time when Zonai devices make it easy to overcome many of life's obstacles, the idea of flying through the sky without assistance—of overcoming one's fear of falling—has been dismissed as unnecessary idealism. But now that only my sister and I remain, I believe, with my whole being, that it is more important than ever to always strive to grow.",
+      "cn": "在一个左纳乌装置让克服生活中许多障碍变得轻而易举的时代，无需辅助在天空中飞翔——克服对坠落的恐惧——的想法，已被视为不必要的理想主义而被摒弃。但现在只剩下我和我妹妹，我全身心地相信，不断努力成长比以往任何时候都更加重要。"
+    },
+    {
+      "Number": "025",
+      "Voice Memory": "Ruled by the Owl",
+      "Description": "I have heard that, until a soul here receives guidance from the labyrinth's guardian, it will wander this maze. Perhaps it was here, then, that the guardian of wisdom, with their keen mind, would pass judgment on those who deceived others...",
+      "cn": "我听说，一个灵魂在这里，除非得到迷宫守护者的指引，否则将在这个迷宫中徘徊。那么，也许就是在这里，智慧的守护者以其敏锐的头脑，对那些欺骗他人的人做出审判……"
+    },
+    {
+      "Number": "026",
+      "Voice Memory": "Traversal Challenges",
+      "Description": "I traveled here on a quest to cleanse evil, and Sonia has accompanied me. However, I had not considered how challenging it would be to traverse this path. If I had my sister's power, I could perhaps move this vessel...",
+      "cn": "我为了净化邪恶而来到这里，索尼娅也陪伴着我。然而，我没有考虑到走这条路会有多大的挑战性。如果我拥有我妹妹的力量，或许我能移动这艘船……"
+    },
+    {
+      "Number": "027",
+      "Voice Memory": "Stormwind Ark",
+      "Description": "Ah, I think I remember...\n\"When a Zonai tumbled,\nRito wings gave chase.\nIn thanks for their salvation,\nThe Stormwind Ark was made.\nA gift given from the Zonai,\nAnd the Rito filled with joy.\"\nIt is an old legend of my people. Could this be that vessel?",
+      "cn": "啊，我想我记起来了……\n“当左纳乌人坠落时，\n利特族的翅膀紧追不舍。\n为感谢他们的拯救，\n风暴方舟由此建成。\n一份来自左纳乌的礼物，\n利特族人满心欢喜。”\n这是我族人的一个古老传说。这会是那艘船吗？"
+    },
+    {
+      "Number": "028",
+      "Voice Memory": "Courage Island",
+      "Description": "The ceremony held here was a trial of heart, strength, and technique. There was a time where everyone who came of age would undertake this test, but as Zonai devices developed and spread, only those wishing to challenge their courage would take part. I wonder if this island will ever see a new challenger...",
+      "cn": "在这里举行的仪式是对心、力量和技巧的考验。曾有一段时间，每个成年人都会接受这项测试，但随着左纳乌装置的发展和普及，只有那些希望挑战自己勇气的人才会参加。我不知道这座岛是否还会迎来新的挑战者……"
+    },
+    {
+      "Number": "029",
+      "Voice Memory": "Lightcast Island",
+      "Description": "This island is a training site for those who carry the power of light. By practicing at length with this power, one can grow strong enough to overcome great evil. Oh, to recall all the times I had visited this place in my youth...",
+      "cn": "这座岛是为那些拥有光明力量的人准备的训练场。通过长时间练习这种力量，一个人可以变得足够强大，以克服巨大的邪恶。哦，回想起我年轻时所有到访这个地方的时光……"
+    },
+    {
+      "Number": "030",
+      "Voice Memory": "Starview Island",
+      "Description": "Though this island was originally used as a place to store things, it has been a long time since it fulfilled that role. And while the island lacks an official name, many have come to call it Starview Island. As for me, the only real stars are those sparkling in Sonia's eyes...",
+      "cn": "虽然这座岛最初是用来存放东西的地方，但它已经很久没有履行这个角色了。而且虽然这座岛没有正式的名称，但许多人开始称它为观星岛。至于我，唯一真正的星星是那些在索尼娅眼中闪烁的星光……"
+    },
+    {
+      "Number": "031",
+      "Voice Memory": "Crumbling Fortress",
+      "Description": "This island was intended to be a fortress with a strong wall, but it seems to be collapsing faster than other islands... I wonder if the dry climate of the Gerudo region is at fault. Regardless, I should commission a Maker Construct to help as soon as possible; it would be a disaster if the island fell to the surface.",
+      "cn": "这座岛本应是一座有坚固墙壁的堡垒，但它似乎比其他岛屿崩塌得更快……我不知道是否是格鲁德地区干燥的气候造成的。无论如何，我应该尽快委托一个制造魔像来帮忙；如果岛屿坠落到地面，那将是一场灾难。"
+    },
+    {
+      "Number": "032",
+      "Voice Memory": "Ruled by the Boar",
+      "Description": "There are stories that claim a soul will wander these halls until the guardian of power—said to reach from depths to sky, it was so large—has cleansed them of their pride. Perhaps it was in this room that judgment was passed on those overly boastful of their power...",
+      "cn": "有故事声称，一个灵魂会在这座大厅里徘徊，直到力量的守护者——据说其巨大能从深渊触及天空——洗去他们的骄傲。也许正是在这个房间里，对那些过分吹嘘自己力量的人进行了审判……"
+    },
+    {
+      "Number": "033",
+      "Voice Memory": "Thunderhead Isles",
+      "Description": "This was originally a port where materials from the Depths were imported and stored, but it is currently being managed by my sister as a construct warehouse. Security is unusually tight—even I had trouble coming here—but knowing my sister, she has her reasons.",
+      "cn": "这里最初是一个进口和储存来自地底材料的港口，但目前由我妹妹管理，作为一个魔像仓库。安保异常严密——连我来这里都遇到了麻烦——但以我对我妹妹的了解，她有她的理由。"
+    },
+    {
+      "Number": "034",
+      "Voice Memory": "Faith in the Lightning Dragon",
+      "Description": "The people on the surface believe this to be proof of the lightning dragon's divine protection. In actuality, it is a lightning rod the Zonai constructed to prevent lightning strikes. Perhaps this is how belief in the lightning dragon began... I wonder how often belief results from unrelated coincidence.",
+      "cn": "地面上的人们相信这是雷电巨龙神圣保护的证明。实际上，这是左纳乌人为防止雷击而建造的避雷针。也许这就是对雷电巨龙信仰的开始……我很好奇信仰有多少次是源于不相关的巧合。"
+    },
+    {
+      "Number": "035",
+      "Voice Memory": "Treasure Maps",
+      "Description": "I get a strong sense of nostalgia in this place. When I was young, I was intensely interested in finding and studying treasure maps. Before I knew it, I had become quite familiar with the topography of the sky islands and, incidentally, with Zonai devices. Hahaha...nothing motivates one to learn like a healthy sense of curiosity.",
+      "cn": "我在这里感到一种强烈的怀旧感。当我年轻的时候，我非常热衷于寻找和研究藏宝图。不知不觉中，我对空岛的地形以及左纳乌装置都变得相当熟悉。哈哈哈……没有什么比健康的好奇心更能激励人学习了。"
+    }
+  ],
+  "mid": [
+    {
+      "Number": "001",
+      "Voice Memory": "Hyrule Castle Gates",
+      "Description": "I have heard the castle gate is the product of Sheikah wisdom and Goron engineering. Father always said it would never fall, and he was technically correct; it is the only part of the castle that remains unblemished.",
+      "cn": "我听说城堡大门是希卡智慧和哥隆工程的产物。父亲总是说它永远不会倒塌，从技术上讲，他是对的；它是城堡中唯一完好无损的部分。"
+    },
+    {
+      "Number": "002",
+      "Voice Memory": "The Royal Family's Dining Table",
+      "Description": "The dining hall... Father was partial to the seat in front of the fireplace, and Link preferred to stand watch near the entrance while I ate. I still laugh when I remember the look of surprise on Link's face as I returned for my second...and then third helping of fruit cake.",
+      "cn": "餐厅……父亲偏爱壁炉前的座位，而林克则喜欢在我吃饭时站在入口附近守望。我至今还记得，当我回去拿第二份……然后是第三份水果蛋糕时，林克脸上惊讶的表情，想起来就想笑。"
+    },
+    {
+      "Number": "003",
+      "Voice Memory": "A Missing View",
+      "Description": "I loved gazing out at the castle town here in the observation room... The view is completely different now, but...I will see to its restoration.",
+      "cn": "我喜欢在观景室里凝望城堡镇……现在的景色完全不同了，但是……我会负责修复它的。"
+    },
+    {
+      "Number": "004",
+      "Voice Memory": "Sturdy Fortifications",
+      "Description": "The first gatehouse is the outermost point of entry to Hyrule Castle. While the ramparts themselves are crumbling in many places, the towers appear to have endured. This seems like an excellent place to store the materials we will need as we work to restore the castle.",
+      "cn": "第一门楼是海拉鲁城堡最外层的入口。虽然城墙本身多处 crumbling（摇摇欲坠），但塔楼似乎经受住了考验。这里似乎是存放我们修复城堡所需材料的绝佳地点。"
+    },
+    {
+      "Number": "005",
+      "Voice Memory": "The Honest Truth",
+      "Description": "The guards' chamber. When he was not occupied by his duties as my protector, Link would often come here to train alongside the regular soldiers. Hm...They once let me join in, but the arrow I loosed went...off target. It also caught the flame of a torch, and everyone frantically raced to put out the resulting fire...",
+      "cn": "卫兵室。当林克不忙于保护我的职责时，他常常来这里和普通士兵一起训练。嗯……他们有一次也让我加入了，但是我射出的箭……脱靶了。箭还引燃了火炬的火焰，大家手忙脚乱地扑灭了因此引发的火灾……"
+    },
+    {
+      "Number": "006",
+      "Voice Memory": "The Great Bandit",
+      "Description": "As far as I am aware, there were never criminals foul enough to warrant imprisonment here. And while I do recall a bandit named \"Misko\" being captured long, long ago, it seems in recent times they have risen to greater fame for their keen sense of fashion.",
+      "cn": "据我所知，这里从来没有关押过罪大恶极的犯人。虽然我确实记得很久很久以前有一个名叫“米斯可”的强盗被捕，但近来他们似乎因为其敏锐的时尚感而名声大噪。"
+    },
+    {
+      "Number": "007",
+      "Voice Memory": "Busy Days Gone By",
+      "Description": "Ships would come and go all day here at the docks. It truly was the most lively part of the castle, and it always felt thus thanks to the numerous merchants. It feels lonely now, abandoned as it is... A feeling magnified as I reflect on what it once was.",
+      "cn": "过去，船只整天在码头来来往往。这里确实是城堡最热闹的地方，这都归功于众多的商人。现在它被遗弃了，感觉很孤独……当我回想起它曾经的样子时，这种感觉更加强烈了。"
+    },
+    {
+      "Number": "008",
+      "Voice Memory": "A King's Secret",
+      "Description": "The castle's library, now covered in dust. At first glance, I found this worrying, but I believe nearly all the books can be salvaged with some effort. Though Father never cared much for books, he would often visit this place. I wonder why...",
+      "cn": "城堡的图书馆，如今蒙上了灰尘。乍一看，我觉得这很令人担忧，但我相信只要稍加努力，几乎所有的书籍都可以被挽救。虽然父亲从不怎么喜欢书，但他却经常来这个地方。我不知道为什么……"
+    },
+    {
+      "Number": "009",
+      "Voice Memory": "A Place of Shelter",
+      "Description": "Though this throne sits vacant, the space it occupies still speaks volumes. For instance, while the sculpture behind the throne is especially sturdy and serves as a hiding place in an emergency, no one that occupied that seat has ever chosen to use it.",
+      "cn": "虽然这个王座空着，但它所占据的空间仍然意义非凡。例如，王座后面的雕塑特别坚固，在紧急情况下可以作为藏身之处，但坐过那个位子的没有人选择使用它。"
+    },
+    {
+      "Number": "010",
+      "Voice Memory": "The Bell That Tolled",
+      "Description": "The bell tower... My memories of it are filled with a terrible sense of helplessness. When that bell tolled, it reminded me that my training was incomplete. And the last time I heard it ring out, it was warning us of the Calamity's arrival.",
+      "cn": "钟楼……我对它的记忆充满了可怕的无助感。当钟声敲响时，它提醒我我的训练尚未完成。而我最后一次听到它响起，是在警告我们灾厄的到来。"
+    },
+    {
+      "Number": "011",
+      "Voice Memory": "A Neglected Room",
+      "Description": "My room... I spent far less time here than I did in my study. That fact may have surprised my attendants, as I often closed the bed curtains to hide the fact I had once again slipped away to continue my research.",
+      "cn": "我的房间……我在这里待的时间远比在书房少。这个事实可能让我的侍从们感到惊讶，因为我经常拉上床帘，以掩盖我又一次溜出去继续我的研究的事实。"
+    },
+    {
+      "Number": "012",
+      "Voice Memory": "A Strong Princess",
+      "Description": "My study... I found a silent princess in a corner of this desolate room... How many years—or decades—has it patiently waited for the right conditions, that it might finally emerge? To think I once believed the silent princess was doomed to extinction. You're stronger than anyone...",
+      "cn": "我的书房……我在这间荒凉房间的一个角落里发现了一株静谧公主……它耐心地等待了多少年——或许是几十年——才等到合适的环境，最终得以绽放？想当初我曾以为静谧公主注定要灭绝。你比任何人都坚强……"
+    },
+    {
+      "Number": "013",
+      "Voice Memory": "Memories at the Gazebo",
+      "Description": "I remember when this place had a blue roof... Daruk would be there, ready to lighten the mood, and Urbosa, standing by, was always ready to lead... Revali, so confrontational with Link at every opportunity, while Mipha watched the two of them with worry in her eyes... We can never return to that time, but I will forever hold memories like these dear.",
+      "cn": "我记得这个地方曾经有一个蓝色的屋顶……达尔克会在那里，随时准备活跃气氛；乌尔波扎站在一旁，总是准备好领导……力巴尔，一有机会就和林克针锋相对，而米法在一旁担忧地看着他们俩……我们再也回不到那个时候了，但我会永远珍藏这些回忆。"
+    },
+    {
+      "Number": "014",
+      "Voice Memory": "Castle Town Fountain",
+      "Description": "Though the central square has lain in ruins for a long time, I can still recall the bustling activity of the castle town like it was yesterday. At the center of this space was the fountain, fed by an underground waterway, though I suppose that has run dry...",
+      "cn": "虽然中央广场早已是一片废墟，但我仍然能像昨天一样回忆起城堡镇熙熙攘攘的景象。广场的中央是喷泉，由地下水道供水，不过我想那也已经干涸了……"
+    },
+    {
+      "Number": "015",
+      "Voice Memory": "Cathedral Reminiscence",
+      "Description": "The ruins of Hyrule Cathedral... I often came here to pray that my powers would finally awaken... Though this place does bring me comfort, I also feel bitter at my many unanswered prayers...",
+      "cn": "海拉鲁大教堂的废墟……我常常来这里祈祷我的力量能最终觉醒……虽然这个地方确实带给我安慰，但我也为许多未被回应的祈祷感到痛苦……"
+    },
+    {
+      "Number": "016",
+      "Voice Memory": "Requiem for the Dead",
+      "Description": "A memorial... It is said that spirits who are weighed down with regret when they pass on sink deep beneath the ground and wander in search of light... I will place similar memorials at scenes of great loss and pray they will bring light to those wandering souls.",
+      "cn": "一座纪念碑……据说，当灵魂带着悔恨离世时，会沉入地底深处，徘徊着寻找光明……我会在那些遭受巨大损失的地方放置类似的纪念碑，并祈祷它们能为那些流浪的灵魂带来光明。"
+    },
+    {
+      "Number": "017",
+      "Voice Memory": "Barred from the Prison",
+      "Description": "Ever since I was a child, I was always forbidden from crossing the bridge over the moat to reach Castle Town Prison, so today is the first time I have ever set foot here. The Calamity has not spared this place, leaving behind only these scorched columns...but perhaps that is for the best. Perhaps Hyrule no longer has need of a prison.",
+      "cn": "从小，我就被禁止穿过护城河上的桥去往城堡镇监狱，所以今天是我第一次踏足此地。灾厄并未放过这个地方，只留下了这些烧焦的柱子……但也许这样也好。也许海拉鲁不再需要监狱了。"
+    },
+    {
+      "Number": "018",
+      "Voice Memory": "Our Responsibility",
+      "Description": "This was once an impressive research site, but after being devastated by the Calamity, it is now known as the Royal Ancient Lab Ruins. Purah in particular has lamented the knowledge and samples that were lost here, but we can start again. It's our turn to build something we can leave to future generations.",
+      "cn": "这里曾经是一个令人印象深刻的研究基地，但在被灾厄摧毁后，现在被称为皇家古代实验室遗迹。普尔亚尤其为这里失去的知识和样本感到惋惜，但我们可以重新开始。现在轮到我们为子孙后代留下一些东西了。"
+    },
+    {
+      "Number": "019",
+      "Voice Memory": "Maritta Memorial",
+      "Description": "The land here has been trampled by monsters. With the deep valley nearby and the Rito already watching over the area, there seemed little need for additional protection. Unfortunately, that proved an incorrect assumption. I pray that those who lost their lives here found peace with Goddess Hylia...",
+      "cn": "这里的土地被怪物践踏过。附近有深谷，利特族人也已经在监视这片区域，所以似乎不需要额外的保护。不幸的是，这被证明是一个错误的假设。我祈祷那些在这里丧生的人们能与海利亚女神同享安宁……"
+    },
+    {
+      "Number": "020",
+      "Voice Memory": "Solitary Moving Stable",
+      "Description": "While long ago, all the stables would pack up and move as the flow of travelers shifted, only Serenne Stable continues this tradition today. In fact, they are planning to move to one of the new roads built to support the construction of a Skyview Tower. They are very busy preparing for the move, but I must remember to visit them again once things have settled.",
+      "cn": "很久以前，所有的驿站都会随着旅行者流动的变化而打包搬迁，如今只有雪原驿站还在延续这个传统。事实上，他们正计划搬到为支持瞭望塔建造而修建的一条新路上。他们正忙着为搬家做准备，但我必须提醒自己，等事情安定下来后，要再去拜访他们。"
+    },
+    {
+      "Number": "021",
+      "Voice Memory": "Slumbering Ruins",
+      "Description": "Thyphlo Ruins was once covered in darkness. Perhaps it disappeared along with the shrine and the trial... Regardless, these large ruins were almost certainly unexplored thanks to that darkness. With it gone, dedicated research of this site can begin in earnest!",
+      "cn": "提夫洛遗迹曾被黑暗笼罩。也许它随着神庙和试炼一起消失了……不管怎样，由于那片黑暗，这些巨大的遗迹几乎肯定未经探索。随着黑暗的消失，对这个遗址的专门研究可以正式开始了！"
+    },
+    {
+      "Number": "022",
+      "Voice Memory": "Importance of Fossil Studies",
+      "Description": "The Eldin Great Skeleton... Geological surveys of Hyrule have largely been at a standstill, but they could be incredibly valuable! Through careful study, we could identify extinction events and their causes... We could see evidence of environmental changes or disasters and possibly prevent them from happening again! And this all ties back to fossils. We simply must put more effort into their study.",
+      "cn": "奥尔汀大化石……海拉鲁的地质调查基本上处于停滞状态，但它们可能非常有价值！通过仔细研究，我们可以识别灭绝事件及其原因……我们可以看到环境变化或灾难的证据，并可能防止它们再次发生！而这一切都与化石有关。我们必须在化石研究上投入更多精力。"
+    },
+    {
+      "Number": "023",
+      "Voice Memory": "Forgotten Temple",
+      "Description": "This structure was clearly designed to take advantage of the geography of the area, but even the interior is largely intact! Considering how many battles have been fought... Well, it is very impressive. Seeing it reminds me of some very, very old records I've read. They suggest that there was a temple named for the first queen of Hyrule, and that it was often used as a shelter for the common people. Could this be...",
+      "cn": "这座建筑显然是为了利用该地区的地理优势而设计的，但即使是内部也基本完好无损！考虑到这里曾发生过多少次战斗……嗯，这非常令人印象深刻。看到它让我想起我读过的一些非常古老的记录。记录显示，曾有一座以海拉鲁第一位女王命名的神庙，并且它经常被用作平民的避难所。难道这里就是……"
+    },
+    {
+      "Number": "024",
+      "Voice Memory": "Bearing the Name North Lomei",
+      "Description": "The North Lomei Labyrinth is a harsh environment and an unsurprisingly labyrinthine structure... It has high walls but is otherwise unlike most fortifications. It did once hold an ancient relic meant for the bearer of the sword that seals the darkness, so perhaps it was a trial or test of some kind? I may just have to ask Link to investigate...",
+      "cn": "北洛美迷宫环境恶劣，其结构不出所料地错综复杂……它有高墙，但除此之外与大多数防御工事不同。它曾存放过一件为封印黑暗之剑的持有者准备的古代遗物，所以也许这是一种试炼或考验？我也许得请林克去调查一下……"
+    },
+    {
+      "Number": "025",
+      "Voice Memory": "Goflam's Secret Hot Spring",
+      "Description": "A hot spring hidden deep within the mountain. I heard the pained cries of an animal and have now found an injured horse soothing its wounds in the refreshing waters. I had meant to investigate the immense skeleton on the northern summit, but this horse seems so friendly... Oh, the skeleton isn't going anywhere. Now how far away is the nearest stable...",
+      "cn": "深藏在山中的一个温泉。我听到了动物痛苦的叫声，现在发现一匹受伤的马正在清凉的水中舒缓伤口。我本来打算调查北边山顶上的巨大骨架，但这匹马看起来很友好……哦，骨架又不会跑掉。现在，最近的驿站在哪里呢……"
+    },
+    {
+      "Number": "026",
+      "Voice Memory": "The Golden Horse",
+      "Description": "I came upon an injured horse and brought it to Snowfield Stable to be treated. I had hoped to bring it with me on my travels, but it needed more time to recover, so instead I offered a prayer that some kindhearted person would come to care for it. I may have also said a prayer—one I learned from Mother—to help with its mane.",
+      "cn": "我遇到一匹受伤的马，把它带到雪原驿站进行治疗。我本希望带它一起旅行，但它需要更多时间恢复，所以我只好祈祷某个好心人会来照顾它。我也许还念了一个祷文——从母亲那里学来的——来帮助它的鬃毛。"
+    },
+    {
+      "Number": "027",
+      "Voice Memory": "Galli's Worries",
+      "Description": "I spoke with Galli at Rito Stable, who seems worried about whether he can keep the stable open, though it sounds like he's had an offer to sell it to a newspaper, of all things... In any case, Hyrule is all the better with newspapers and stables; maybe the two can find a way to coexist here.",
+      "cn": "我和利特驿站的盖利聊过，他似乎担心是否能继续经营驿站，不过听起来他收到了一个把它卖给报社的提议，真是没想到……无论如何，海拉鲁有报纸和驿站会更好；也许这两者能在这里找到共存的方式。"
+    },
+    {
+      "Number": "028",
+      "Voice Memory": "Wings Soaring the Skies",
+      "Description": "A hundred years ago, the Divine Beast Vah Medoh soared through the sky, and the Rito Champion, Revali, was ever quick to celebrate his skill as its pilot. Many may have been put off by his bravado, but I found it encouraging; there were often subtle signs that he was someone who worked hard, unseen, to be certain he could back up his bluster.",
+      "cn": "一百年前，神兽瓦·梅德翱翔于天际，利特英杰力巴尔总是急于炫耀他作为驾驶员的技巧。许多人可能对他的自吹自擂感到反感，但我却觉得这很鼓舞人心；常常有细微的迹象表明，他是一个在背后默默努力的人，以确保他的豪言壮语并非空谈。"
+    },
+    {
+      "Number": "029",
+      "Voice Memory": "Honoring Revali",
+      "Description": "Revali... You were always quickest to rush to my side when I struggled. I'm sorry I wasn't able to help you when you were in need. You being you, I imagine you shrugged off waiting a hundred years like it was the smallest inconvenience... You were so tough on Link to make sure he could protect me, weren't you?",
+      "cn": "力巴尔……在我挣扎的时候，你总是最快冲到我身边。对不起，在你需要的时候我没能帮助你。以你的性格，我想你把等待一百年当作最小的不便而一笑置之……你对林克那么严厉，是为了确保他能保护我，不是吗？"
+    },
+    {
+      "Number": "030",
+      "Voice Memory": "His Name...",
+      "Description": "Ah, Rito Village. Hometown of Revali, the Rito Champion. It seems he is spoken of as a legend here, and his bow is an honor bestowed on the best Rito warrior. You did hate other people talking about you, Revali, but I'm afraid your story will live on here for quite some time still...",
+      "cn": "啊，利特村。利特英杰力巴尔的故乡。看来他在这里被传为佳话，而他的弓是授予最优秀的利特战士的荣誉。力巴尔，你确实讨厌别人谈论你，但我恐怕你的故事还会在这里流传很久……"
+    },
+    {
+      "Number": "031",
+      "Voice Memory": "Revali's Landing",
+      "Description": "This plaza has been named after Revali. It's said that he boarded the Divine Beast from here the day the Calamity began, and for that reason, and in his honor, it was given its name. The fact that the design on the ground has been carefully maintained and unchanged for a hundred years shows the immense respect the village holds for their legendary warrior.",
+      "cn": "这个广场以力巴尔的名字命名。据说，灾厄开始的那天，他就是从这里登上神兽的，因此，为了纪念他，广场便以此命名。地上的图案一百年来都被精心维护、未曾改变，这显示了村庄对这位传奇战士的无比尊敬。"
+    },
+    {
+      "Number": "032",
+      "Voice Memory": "The Future Elder",
+      "Description": "Kaneli, the village elder of the Rito, told me that he intends to pass his role on to Teba. He hadn't believed that a single Rito could serve both as the elder and the protector of the village at the same time. But when he saw Link and Teba face Medoh... Needless to say, he has no concerns whether the Rito will be in good hands with Teba.",
+      "cn": "利特村的长老肯尼利告诉我，他打算把自己的职位传给特巴。他曾不相信一个利特人可以同时担任村庄的长老和守护者。但当他看到林克和特巴面对梅德时……不用说，他毫不担心利特村在特巴手中是否安好。"
+    },
+    {
+      "Number": "033",
+      "Voice Memory": "A Warrior to Aspire To",
+      "Description": "Many of the Rito aspire to be like Revali, and most of the children follow his example and practice with the bow. The Flight Range is where they do the majority of their training. Though he always claimed the practice range was only meant for him, he did strive to make a better world for future generations, and that dream lives on here.",
+      "cn": "许多利特人都渴望成为像力巴尔一样的人，大多数孩子都以他为榜样练习弓箭。飞行训练场是他们进行大部分训练的地方。尽管他总是声称训练场只为他一人而设，但他确实努力为后代创造一个更美好的世界，而那个梦想在这里得以延续。"
+    },
+    {
+      "Number": "034",
+      "Voice Memory": "Scar from 10,000 Years Ago",
+      "Description": "When I look at the Hebra Mountains now, I can accept something I couldn't one hundred years ago; the energy blast that shaped the peak 10,000 years in the past indeed came from the castle. Perhaps these mountains were always trying to teach us about the past... I should put together a survey team to investigate and make sure we aren't missing any other such messages.",
+      "cn": "现在当我看着海布拉山脉时，我能接受一百年前无法接受的事情；一万年前塑造了山峰的能量冲击确实来自城堡。也许这些山脉一直在试图教导我们关于过去的事情……我应该组织一个调查队进行调查，确保我们没有错过任何其他类似的信息。"
+    },
+    {
+      "Number": "035",
+      "Voice Memory": "Regret and Repentance",
+      "Description": "These ancient columns mark where a shrine once stood... Before the Calamity, when I was frantically searching ruins, I would often seek hard-to-reach places. Despite this, Link always managed to find me. I was so terrible to him then... And of course when I apologized for it later, he reassured me that he didn't mind. I regret putting him through that.",
+      "cn": "这些古老的柱子标志着一座神庙曾经矗立的地方……在灾厄之前，当我疯狂地搜寻遗迹时，我常常去那些难以到达的地方。尽管如此，林克总能找到我。那时我对他太刻薄了……当然，当我后来为此道歉时，他安慰我说他不介意。我后悔让他经历了那些。"
+    },
+    {
+      "Number": "036",
+      "Voice Memory": "Worries of a Caretaker",
+      "Description": "Tabantha Bridge Stable was built when the Tabantha Great Bridge was repaired after many years of neglect. However, the bridge was destroyed during the Calamity and only recently reopened, so the manager here is worried that no one knows about his stable. He purchased some goats and is trying to develop a signature dish using goat-milk butter, but there are definitely some things he needs to learn about the animals...",
+      "cn": "塔邦挞大桥驿站是在塔邦挞大桥经过多年失修后修复时建造的。然而，大桥在灾厄期间被毁，直到最近才重新开放，所以这里的经理担心没人知道他的驿站。他买了一些山羊，正试图用羊奶黄油开发一道招牌菜，但他肯定还需要学习一些关于这些动物的知识……"
+    },
+    {
+      "Number": "037",
+      "Voice Memory": "The Plateau Where Thunder Fell Silent",
+      "Description": "Thundra Plateau was so named for the endless rolling thunder that used to echo across it. I was hesitant to even come here, but with the thunder gone, this place is...incredibly peaceful. I wonder if the thunder was connected to the shrine that was here before... Maybe it was some sort of test.",
+      "cn": "萨菲亚斯台地因曾经回荡其上的无尽雷鸣而得名。我甚至曾犹豫是否要来这里，但随着雷声的消失，这个地方……异常宁静。我好奇这雷声是否与之前的神庙有关……也许是某种考验。"
+    },
+    {
+      "Number": "038",
+      "Voice Memory": "Learning to Have an Open Heart",
+      "Description": "Link often used the vast meadows of the Sanidin Park Ruins to help me practice horse handling. I recall thinking there was little I could learn from him. After all, I am quite capable on horseback. However, it wasn't technique he was showing me but rather deeper lessons in compassion.",
+      "cn": "林克经常利用撒丁公园遗迹广阔的草地帮助我练习骑马。我记得当时认为自己从他身上学不到什么。毕竟，我的马术相当不错。然而，他向我展示的并非技巧，而是更深层次的关于同情心的课程。"
+    },
+    {
+      "Number": "039",
+      "Voice Memory": "Spreading Cherry Blossoms",
+      "Description": "The Satori Mountain cherry blossom tree... While there were only two of these trees before, there seem to be many more now. However, it is said that cherry blossoms can purify evil... Does that mean more are appearing because the Calamity has disappeared, or are they appearing in preparation for some new threat?",
+      "cn": "萨托利山的樱花树……以前这里只有两棵这样的树，但现在似乎多了很多。然而，据说樱花可以净化邪恶……这是不是意味着因为灾厄消失了才出现更多，还是它们正在为某个新的威胁做准备？"
+    },
+    {
+      "Number": "040",
+      "Voice Memory": "The \"Meet-Up\" Stable",
+      "Description": "This stable is called Outskirt Stable, but the Gerudo apparently refer to it as the \"meet-up stable.\" Urbosa told me that this is where many vai see voe for the first time. Perhaps the stable master knows this, and that's why a map to cherry-blossoms—quite the romantic setting—is on display...",
+      "cn": "这个驿站叫做平原外围的驿站，但格鲁德人显然称之为“相遇驿站”。乌尔波扎告诉我，这里是许多“vai”（女）第一次见到“voe”（男）的地方。也许驿站长知道这一点，所以才展示了一张通往樱花树的地图——一个相当浪漫的场景……"
+    },
+    {
+      "Number": "041",
+      "Voice Memory": "Harsh Lands",
+      "Description": "The dried rock face of the entrance to Gerudo Canyon shows how little rain this region gets. While it may not be so perilously hot as to require advanced elixirs, the sweltering air does strike you the moment you set foot here, and it serves as a warning of the rugged desert ahead.",
+      "cn": "格鲁德峡谷入口处干涸的岩壁显示出这个地区降雨量是多么稀少。虽然这里可能还没有热到需要高级药剂的危险程度，但你一踏足这里，闷热的空气便会袭来，这是对前方崎岖沙漠的警告。"
+    },
+    {
+      "Number": "042",
+      "Voice Memory": "Vah Naboris Excavation Site",
+      "Description": "This is where Divine Beast Vah Naboris was found. According to the Gerudo Champion, Urbosa, controlling the Divine Beast was similar in practice to how she controlled lightning. Both required considerable force of will, but with the Divine Beast, it was much, much more difficult.",
+      "cn": "这里是神兽瓦·娜波力斯的发现地。根据格鲁德英杰乌尔波扎的说法，控制神兽在实践中与她控制闪电的方式相似。两者都需要相当大的意志力，但控制神兽要困难得多得多。"
+    },
+    {
+      "Number": "043",
+      "Voice Memory": "Monsters in the Well",
+      "Description": "There have been reports of monsters in the well here at Gerudo Canyon Stable, and though we have sealed the entrance of their den with rocks, I doubt that is a permanent solution... As an additional measure, I have also told the stable manager to avoid using the well. It will be inconvenient, but safety is of the highest priority.",
+      "cn": "据报，格鲁德峡谷驿站的井里有怪物，虽然我们用石头封住了它们巢穴的入口，但我怀疑这并非长久之计……作为额外的措施，我也告诉了驿站长不要使用那口井。这会带来不便，但安全是第一位的。"
+    },
+    {
+      "Number": "044",
+      "Voice Memory": "Gerudo Desert",
+      "Description": "It may be my imagination, but it feels like there is even more heat in the air here than in the past. And despite that oppressive heat and the seemingly desolate environment, I believe there is more vitality in this desert than anywhere else. Perhaps I feel this way because I have seen the strength of those who call this place home.",
+      "cn": "也许是我的想象，但感觉这里的空气比过去更热了。尽管有那令人窒息的炎热和看似荒凉的环境，我相信这片沙漠比任何地方都更有活力。也许我这么觉得，是因为我见证了那些把这里称为家的人们的力量。"
+    },
+    {
+      "Number": "045",
+      "Voice Memory": "Desert Oasis",
+      "Description": "Nowadays, it seems Riju has Kara Kara Bazaar well protected with diligent soldiers, but when I came here a hundred years ago, the traders who frequented this place were on their own. I was fortunate that Urbosa herself served as my bodyguard.",
+      "cn": "如今，似乎露珠用勤奋的士兵把卡拉卡拉集市保护得很好，但一百年前我来这里时，常来此地的商人们只能靠自己。我很幸运，有乌尔波扎亲自做我的保镖。"
+    },
+    {
+      "Number": "046",
+      "Voice Memory": "The Young Chief",
+      "Description": "The main settlement of the Gerudo, Gerudo Town, is ruled by Chief Riju. Though young, she seems to be working hard in service to her people, overcoming both the Divine Beast and the threat the Yiga Clan posed. In fact, the town is more lively than ever! It is...humbling to see her face such challenges. When Mother died, I was inconsolable...",
+      "cn": "格鲁德族的主要聚居地，格鲁德小镇，由族长露珠统治。尽管年轻，她似乎在为她的人民努力工作，克服了神兽和伊盖队构成的威胁。事实上，小镇比以往任何时候都更有活力！看到她面对这样的挑战，真是……令人敬佩。当母亲去世时，我曾悲痛欲绝……"
+    },
+    {
+      "Number": "047",
+      "Voice Memory": "An Audience With Riju",
+      "Description": "The current chief of the Gerudo, Riju, used to have long hair reaching all the way to her waist—a style only permitted to Gerudo royalty. Today, however, she wears it cut short. I believe this is both in penance for not being able to stop the Divine Beast or the Yiga Clan on her own, but also to give herself a goal to aspire to. By the time her hair grows long again, she must be a strong chief like Urbosa was.",
+      "cn": "现任格鲁德族长露珠过去留着及腰长发——这是只有格鲁德王室才允许的发型。然而今天，她却剪了短发。我相信这既是为自己没能独自阻止神兽或伊盖队而做的忏悔，也是为了给自己设定一个追求的目标。当她的头发再次长长时，她必须成为像乌尔波扎那样坚强的族长。"
+    },
+    {
+      "Number": "048",
+      "Voice Memory": "Patricia",
+      "Description": "Riju's beloved sand seal, Patricia, was apparently a gift from her mother. They seem to have formed a close bond over the many years of Riju's studies and training. I...think they can even communicate with one another, though I am not able to understand Patricia at all.",
+      "cn": "露珠心爱的沙海象帕特丽夏显然是她母亲送的礼物。在露珠多年学习和训练的过程中，她们似乎建立了亲密的联系。我……觉得她们甚至可以互相交流，尽管我完全听不懂帕特丽夏在说什么。"
+    },
+    {
+      "Number": "049",
+      "Voice Memory": "Gerudo Soldier Training",
+      "Description": "These are the barracks for Gerudo soldiers. Riju recently spoke of wanting to improve the training her soldiers receive, sharing, too, how she has been frustrated with the results so far. Hearing this, I told her of how Urbosa always felt the Gerudo should be more in touch with the desert. A look of realization crossed Riju's face, and then she spent some time studying a map. It seems Urbosa can offer wise guidance even a hundred years later.",
+      "cn": "这是格鲁德士兵的兵营。露珠最近谈到想改进士兵的训练，也分享了她对目前结果的失望。听到这些，我告诉她乌尔波扎总是觉得格鲁德人应该更亲近沙漠。露珠脸上掠过一丝恍然大悟的神情，然后她花了一些时间研究地图。看来乌尔波扎即使在一百年后也能提供明智的指导。"
+    },
+    {
+      "Number": "050",
+      "Voice Memory": "Memories of the Sand Seals",
+      "Description": "Riju complimented my technique when handling a sand seal, a skill I only possess thanks to the training Urbosa gave me so long ago. I then told Riju of the time I forgot a shield and was left behind by both my sand seal and Urbosa, and the young girl doubled over laughing! I still sometimes forget that this \"young girl\" is chief of her people.",
+      "cn": "露珠称赞我驾驭沙海象的技巧，这项技能我之所以拥有，全靠乌尔波扎很久以前给我的训练。然后我告诉露珠，有一次我忘了带盾牌，结果被我的沙海象和乌尔波扎都甩在了后面，那个小女孩笑得前仰后合！我有时仍然会忘记，这个“小女孩”是她人民的族长。"
+    },
+    {
+      "Number": "051",
+      "Voice Memory": "Another Attempt, 100 Years Later",
+      "Description": "I tried once again to get the popular Gerudo Town drink, Noble Pursuit, and I was once again told I was not ready for it yet. They did tell me I should come back when the young Gerudo children who have been living abroad return to town. Apparently some special drinks will be prepared for their arrival, and I should ask again then...",
+      "cn": "我又试了一次，想尝尝格鲁德镇的热门饮品“至高追求”，但又一次被告知我还不够资格。他们确实告诉我，等那些旅居国外的格鲁德年轻孩子们回到镇上时，我应该再来。据说届时会为她们的归来准备一些特别的饮品，到那时我应该再问问看…"
+    },
+    {
+      "Number": "052",
+      "Voice Memory": "Mysterious Ruins",
+      "Description": "The North Gerudo Ruins are connected to Gerudo Town via an underground pathway that Riju showed me. She told me it was an escape route in the event of an emergency, but that short of some immense disaster, she couldn't imagine using it for such a purpose. She laughed as she said this, and though she seemed unconcerned in the moment, it's clear the safety of her people is never far from her mind.",
+      "cn": "北格鲁德遗迹通过一条地下通道与格鲁德镇相连，是璐菊指给我看的。她告诉我这是一条紧急情况下的逃生路线，但除非发生天大的灾难，否则她无法想象会因此而使用它。她笑着这么说，虽然那一刻她看起来毫不在意，但很明显，她子民的安全始终是她最关心的事。"
+    },
+    {
+      "Number": "053",
+      "Voice Memory": "Exploring Where the Chasm Leads",
+      "Description": "This is the chasm located near Birida Lookout... There are records that suggest ancient people lived far below ground in the Depths, and I suspect holes such as this one could connect the surface to that place... But if I want to find evidence proving my theories, I will need researchers wholly dedicated to the task. I should speak with Purah to see if she knows anyone qualified and capable of tackling this...",
+      "cn": "这是位于比里达瞭望台附近的深穴……有记录表明，古代人曾生活在地下的深渊之中，我怀疑像这样的洞穴可能将地表与那个地方连接起来……但如果我想找到证据来证明我的理论，我需要一支全心投入此项任务的研究团队。我应该和普尔亚谈谈，看她是否认识能够胜任并有能力解决这个问题的人……"
+    },
+    {
+      "Number": "054",
+      "Voice Memory": "Desert Watchtower",
+      "Description": "This lookout post was supposedly originally built to keep watch on Divine Beast Vah Naboris as it lumbered through the desert, but now it is a place to observe changes in the desert landscape. I've heard it is tall enough to see above the worst sandstorms, and between this place and the lighthouse Riju has planned for Kara Kara Bazaar, safely traveling the desert should become easier soon.",
+      "cn": "据说这个瞭望哨最初是为了监视神兽瓦·娜波力斯在沙漠中蹒跚行进而建造的，但现在它成了观察沙漠景观变化的地方。我听说它足够高，可以越过最猛烈的沙尘暴，有了这个地方和璐菊计划为卡拉卡拉集市建造的灯塔，在沙漠中安全旅行应该很快就会变得更容易。"
+    },
+    {
+      "Number": "055",
+      "Voice Memory": "Concerning the Fossils",
+      "Description": "The immense Gerudo Great Skeleton lies here. Legends say that long, long ago, Hyrule was actually the bottom of a vast ocean. Considering the marine fossils that have been found across the world, I see little reason to doubt this. Except...it seems to me that there are too few fossils. Maybe sea life found routes even deeper? Maybe through chasms like the one near Birida Lookout? Maybe as far as the Depths... No, I'm getting carried away.",
+      "cn": "巨大的格鲁德大化石就在这里。传说很久很久以前，海拉鲁实际上是一个浩瀚海洋的底部。考虑到世界各地发现的海洋化石，我没什么理由怀疑这一点。除非……在我看来，化石似乎太少了。也许海洋生物找到了更深的路径？也许是通过像比里达瞭望台附近那样的深穴？也许一直到了地底深渊……不，我想得太远了。"
+    },
+    {
+      "Number": "056",
+      "Voice Memory": "Bearing the Name South Lomei",
+      "Description": "South Lomei Labyrinth is one of three ruins in Hyrule that have been named after Lomei. Each are incredibly complex in design and present harsh environments, which make them very difficult to explore. That said, they may contain important ancient relics, so it would be best to send out a dedicated survey team here.",
+      "cn": "南洛美迷宫是海拉鲁三个以洛美命名的遗迹之一。每一个的设计都极其复杂，环境恶劣，使得探索非常困难。话虽如此，它们可能包含重要的古代遗物，所以最好派一个专门的调查队到这里来。"
+    },
+    {
+      "Number": "057",
+      "Voice Memory": "Honoring Urbosa",
+      "Description": "I finally get to see all these amazing sights you saw, Urbosa. I wish that it hadn't cost what it did... But thanks to the things you—and everyone else—taught me, and the time we spent together, I can move forward with my head held high. Thanks to you, I am going to be OK... Could you tell my mother that for me, please?",
+      "cn": "我终于能看到你所见过的所有这些奇妙的景象了，乌尔波扎。我希望这一切没有付出那么大的代价……但是多亏了你——以及其他人——教给我的东西，还有我们在一起的时光，我才能昂首挺胸地前进。多亏了你，我会没事的……能请你替我告诉我妈妈吗？"
+    },
+    {
+      "Number": "058",
+      "Voice Memory": "Outpost Memorial",
+      "Description": "This area was once alive and bustling with activity. There were several inns nearby, and the roads were busy with soldiers from the local garrison or travelers heading for the Temple of Time. Nowadays, only the wind moves through this place... I pray everyone who passed through here has found peace with Goddess Hylia.",
+      "cn": "这个地区曾经生机勃勃，熙熙攘攘。附近有几家旅馆，路上满是当地驻军的士兵或前往时之神殿的旅人。如今，只有风吹过这个地方……我祈祷所有经过这里的人都能在海利亚女神那里找到安宁。"
+    },
+    {
+      "Number": "059",
+      "Voice Memory": "Birthplace of Hyrule",
+      "Description": "The passage up to the Great Plateau has been filled with dirt and rocks. Certainly some of this damage was caused by the Guardians' invasion, but some of the debris looks to have been placed deliberately. I imagine the intention was to keep as many monsters as possible from reaching the Great Plateau, where Link recovered in the Shrine of Resurrection. But...how am I supposed to reach the Great Plateau now?",
+      "cn": "通往初始台地的通道已经被泥土和岩石填满了。当然，部分损坏是由守护者的入侵造成的，但有些碎片看起来是被人为放置的。我想其意图是尽可能阻止怪物到达初始台地，林克就是在复苏神庙中恢复的。但是……我现在该怎么到达初始台地呢？"
+    },
+    {
+      "Number": "060",
+      "Voice Memory": "The Hero Awakened",
+      "Description": "It was here in the Shrine of Resurrection that ancient Sheikah technology preserved Link's life. I was able to clearly sense when he woke from his hundred-year slumber, and I am so happy that my voice could reach him...",
+      "cn": "正是在这复苏神庙里，古代希卡技术保住了林克的性命。我能清楚地感觉到他从百年沉睡中醒来，我很高兴我的声音能传达到他那里……"
+    },
+    {
+      "Number": "061",
+      "Voice Memory": "The Passage of Time",
+      "Description": "There are several ancient texts and works of literature that speak of the Temple of Time by name, but all of them describe a structure that differs in design from the one we see today. Hyrule's history is long, and this discrepancy is one of the unsolved mysteries of our land...",
+      "cn": "有好几本古代文献和文学作品都提到了时之神殿的名字，但它们描述的建筑在设计上都与我们今天所见的不同。海拉鲁的历史悠久，而这个差异是我们这片土地上未解的谜团之一……"
+    },
+    {
+      "Number": "062",
+      "Voice Memory": "A King's Rest",
+      "Description": "Father's grave. I heard that stacking these rocks was the best that could be done for him... Well, they could not have picked a better place. That he will rest here, forever looking out over Hyrule... Mother, Father, though the land is still littered with ruins, I promise you that I will restore it. Please... watch over me as I do.",
+      "cn": "父亲的坟墓。我听说堆砌这些石头是能为他做的最好的事了……嗯，他们不可能选到比这更好的地方了。他将安息于此，永远俯瞰着海拉鲁……母亲，父亲，虽然这片土地上仍然遍布废墟，但我向你们保证，我会将它恢复。请……在我做这些的时候，守护着我。"
+    },
+    {
+      "Number": "063",
+      "Voice Memory": "The Hut's Owner",
+      "Description": "When I last visited this mountain hut a hundred years ago, I did not realize who the owner was. Now that I do, it explains why Father looked so troubled—even sad—when I described the building as \"shabby\" and in need of demolition. How could I have guessed it was his own little retreat... Though, looking at it now... Oh, Father, did you build this yourself?",
+      "cn": "一百年前我最后一次拜访这座山间小屋时，我并不知道主人是谁。现在我知道了，这就解释了为什么当我形容这栋建筑“破旧不堪”、需要拆除时，父亲看起来那么困扰——甚至悲伤。我怎么能猜到这是他自己的小隐居处呢……不过，现在看着它……哦，父亲，这是您亲手建造的吗？"
+    },
+    {
+      "Number": "064",
+      "Voice Memory": "Link's Trauma",
+      "Description": "Hopper Pond used to be filled with hot-footed frogs... Perhaps the monsters have driven them away? In any case, this is the place I finally managed to catch one. I was incredibly excited, and I tried to show Link, but he kept flinching and backing away from me...",
+      "cn": "霍珀池塘过去满是精力蛙……也许是怪物把它们赶走了？无论如何，我终于在这里抓到了一只。我兴奋极了，想拿给林克看，但他却不停地退缩，离我越来越远……"
+    },
+    {
+      "Number": "065",
+      "Voice Memory": "Unshaken Bravery",
+      "Description": "The Hyrule Garrison ruins... As with other fortified locations, many Guardians attacked this place. However, it is likely most of the soldiers normally stationed here had already been deployed to other regions. Those few who remained fought bravely, though they were certainly ill-equipped to deal with such deadly foes.",
+      "cn": "海拉鲁驻军遗迹……和其他防御要塞一样，许多守护者攻击了这里。然而，很可能大部分常驻于此的士兵早已被部署到其他地区。留下的少数人英勇作战，尽管他们肯定装备不足以对付如此致命的敌人。"
+    },
+    {
+      "Number": "066",
+      "Voice Memory": "Ancient Tree Stump",
+      "Description": "Previous archaeological investigations discovered a single ancient spear within this decaying tree trunk. It has stirred up spirited discussion among many researchers, but little additional information has been revealed, despite their piqued interest.",
+      "cn": "先前的考古调查在这个腐烂的树干中发现了一支古老的矛。这在许多研究人员中引发了热烈的讨论，但尽管他们兴趣盎然，却鲜有更多信息被揭示。"
+    },
+    {
+      "Number": "067",
+      "Voice Memory": "Precautions on Top of Precautions",
+      "Description": "When I told Purah of my plan to venture beneath the castle to investigate the gloom, she expressed... strong opposition. That Link would accompany me did not sway her in the slightest. It was only my suggestion to establish an outpost here—a place to observe the gloom from and to reach the hidden path beneath the castle—that earned her begrudging acceptance.",
+      "cn": "当我告诉普尔亚我计划到城堡下方去调查瘴气时，她表示……强烈反对。林克会陪我同去这件事丝毫没有动摇她。直到我提议在这里设立一个前哨站——一个可以观察瘴气并通往城堡下方密道的地方——她才勉强接受。"
+    },
+    {
+      "Number": "068",
+      "Voice Memory": "Surveyors Wanted!",
+      "Description": "This is one of the Skyview Towers that Purah designed to aid in the restoration of Hyrule. Though it is not quite finished, we have Hudson Construction to thank for how quickly it is coming along. Now if only Purah could have similar success finding any volunteers to use the paraglider to survey the land from above...",
+      "cn": "这是普尔亚为协助海拉鲁复兴而设计的监视堡垒之一。虽然还没有完全完工，但我们得感谢哈德逊建筑公司，让它进展得如此之快。现在只希望普尔亚在寻找愿意使用滑翔帆从空中勘测土地的志愿者方面也能同样成功……"
+    },
+    {
+      "Number": "069",
+      "Voice Memory": "Assembling the Survey Team",
+      "Description": "There are many things we can learn from history. After all, we would not have known to prepare for the Calamity if we had not studied ancient relics from our past. Knowing this, and having seen the passion of the archaeologists I have met on my travels, I have decided to form a team to survey ancient ruins and texts across Hyrule. I am sure there are many things we can learn from them as we restore the land.",
+      "cn": "我们可以从历史中学到很多东西。毕竟，如果我们没有研究过去的古代遗迹，我们就不会知道要为大灾厄做准备。知道了这一点，并且在我旅行中见证了考古学家的热情后，我决定组建一个团队，在海拉鲁各地勘测古代遗迹和文献。我相信在我们复兴这片土地的过程中，可以从中学到很多东西。"
+    },
+    {
+      "Number": "070",
+      "Voice Memory": "Materials Cache",
+      "Description": "It is critical that we repair Hyrule's roads and bridges. Unfortunately, despite the efforts of Hudson Construction and the Stable Association, we lack the labor to tackle this task. We are blessed with abundant resources, however, so we've established material caches dedicated to the rebuilding efforts and made them freely available.",
+      "cn": "修复海拉鲁的道路和桥梁至关重要。不幸的是，尽管哈德逊建筑公司和马厩协会付出了努力，我们仍然缺乏完成这项任务的劳动力。然而，我们拥有丰富的资源，因此我们设立了专门用于重建工作的材料储备点，并免费提供。"
+    },
+    {
+      "Number": "071",
+      "Voice Memory": "Flavor Memories",
+      "Description": "The ruins of Mabe Village... It was the farm closest to the castle, and I would often visit it incognito. They always shared far more food than I could possibly eat, and I remember that they treated their animals like members of their family. I imagine no one here fled alone when the time came...",
+      "cn": "梅贝村的遗迹……这是离城堡最近的农场，我常常微服私访。他们总是分享多到我吃不完的食物，我记得他们把动物当成家人一样对待。我想，当那一刻来临时，这里没有人是独自逃离的……"
+    },
+    {
+      "Number": "072",
+      "Voice Memory": "New Sprouts",
+      "Description": "This forest park was the direct responsibility of the royal family, cared for and built upon by each successive generation of rulers. Though it has been partially destroyed by fire, that does not spell the end of our ancestors' legacy. In fact, I believe I caught sight of some new growth emerging already.",
+      "cn": "这座森林公园由王室直接负责，历代统治者都对其进行照料和建设。尽管它已部分被火烧毁，但这并不意味着我们祖先遗产的终结。事实上，我相信我已经看到了新芽的萌发。"
+    },
+    {
+      "Number": "073",
+      "Voice Memory": "Rauru Settlement Memorial",
+      "Description": "Although the soldiers at the training camp fought back, this settlement was burned to the ground by a single rampaging Guardian. The loose ground has left little trace of the heroic battle they waged... I pray their brave spirits have found peace with Goddess Hylia.",
+      "cn": "尽管训练营的士兵们奋力反击，这个聚落还是被一个横冲直撞的守护者夷为平地。松软的土地几乎没有留下他们英勇战斗的痕迹……我祈祷他们勇敢的灵魂能在海利亚女神那里找到安宁。"
+    },
+    {
+      "Number": "074",
+      "Voice Memory": "The Stable Trotters",
+      "Description": "I'll always remember Woodland Stable. It is where I saw the president of the Stable Association's grandson swinging a baton around. It seems he has formed a band, gathering one musician after another. While his mannerisms are clumsy, others are enthralled by his appearance and enthusiasm. Once I have finished my investigation, I should try to see them perform.",
+      "cn": "我永远会记得森林驿站。在那里我看到马厩协会会长的孙子在挥舞着指挥棒。他似乎组建了一支乐队，一个接一个地召集音乐家。虽然他的举止笨拙，但其他人却被他的外表和热情所吸引。等我调查结束后，我应该去看看他们的表演。"
+    },
+    {
+      "Number": "075",
+      "Voice Memory": "A Prayer for Brave Soldiers",
+      "Description": "This was an important training camp in the days before the Calamity. It is said that when the Calamity occurred, all of the veteran soldiers had been deployed and only trainees remained here. Despite their inexperience, the brave trainees worked together and defeated a Guardian. I pray their souls have found peace...",
+      "cn": "在大灾厄发生前的日子里，这是一个重要的训练营。据说，当大灾厄发生时，所有老兵都已被部署出去，只剩下学员留在这里。尽管缺乏经验，勇敢的学员们齐心协力，击败了一个守护者。我祈祷他们的灵魂得到安息……"
+    },
+    {
+      "Number": "076",
+      "Voice Memory": "A New Route",
+      "Description": "This area used to be covered in lava and was largely unapproachable, but now that the volcanic eruptions have subsided, even Hylians can come here without taking fire-resistance measures. Thus, the new path! I've heard there are even plans for new shops along the road; this place is about to see some significant changes.",
+      "cn": "这个地区过去被熔岩覆盖，基本上无法接近，但现在火山喷发已经平息，即使是海利亚人也可以不采取防火措施就来到这里。因此，有了新的道路！我听说甚至有计划在路边开设新店；这个地方即将发生一些重大变化。"
+    },
+    {
+      "Number": "077",
+      "Voice Memory": "Rock Connoisseurs",
+      "Description": "When I was preparing to come here to Goron City, I bought lots of fireproof elixirs to counter the extreme heat. It's a relief to see those are no longer needed. One thing that hasn't changed, though, is the Gorons' love of eating rocks. Seeing it now, I am reminded of when Daruk gave Link a rock to eat... and he did!",
+      "cn": "当我准备来鼓隆城时，为了抵御酷热，我买了很多防火药。看到现在不再需要它们，我松了一口气。不过，有一件事没有变，那就是鼓隆人对吃石头的热爱。现在看到这一幕，我想起了达尔克给林克一块石头吃……而他还真的吃了！"
+    },
+    {
+      "Number": "078",
+      "Voice Memory": "A Familiar Visage",
+      "Description": "I was surprised when I first saw Yunobo. The young Goron is built just like his grandfather, and I nearly shouted \"Daruk!\" in excitement. Of course, he doesn't have the same bold spirit Daruk had, but he is an honest boy with a truly kind heart.",
+      "cn": "我第一次见到阿陨时很惊讶。这个年轻的鼓隆人长得和他祖父一模一样，我兴奋得差点喊出“达尔克！”。当然，他没有达尔克那种大胆的精神，但他是一个诚实、心地善良的男孩。"
+    },
+    {
+      "Number": "079",
+      "Voice Memory": "Peak Protein Provisions",
+      "Description": "This restaurant specializes in grilling various foods, though it seems they are planning on leaving this location to a skilled chef and opening a new shop along the road. Since they were moving on, they were kind enough to give me a seared steak as a gift.",
+      "cn": "这家餐厅专门烤制各种食物，不过他们似乎计划把这个地方留给一位技术娴熟的厨师，然后在路边开一家新店。因为他们要搬走，所以好心地送了我一块烤肉排作为礼物。"
+    },
+    {
+      "Number": "080",
+      "Voice Memory": "Blacksmith on Retainer",
+      "Description": "This is the large sword that Daruk carried with him. He always held it as though it was light as a feather, but I believe it is actually a Boulder Breaker he had custom-made to be twice as heavy as normal! Not only that, but when he became a Champion, he increased its weight even more. Hmm... There is a certain symbolism in this. Daruk was bold and friendly, but he carried an incredible weight without concern or complaint.",
+      "cn": "这是达尔克随身携带的大剑。他总是举重若轻，但我相信这其实是一把碎岩巨剑，是他定制的比普通重一倍的！不仅如此，当他成为英杰后，他又增加了它的重量。嗯……这里面有一定的象征意义。达尔克勇敢而友好，但他毫无顾虑或怨言地承受着巨大的重量。"
+    },
+    {
+      "Number": "081",
+      "Voice Memory": "Honoring Daruk",
+      "Description": "Oh, Daruk... Link told me of when your spirit was released. I am so sorry that you worried after me all the way to the end, and I cannot thank you enough for keeping the promise you made a hundred years ago. I will make you proud, my friend. I will bring peace to this land. Please...watch over me.",
+      "cn": "哦，达尔克……林克告诉了我你的灵魂被解放时的情景。我很抱歉你一直为我担心到最后，我无法足够感谢你遵守了一百年前的承诺。我会让你骄傲的，我的朋友。我会为这片土地带来和平。请……守护着我。"
+    },
+    {
+      "Number": "082",
+      "Voice Memory": "A Slumbering Volcano",
+      "Description": "It was not long ago that lava was frequently and fiercely erupting from Death Mountain. These days, the mountain seems to have quieted though. Hmm... I've heard stories that ancient Gorons built dwellings far down in the depths of the mountain. I wonder if this is similar to how the mountain looked back then.",
+      "cn": "不久前，死亡之山还频繁而猛烈地喷发着熔岩。不过，这些天，这座山似乎已经安静下来了。嗯……我听说过古代鼓隆人在山深处建造住所的故事。我想知道这是否与当时的山的样子相似。"
+    },
+    {
+      "Number": "083",
+      "Voice Memory": "Yunobo Is Making the World Better",
+      "Description": "The sudden changes on Death Mountain left many Gorons feeling uneasy, but I hear young Yunobo goes to the mountain every day to mine ore from the exposed rock face. It seems his efforts are motivating his fellow Gorons, shaking them out of their worry and giving them purpose... Certainly the future of Goron City is brighter thanks to Yunobo.",
+      "cn": "死亡之山的突变让许多鼓隆人感到不安，但我听说年轻的阿陨每天都去山上，从裸露的岩壁上开采矿石。他的努力似乎激励了他的同胞，使他们摆脱了忧虑，找到了目标……当然，多亏了阿陨，鼓隆城的未来更加光明。"
+    },
+    {
+      "Number": "084",
+      "Voice Memory": "Accidentally Ill-Mannered",
+      "Description": "The Gorons looked so comfortable as they lounged in these hot springs... As for me, the heat was too much, and I only put my feet in. Poor Link even caught a scolding from the Gorons when he tried to add a little water to cool it down; apparently this temperature is merely tepid to them already.",
+      "cn": "鼓隆人躺在这些温泉里看起来那么舒服……至于我，热气太重，我只把脚放了进去。可怜的林克甚至因为想加点水降温而被鼓隆人训斥了一顿；显然，这个温度对他们来说已经仅仅是温的了。"
+    },
+    {
+      "Number": "085",
+      "Voice Memory": "Train Mind and Body",
+      "Description": "Stables are a treasure trove of information and a great place to find members of the research team. Though we've only just begun our work, we've already received research reports from every region. As we continue working, I should ensure they know how to defend themselves... Exploring the unknown can be dangerous, after all.",
+      "cn": "马厩是信息的宝库，也是寻找研究团队成员的好地方。虽然我们才刚刚开始工作，但我们已经收到了来自各个地区的研究报告。随着我们继续工作，我应该确保他们知道如何自卫……毕竟，探索未知可能是危险的。"
+    },
+    {
+      "Number": "086",
+      "Voice Memory": "Blocked Trailhead",
+      "Description": "This was previously the trailhead for Death Mountain, but the path has collapsed, and monsters have descended on the area, scaring off most of the travelers. If Daruk were here, I'm sure he'd clear out any opposition in no time. Assuming there are no dogs among them...",
+      "cn": "这里以前是通往死亡之山的山路起点，但道路已经塌方，怪物也降临到这个地区，吓跑了大多数旅行者。如果达尔克在这里，我敢肯定他会立刻清除任何障碍。前提是其中没有狗……"
+    },
+    {
+      "Number": "087",
+      "Voice Memory": "Akkala Citadel Memorial",
+      "Description": "We thought Akkala Citadel impregnable, but the battle here proved it was anything but... We must carry the lessons learned from this battle forward with us. I vow to honor the sacrifices of those who died here—I will work tirelessly to restore Hyrule and to create a peaceful future for its people.",
+      "cn": "我们曾以为阿卡莱城堡坚不可摧，但这里的战斗证明了它并非如此……我们必须将从这场战斗中学到的教训带在身上。我发誓要纪念在这里牺牲的人们——我将不懈努力，恢复海拉鲁，并为其人民创造一个和平的未来。"
+    },
+    {
+      "Number": "088",
+      "Voice Memory": "Path of the Guardians",
+      "Description": "South Akkala Stable... Many, many Guardians swept through this area, and though the building was destroyed, the workers were all able to get to safety. No doubt that is thanks to the soldiers of Akkala Citadel buying them time... But now the Stable Association has rebuilt the stable, and you can hardly see any traces of the past destruction.",
+      "cn": "南阿卡莱驿站……许许多多的守护者席卷了这片区域，虽然建筑被毁，但工人们都得以安全撤离。毫无疑问，这要归功于阿卡莱城堡的士兵们为他们争取了时间……但现在马厩协会已经重建了驿站，你几乎看不到过去毁灭的痕迹。"
+    },
+    {
+      "Number": "089",
+      "Voice Memory": "The Lost Hamlet",
+      "Description": "No one actually knows what happened here at the Shadow Hamlet during the Calamity. They were a very isolated village, and they liked it that way. They even turned me away when I came to warn them about the Calamity. I wonder if this place would be more than ruins if I had tried harder to get them to listen...",
+      "cn": "没有人真正知道在大灾厄期间，影之村这里发生了什么。他们是一个非常孤立的村庄，并且他们喜欢那样。当我来警告他们大灾厄时，他们甚至把我拒之门外。我在想，如果我当时更努力地让他们听劝，这个地方是否会不仅仅是废墟……"
+    },
+    {
+      "Number": "090",
+      "Voice Memory": "Good and Evil",
+      "Description": "Though the Spring of Power remains, it has been neglected and fallen into ruin. I imagine many see power as a symbol of the Demon King and thus avoid the spring, but there is a misunderstanding there. Power itself is neither inherently evil nor good; it is the individual wielding that power that defines it.",
+      "cn": "虽然力量之泉依然存在，但它已被忽视并沦为废墟。我想许多人将力量视为魔王的象征，因此避开此泉，但这是一个误解。力量本身并非天生邪恶或善良；是掌握力量的个体定义了它。"
+    },
+    {
+      "Number": "091",
+      "Voice Memory": "The Signature Steamed Buns",
+      "Description": "Apparently, East Akkala Stable got its start when the Stable Association used scrap wood left over from other stables to construct a shelter for people whose homes had burned down. The kitchen prepared steamed buns for the people then, and the recipe has become a signature meal here.",
+      "cn": "显然，东阿卡莱驿站的起源是马厩协会利用其他马厩剩下的废木料，为那些家园被烧毁的人们建造了一个避难所。当时厨房为人们准备了包子，而这个食谱已经成为了这里的招牌餐。"
+    },
+    {
+      "Number": "092",
+      "Voice Memory": "Particular Geniuses",
+      "Description": "The Akkala Ancient Tech Lab was originally a lighthouse Guardians destroyed. Apparently, Purah and Robbie later converted it into a lab. They claim its proximity to ruins is why they chose this place, but I think the real reason they settled here was to discourage visitors. Their research was dangerous, after all...",
+      "cn": "阿卡莱古代研究所最初是一座被守护者摧毁的灯塔。显然，普尔亚和罗贝利后来将其改造成了一个实验室。他们声称选择这里是因为它靠近遗迹，但我认为他们定居在这里的真正原因是为了劝退访客。毕竟，他们的研究是危险的……"
+    },
+    {
+      "Number": "093",
+      "Voice Memory": "An Ideal World",
+      "Description": "Tarrey Town, a village that brought all the peoples of Hyrule together. Hudson is the driving force behind its founding, though they say Link played a role as well. Hmm... This place—where Hylians, Rito, Goron, Zora, and Gerudo all live together in peace—is a model of the world I hope to see in the future.",
+      "cn": "一始村，一个将海拉鲁所有民族聚集在一起的村庄。哈德逊是其建立的推动力，不过据说林克也发挥了作用。嗯……这个地方——海利亚人、利特人、鼓隆人、卓拉人和格鲁德人都在这里和平共处——是我希望未来世界能够效仿的典范。"
+    },
+    {
+      "Number": "094",
+      "Voice Memory": "Taciturn President",
+      "Description": "Hudson Construction... It seems Hudson is rarely in the shop, as he is busy recruiting workers for the restoration efforts. I hear he is expecting a child soon, and though he is a reserved man, I can see his quiet excitement.",
+      "cn": "哈德逊建筑公司……哈德逊似乎很少在店里，因为他正忙于为重建工作招募工人。我听说他很快就要有孩子了，虽然他是个内向的人，但我能看到他内心的激动。"
+    },
+    {
+      "Number": "095",
+      "Voice Memory": "Successor \"Son\"",
+      "Description": "They say Hudson Construction adopted the name policy from its predecessor, Bolson Construction; all employees must have a name that ends in \"son.\" There is technically one exception though. A man named Hagie supposedly introduced himself as \"Hagie, son\" in his interview, which Hudson mistook for \"Hagieson.\"",
+      "cn": "据说哈德逊建筑公司沿用了其前身博尔森建筑公司的命名政策；所有员工的名字都必须以“森”结尾。不过技术上有一个例外。据说一个名叫哈吉的人在面试中自我介绍为“哈吉，的儿子”，哈德逊误听成了“哈吉森”。"
+    },
+    {
+      "Number": "096",
+      "Voice Memory": "A Less-Than-Safe Ride",
+      "Description": "This track facilitates transit from the village to the work area. It is not a complex creation, relying on the height difference to send the rope and pulley down the rails. However, it is only one way, so a person would have to walk back along the perimeter to reach the village. Hmm... I wonder if Sheikah technology could improve this...",
+      "cn": "这条轨道方便了从村庄到工作区的交通。它不是一个复杂的创造，依靠高度差将绳索和滑轮沿着轨道送下。然而，这是单程的，所以一个人必须沿着外围绕路走回村庄。嗯……我想知道希卡技术能否改进这一点……"
+    },
+    {
+      "Number": "097",
+      "Voice Memory": "Hudson Construction Workshop",
+      "Description": "Apparently, when the water levels in Torin Wetland receded and solid ground emerged, Hudson Construction decided to build a workspace here. That workspace has come to be the main site for producing the building materials used in our restoration efforts. I'm excited to see how this place flourishes.",
+      "cn": "显然，当托林湿地的水位下降，坚实的地面出现时，哈德逊建筑公司决定在这里建造一个工作室。那个工作室已经成为我们重建工作中使用的建筑材料的主要生产基地。我很期待看到这个地方如何繁荣发展。"
+    },
+    {
+      "Number": "098",
+      "Voice Memory": "Cunning Tactics",
+      "Description": "Torin Wetland was once littered with the broken remains of countless Guardians, though there are no longer any traces of them. I imagine the wetlands reduced the Guardians' mobility, making it impossible for them to avoid each other's attacks. No doubt Akkala owes thanks to the quick thinking of soldiers from the citadel for this. If the Guardians hadn't been so hindered, the Akkala region would have suffered more damage.",
+      "cn": "托林湿地曾经散落着无数守护者的残骸，尽管现在已经没有任何痕迹。我想湿地降低了守护者的机动性，使它们无法避开彼此的攻击。毫无疑问，阿卡莱要感谢来自城堡士兵的机智。如果守护者没有受到如此大的阻碍，阿卡莱地区会遭受更严重的破坏。"
+    },
+    {
+      "Number": "099",
+      "Voice Memory": "Inscriptions of Zora History",
+      "Description": "The Zora created these stone monuments, and while they once were engraved with the words of King Dorephan, they now bear those of Sidon. He has written of the battle against the Divine Beast, when he allowed Link to ride on his back. That really shows how completely he trusts Link; it is rare for a Zora to let anyone on their backs, after all...",
+      "cn": "卓拉人创造了这些石碑，虽然它们曾经刻有多雷凡王的话语，但现在它们承载的是希多的话。他写了关于对抗神兽的战斗，当时他让林克骑在他的背上。这真的表明了他对林克的完全信任；毕竟，卓拉人很少让任何人骑在他们背上……"
+    },
+    {
+      "Number": "100",
+      "Voice Memory": "Building a Relationship",
+      "Description": "In order to prevent the damage a flooding river would cause, the Zora people and the Kingdom of Hyrule worked together to build this reservoir. In fact, though they were only amicable toward each other before the project, it was the act of building this that formed a true friendship between the Zora and the Kingdom of Hyrule.",
+      "cn": "为了防止河流泛滥造成破坏，卓拉族和海拉鲁王国共同建造了这个水库。事实上，在项目开始前，他们彼此之间只是友好相待，正是建造水库这一行动，才在卓拉族和海拉鲁王国之间建立了真正的友谊。"
+    },
+    {
+      "Number": "101",
+      "Voice Memory": "Those Who Remember the Calamity",
+      "Description": "Thanks to their long lifespans, many Zora here in Zora's Domain still remember the events of the Calamity and Mipha's part in all of it a hundred years ago. I do not think I will be welcomed, but it is my duty to tell them what happened to her in the end...",
+      "cn": "多亏了他们长寿的生命，卓拉领地的许多卓拉人仍然记得百年前灾厄的事件以及米法在其中的角色。我不认为我会受到欢迎，但我有责任告诉他们她最终的结局…"
+    },
+    {
+      "Number": "102",
+      "Voice Memory": "Statue Relocation",
+      "Description": "A hundred years ago, a statue was made to celebrate Mipha, the Zora Champion. It is now a memorial to her sacrifice. Apparently it is thanks to Sidon that it stands where it does. It was he who proposed it be relocated to a place with a wonderful view.",
+      "cn": "一百年前，为了纪念卓拉英杰米法，人们建造了一座雕像。如今，它已成为纪念她牺牲的纪念碑。显然，多亏了希多，它才能矗立在此。是他提议将其迁移到一个景色优美的地方。"
+    },
+    {
+      "Number": "103",
+      "Voice Memory": "Audience with King Dorephan",
+      "Description": "With Link accompanying me, I told the gathered Zora of Mipha's fate. The throne room was filled with sobs and angry shouts, but King Dorephan quieted everyone when he spoke, offering a simple, soft \"thank you.\" His words felt like he was giving me permission—even telling me-to move on, to not be held prisoner to the past.",
+      "cn": "在林克的陪同下，我向聚集的卓拉人讲述了米法的命运。王座室里充满了抽泣和愤怒的喊叫，但多雷凡王开口时，大家便都安静了下来，他只是轻声地说了声“谢谢你”。他的话语感觉像是在允许我——甚至是在告诉我——要向前看，不要被过去所囚禁。"
+    },
+    {
+      "Number": "104",
+      "Voice Memory": "A Maiden's Prayer",
+      "Description": "I have heard that an important part of the process of crafting Zora Armor is a prayer for the safety of a loved one. Apparently, Mipha often came to this place to work on armor she made for Link. However, in the end she left the armor with King Dorephan... Perhaps she knew she would not be able to hand it to Link herself.",
+      "cn": "我听说，制作卓拉铠甲的一个重要环节是为所爱之人的安全祈祷。显然，米法经常来这里为林克制作铠甲。然而，最终她把铠甲留给了多雷凡王……也许她知道自己无法亲手交给林克了。"
+    },
+    {
+      "Number": "105",
+      "Voice Memory": "Seabed Inn",
+      "Description": "Water beds! I had only mentioned it in passing to the proprietor a hundred years ago, so it was quite a shock to see the fanciful notion brought to life. And laying in one feels just as I imagined, like floating in a lake... I hear travelers enjoy the beds but, even more surprising, so do the Zora!",
+      "cn": "水床！我一百年前只是顺口向店主提了一句，所以当看到这个奇特的想法变为现实时，我感到非常震惊。躺在上面感觉就像我想象中的一样，像是漂浮在湖面上……我听说旅行者们很喜欢这种床，但更令人惊讶的是，卓拉人也喜欢！"
+    },
+    {
+      "Number": "106",
+      "Voice Memory": "Kings' Purification Ceremony",
+      "Description": "The Pristine Sanctum is part of the traditions a retiring Zora king follows upon abdicating their title. It is said that many generations of kings have cleansed their bodies in the pristine waters here, as well as offering one of their scales to this throne. In so doing, they symbolically abandon the earthly world.",
+      "cn": "原始圣殿是卓拉王退位时遵循的传统的一部分。据说，许多代的国王都在这里的纯净之水中净化身体，并向这个王座献上一片鳞片。通过这样做，他们象征性地抛弃了尘世。"
+    },
+    {
+      "Number": "107",
+      "Voice Memory": "Honoring Mipha",
+      "Description": "I'm sure that you love the view of the village from here, don't you, Mipha? I shared your final words with King Dorephan, you know. He told me \"thank you.\" But I should be the one offering my thanks... and I do. I offer them to you. Thank you, Mipha. I wish only that we had more time together...",
+      "cn": "米法，我相信你一定喜欢从这里看村庄的景色，对吧？你知道吗，我把你的遗言告诉了多雷凡王。他对我说了声“谢谢你”。但我才应该是那个道谢的人……我的确如此。我向你表示感谢。谢谢你，米法。我只希望能有更多时间与你共度…"
+    },
+    {
+      "Number": "108",
+      "Voice Memory": "The Horse-Rearing Village",
+      "Description": "The ruins of Goponga Village... The people who lived here raised many horses. They used the unique terrain here as a stable, but it has been so ravaged by monsters now that it's virtually unrecognizable. Considering their skilled horsemanship, I want to believe that everyone was able to flee on horseback.",
+      "cn": "戈蓬加村的废墟……住在这里的人们饲养了许多马匹。他们利用这里独特的地形作为马厩，但现在被怪物摧残得几乎无法辨认。考虑到他们精湛的马术，我愿意相信所有人都骑马逃走了。"
+    },
+    {
+      "Number": "109",
+      "Voice Memory": "The Stable Association",
+      "Description": "It was the Stable Association that came up with the plan for a well at every stable. It makes perfect sense to have access to clean water stores, but an additional aspect of the plan was for the well to serve as a shelter for the people in case of emergency. It is hard to forget the stories of rampaging Guardians, their attacks scorching the land...",
+      "cn": "是马厩协会提出了在每个马厩都建一口井的计划。能够获得干净的水源储备是完全合理的，但该计划的另一个方面是让井在紧急情况下作为人们的避难所。很难忘记那些横冲直撞的守护者的故事，它们的攻击烧焦了大地…"
+    },
+    {
+      "Number": "110",
+      "Voice Memory": "Blooming Joy",
+      "Description": "The Floret Sandbar and Magda, who cultivates flowers here, inspired me to create a place where flowers from all over Hyrule could bloom together. Though I was able to borrow tools from a stable, I am not... adept at this kind of work. The dirt has gotten everywhere. Still, I must focus. Silent princess... Blue nightshade... Mighty thistle... What next?",
+      "cn": "弗洛雷特沙洲和在这里种花的玛格达，启发了我去创造一个让来自海拉鲁各地的花朵都能一起绽放的地方。虽然我能从马厩借到工具，但我并不……擅长这类工作。泥土弄得到处都是。不过，我必须专注。宁静公主……蓝色夜光草……强力蓟……接下来是什么？"
+    },
+    {
+      "Number": "111",
+      "Voice Memory": "Gathering of Gourmets",
+      "Description": "Riverside Stable is known to many as a gathering place for gourmets. Visiting here reminds me of a time I shared a meal of meat and rice with a few who claimed \"hunger is the best sauce.\" Though at the time, they had not eaten in three days and were nearly immobilized at their campsite. I hope they learned their lesson...",
+      "cn": "河畔马厩被许多人称为美食家的聚集地。来到这里让我想起有一次，我与几个声称“饥饿是最好的调味酱”的人分享了一顿肉和米饭。不过当时，他们已经三天没吃东西了，在营地里几乎动弹不得。我希望他们吸取了教训…"
+    },
+    {
+      "Number": "112",
+      "Voice Memory": "Sharing the Joy of the Equestrian Arts",
+      "Description": "Ah, Highland Stable. Horseback archery was very popular before the Calamity, though it appears interest has waned in modern times. Instead, there is considerable effort being made to teach travelers how to handle horse-drawn wagons, and more importantly, how to care for the horses that pull them.",
+      "cn": "啊，高原马厩。在灾厄之前，骑马射箭非常流行，不过现在人们的兴趣似乎已经减弱了。取而代之的是，人们付出了相当大的努力来教导旅行者如何驾驭马车，更重要的是，如何照顾拉车的马匹。"
+    },
+    {
+      "Number": "113",
+      "Voice Memory": "Courage Proven",
+      "Description": "Long ago, I was too scared to enter the Spring of Courage... Not even just as a child, though then I could at least blame the intimidating message on the stone statue: \"Those who lack courage will be eaten by a dragon.\" But even as an adult, I always worried that I wasn't brave enough. Today, I think I can investigate every corner of this place without fear.",
+      "cn": "很久以前，我太害怕了，不敢进入勇气之泉……不只是小时候，虽然那时我至少可以归咎于石像上那句吓人的话：“缺乏勇气者将被龙吞噬。”但即使成年后，我总是担心自己不够勇敢。今天，我想我可以毫无畏惧地探索这个地方的每一个角落。"
+    },
+    {
+      "Number": "114",
+      "Voice Memory": "Dondons",
+      "Description": "Lakeside Stable is the closest stable to where I first discovered the creatures I have named Dondons. I found them deep in the jungle, and I knew I had to do what I could to protect them. I believe they use the rock-like bumps on their backs as a way to conceal themselves, but that is all I have learned so far. I think I will spend some more time observing them...",
+      "cn": "湖畔马厩是离我首次发现我命名为“咚咚”的生物最近的马厩。我在丛林深处发现了它们，我知道我必须尽我所能保护它们。我相信它们利用背上岩石般的凸起来伪装自己，但目前我只了解到这些。我想我会花更多时间观察它们…"
+    },
+    {
+      "Number": "115",
+      "Voice Memory": "A Wish Realized",
+      "Description": "I have heard stories about a heart-shaped pond, known as the Lover's Pond. I am almost certain it wasn't here before, although... This place was once thought of as the \"wish-making mountain,\" and I hear many people would visit. Perhaps all their wishes manifested as the pond? Some may laugh at this idea, but... I think I like it.",
+      "cn": "我听说过一个心形池塘的故事，被称为“情人池”。我几乎可以肯定它以前不在这里，尽管……这个地方曾被认为是“许愿山”，我听说很多人会来这里。也许他们所有的愿望都化作了这个池塘？有些人可能会嘲笑这个想法，但……我挺喜欢的。"
+    },
+    {
+      "Number": "116",
+      "Voice Memory": "Mountain of Prayers",
+      "Description": "There was a time when Tuft Mountain was famous for binding two people's destinies together. However, that legacy seems to have been forgotten as time passed. Standing here, taking in the magnificent scenery... I feel all my worries melting away, like how a setting sun slowly melts into the horizon...",
+      "cn": "曾几何时，簇山以将两个人的命运紧紧相连而闻名。然而，随着时间的流逝，这段传说似乎已被遗忘。站在这里，欣赏着壮丽的景色……我感觉所有的烦恼都烟消云散了，就像夕阳慢慢融入地平线一样……"
+    },
+    {
+      "Number": "117",
+      "Voice Memory": "Hospitality",
+      "Description": "Lurelin Village was once a small fishing center, but apparently the rise in monsters has driven many of the villagers away from fishing. Now it hosts travelers, attracting them as a sort of resort with its beautiful scenery and delicious food. The village may have changed, but its people are some of the warmest I know. I feel a wonderful calm visiting here.",
+      "cn": "鲁雷林村曾经是一个小渔业中心，但显然怪物的增多使许多村民放弃了捕鱼。现在它接待游客，以其美丽的风景和美味的食物吸引他们，成为了一个度假胜地。村庄可能变了，但它的人民是我所认识的最热情的人之一。在这里我感到一种美妙的平静。"
+    },
+    {
+      "Number": "118",
+      "Voice Memory": "Two Hundred and Twenty-Eight Recipes",
+      "Description": "I was amazed at the delicious food I was treated to by the fantastic cook here. It seems she traveled far and wide in Hyrule, gathering an incredible 228 recipes, before getting married and settling down. I suggested she open a restaurant, and while she seemed to laugh at the idea, I saw a quiet pride at the compliment.",
+      "cn": "我被这里出色的厨师招待的美味佳肴所折服。她似乎在海拉鲁各地游历，收集了惊人的228份食谱，之后才结婚定居。我建议她开一家餐厅，虽然她似乎对这个想法一笑置之，但我从她的笑容中看到了一丝因赞美而生的自豪。"
+    },
+    {
+      "Number": "119",
+      "Voice Memory": "Ship-Shaped Shelter",
+      "Description": "It seems they turned an abandoned ship hull into a house, even using palm trees to hold the ship in place! It has become something of a local landmark, as well as a place for guests to stay. Considering its size, it really does make sense they would use it as an inn.",
+      "cn": "他们似乎把一艘废弃的船体改造成了房子，甚至用棕榈树来固定船！它已经成为当地的一个地标，也是客人住宿的地方。考虑到它的大小，把它用作旅馆确实很有道理。"
+    },
+    {
+      "Number": "120",
+      "Voice Memory": "Guardian of the Ocean",
+      "Description": "The goddess statue in Lurelin Village is now worshipped as the guardian of the ocean. I believe it used to be thought of as the guardian of fishing, but it seems that, as the number of fishers shrank here, the role of the goddess statue has changed along with the village itself. Hmm... Not everyone can adapt to the changes that life brings. There is much we can learn from the people of this village.",
+      "cn": "鲁雷林村的女神像现在被尊为海洋的守护神。我相信它过去被认为是渔业的守护神，但似乎随着这里渔民数量的减少，女神像的角色也随着村庄本身而改变了。嗯……不是每个人都能适应生活带来的变化。我们可以从这个村庄的人们身上学到很多。"
+    },
+    {
+      "Number": "121",
+      "Voice Memory": "Demon King's Claw",
+      "Description": "Cape Cresia was once known as the \"Demon King's Claw,\" and many villagers feared this place, but the name has fallen out of use as time has passed. I myself have walked the length of this area, and I didn't feel anything particularly evil about it—probably another reason the name is largely unused today. I wonder where the name originated from...",
+      "cn": "克雷西亚角曾经被称为“魔王之爪”，许多村民都害怕这个地方，但随着时间的推移，这个名字已经不再使用了。我自己也走遍了这片区域，并没有感觉到任何特别邪恶的东西——这可能也是这个名字今天基本不用的另一个原因。我想知道这个名字是从哪里来的…"
+    },
+    {
+      "Number": "122",
+      "Voice Memory": "A Wild Idea Lost to the Sea",
+      "Description": "When the head of Lurelin Village asked me how he might raise awareness about his village, I immediately thought of this place. Korne Beach has such long stretches of sand, and it's free of coral reefs... I thought perhaps some sort of playground that incorporates the ocean would be a wonderful addition, but no, it really is an outlandish idea. I couldn't even bring myself to suggest it.",
+      "cn": "当鲁雷林村的村长问我如何提高村庄的知名度时，我立刻想到了这个地方。科尔奈海滩有如此长的沙滩，而且没有珊瑚礁……我想，或许建一个结合海洋的游乐场会是一个绝妙的补充，但不，这确实是个不切实际的想法。我甚至没能鼓起勇气提出来。"
+    },
+    {
+      "Number": "123",
+      "Voice Memory": "Eventide Island",
+      "Description": "A hundred years ago, Eventide Island was filled with monsters and impossible to safely approach. Link came along to protect me, but he suddenly covered his eyes the moment we landed. Fortunately, it seems all the monsters vanished with the Calamity... Regardless, when I asked him what he was doing, he said the last time he was here, he had been stripped of...ahem...all his possessions when he arrived. He...could have mentioned that possibility before I set foot on the shore...",
+      "cn": "一百年前，伊文泰德岛上到处是怪物，无法安全接近。林克来保护我，但我们一着陆，他突然就捂住了眼睛。幸运的是，似乎所有的怪物都随着灾厄消失了……不管怎样，当我问他在做什么时，他说上次来这里时，他一到就被剥夺了……呃……所有的财物。他……本可以在我踏上岸之前就提醒我这种可能性的……"
+    },
+    {
+      "Number": "124",
+      "Voice Memory": "Dueling Peaks Memorial",
+      "Description": "Many people evacuated from the town around Hyrule Castle, but less than half of them made it from there to this point... And even then, as they saw the Guardians appear before the Dueling Peaks, they thought they were done for. Thankfully, these brave souls were here to protect them. I pray they found peace at last.",
+      "cn": "许多人从海拉鲁城堡周围的城镇撤离，但从那里到达这里的人不到一半……即便如此，当他们看到守护者出现在双子山前时，他们以为自己完蛋了。谢天谢地，这些勇敢的灵魂在这里保护他们。我祈祷他们最终找到了安宁。"
+    },
+    {
+      "Number": "125",
+      "Voice Memory": "Twin Saviors",
+      "Description": "The Dueling Peaks... I shudder to think of what would have happened if Link hadn't lead everyone here. The steep terrain gave us some protection and plenty of places to hide from the Guardians. Many lives were saved, including my own. I was always being protected back then...",
+      "cn": "双子山……我不敢想象如果林克没有带领大家来到这里会发生什么。陡峭的地形为我们提供了一些保护和许多躲避守护者的地方。许多生命得以挽救，包括我自己的。那时我总是在被保护着……"
+    },
+    {
+      "Number": "126",
+      "Voice Memory": "Grave Markers",
+      "Description": "The Blatchery Plain... Many soldiers lost their lives here when Guardians rampaged through the area. Now numerous swords throughout the field mark their graves. I passed by so many as I made my way here... It is our duty to never forget them nor the sacrifice they made.",
+      "cn": "布拉奇平原……当守护者在该地区横冲直撞时，许多士兵在这里丧生。现在，整个战场上无数的剑标志着他们的坟墓。我来这里的路上经过了许多……我们的责任是永远不要忘记他们以及他们所做的牺牲。"
+    },
+    {
+      "Number": "127",
+      "Voice Memory": "Fort Hateno Memorial",
+      "Description": "Though some believe a miracle occurred here at Fort Hateno, the truth is less divine. We were all saved thanks to the soldiers, including Link, who chose to risk their lives here. Though they would not have had to do so if my power had awakened sooner. Regardless, I pray their spirits were comforted by Goddess Hylia.",
+      "cn": "尽管有些人相信在哈特诺堡发生了奇迹，但真相并非那么神圣。我们都得救了，多亏了包括林克在内的士兵们，他们选择在这里冒着生命危险。虽然如果我的力量能早点觉醒，他们本不必如此。无论如何，我祈祷他们的灵魂能得到海利亚女神的慰藉。"
+    },
+    {
+      "Number": "128",
+      "Voice Memory": "The Stable on a Battlefield",
+      "Description": "Dueling Peaks Stable is one of the newly established stables. Considering this whole area was devastated by the Calamity and completely overrun by Guardians, it's a good thing there was not a stable here before...",
+      "cn": "双子山马厩是新建的马厩之一。考虑到整个地区都被灾厄摧毁，并被守护者完全占领，以前这里没有马厩是件好事……"
+    },
+    {
+      "Number": "129",
+      "Voice Memory": "Hidden Sheikah Tribe",
+      "Description": "Ah, Kakariko Village... The Sheikah that live here are quite peaceful, but that does not mean they are unwilling or unable to defend themselves. I would not be surprised if this village avoided the worst of the Calamity because any monsters that threatened it were summarily dealt with by the villagers themselves.",
+      "cn": "啊，卡卡里科村……住在这里的希卡族人非常和平，但这并不意味着他们不愿意或不能自卫。如果说这个村庄避免了灾厄最严重的破坏，我一点也不惊讶，因为任何威胁它的怪物都被村民们自己迅速解决了。"
+    },
+    {
+      "Number": "130",
+      "Voice Memory": "Hundred-Year-Old Friendship",
+      "Description": "I came here to visit a friend that I had not seen in a hundred years. She had been an advisor to the royal family, and following the Calamity, she became the leader of this village while awaiting my return. The relief on her face when she saw me... We talked for hours and hours, trying to make up for all the time we'd lost.",
+      "cn": "我来这里拜访一位一百年没见的朋友。她曾是王室的顾问，灾厄之后，她成为这个村庄的领袖，等待我的归来。当她看到我时，脸上的释然……我们聊了几个小时，试图弥补所有失去的时光。"
+    },
+    {
+      "Number": "131",
+      "Voice Memory": "Sanke Carp",
+      "Description": "There are beautiful fish with a unique patterning living in the waters beneath the falls... They must be the ornamental fish Sheikah researchers worked tirelessly to breed here a hundred years ago. Their efforts were certainly hindered by the Calamity, but it doesn't surprise me that the Sheikah would still find a way to finish their work.",
+      "cn": "在瀑布下的水域里生活着一种图案独特的漂亮鱼……它们一定是一百年前希卡族研究人员在这里辛勤培育的观赏鱼。他们的努力肯定受到了灾厄的阻碍，但希卡族人总能找到办法完成他们的工作，这并不让我感到惊讶。"
+    },
+    {
+      "Number": "132",
+      "Voice Memory": "Frog Guardian",
+      "Description": "A local guardian. It has long been believed that frogs bring good luck. In fact, they hold spiritual significance for the Sheikah. For my part, I pray not only that the land of Hyrule be restored but that we can then continue to work together and achieve great things.",
+      "cn": "一个当地的守护者。人们一直认为青蛙能带来好运。事实上，它们对希卡族人具有精神意义。就我而言，我不仅祈祷海拉鲁的土地得以恢复，还祈祷我们能继续共同努力，成就伟大的事业。"
+    },
+    {
+      "Number": "133",
+      "Voice Memory": "Mellie's Plum Garden",
+      "Description": "A garden for growing plums. A hundred years ago, Impa planted a plum tree here to celebrate a child's birth. It really has grown into something beautiful since that time; the care Mellie has put into maintaining this place is clear to see. Now that I think of it, could she be...",
+      "cn": "一个种植李子的花园。一百年前，英帕在这里种下了一棵李树，以庆祝一个孩子的诞生。从那时起，它真的长成了美丽的东西；梅莉为维护这个地方所付出的心血清晰可见。现在我想起来，难道她是……"
+    },
+    {
+      "Number": "134",
+      "Voice Memory": "Koko's Garland",
+      "Description": "The house where Koko lives... She picked such an abundance of flowers for me that we decided to make garlands with them. She said she would teach her little sister, Cottla, how to make them as well. Seeing her work so hard stirred memories of when Mother taught me how to weave garlands together. Though...I found it very difficult at first and may have even cried in frustration...",
+      "cn": "可可住的房子……她为我采了这么多花，我们决定用它们来做花环。她说她也会教她的小妹妹科特拉怎么做。看到她那么努力地工作，勾起了我母亲教我编织花环的回忆。虽然……我一开始觉得非常困难，甚至可能因挫败而哭泣……"
+    },
+    {
+      "Number": "135",
+      "Voice Memory": "Cotera's Considerations",
+      "Description": "It seems the Great Fairy Cotera no longer lives here. I have heard that the only truly appropriate offering to her was rupees, and after the villagers started offering vegetables, thinking that would suffice, Cotera quickly grew weak. She was too considerate of the villagers' feelings to say anything though...",
+      "cn": "看来大妖精柯泰拉已经不住在这里了。我听说唯一真正适合献给她的祭品是卢比，而在村民们开始献上蔬菜，认为这样就足够了之后，柯泰拉很快就变得虚弱了。不过，她太体谅村民的感受，什么也没说……"
+    },
+    {
+      "Number": "136",
+      "Voice Memory": "Spring of Wisdom",
+      "Description": "The last time I descended this mountain, the powers I had inherited were still beyond my grasp. The Calamity was soon to come, with all its despair and destruction... But now, thanks to the flame of hope kept alive by the Champions...by Link...I can do my utmost, for everyone.",
+      "cn": "上一次我下山时，我继承的力量仍然无法掌握。灾厄即将来临，带着所有的绝望和毁灭……但现在，多亏了英杰们……多亏了林克……所维系的希望之火，我可以为了大家，竭尽所能。"
+    },
+    {
+      "Number": "137",
+      "Voice Memory": "Feeling Truly at Home",
+      "Description": "I always feel at home when I am in Hateno Village. The smells of well-tended soil and freshly cut grass... The refreshing breeze coming off Mount Lanayru washing over me... The sound of children at play in the village... I am so glad to see life slowly returning to normal here.",
+      "cn": "当我在哈特诺村时，总有种宾至如归的感觉。精心耕作的土壤和新割的青草的芬芳……从拉聂尔山吹来的清爽微风拂过我的脸庞……村里孩子们玩耍的声音……我很高兴看到这里的生活正慢慢恢复正常。"
+    },
+    {
+      "Number": "138",
+      "Voice Memory": "The Rumored Fashionista",
+      "Description": "That people have time to consider and enjoy fashion is a sure sign that life is returning to normal in Hyrule. I'm sure much of the credit for the interest in fashion is thanks to Cece's determination and inspiration. I hear the idea for the mushroom pattern came to her when she visited Tarrey Town in Akkala.",
+      "cn": "人们有时间考虑和享受时尚，这是海拉鲁生活恢复正常的明确迹象。我相信对时尚的兴趣很大程度上要归功于希希的决心和灵感。我听说蘑菇图案的想法是她在阿卡莱地区的塔里镇时想到的。"
+    },
+    {
+      "Number": "139",
+      "Voice Memory": "Splash of Inspiration",
+      "Description": "Kochi Dye Shop, here in Hateno Village, specializes in dyes. The owner, Sayge, stuck his own head into his dyeing machine and turned his trademark red hair black. Apparently, it happened while he was working on an idea he got from some drawings his son, Sefaro, made. I must admit I am intrigued with what he's up to.",
+      "cn": "位于哈特诺村的科奇染坊专门从事染料业务。店主塞奇把自己的头伸进了他的染色机，把他标志性的红发染成了黑色。显然，这是他在研究他儿子塞法罗画的一些图纸时得到的灵感时发生的。我必须承认，我对他正在做的事情很感兴趣。"
+    },
+    {
+      "Number": "140",
+      "Voice Memory": "Beacon of Hope",
+      "Description": "I pray that, as the restoration work continues, Hateno School will become a place where children can find many paths toward their futures—that it will shine as a beacon of hope for generations to come.",
+      "cn": "我祈祷，随着修复工作的继续，哈特诺学校将成为一个孩子们可以找到通往未来的多条道路的地方——它将成为后代希望的灯塔。"
+    },
+    {
+      "Number": "141",
+      "Voice Memory": "Unforgettable Flavor",
+      "Description": "I will forever associate Hateno Pasture with the meal I had here a hundred years ago. However, when I returned recently and inquired after the recipe, no one seemed to know what I was referring to. Could that unforgettable dish be lost to time?",
+      "cn": "我将永远把哈特诺牧场与我一百年前在这里吃过的那顿饭联系在一起。然而，当我最近回来询问食谱时，似乎没人知道我指的是什么。那道难忘的菜肴会随时间流逝而失传吗？"
+    },
+    {
+      "Number": "142",
+      "Voice Memory": "In a Puff of Smoke...",
+      "Description": "It seems that when the Calamity was defeated, all of the ancient relics here at the Hateno Ancient Tech Lab turned to dust and disappeared. All that remains are replicas of the originals, and with those gone, these are even more valuable. They will doubtlessly help tell future generations of the history of Hyrule.",
+      "cn": "似乎当灾厄被击败时，哈特诺古代技术研究所的所有古代遗物都化为灰尘消失了。剩下的只有原件的复制品，随着原件的消失，这些复制品变得更加珍贵。它们无疑将帮助向后代讲述海拉鲁的历史。"
+    },
+    {
+      "Number": "143",
+      "Voice Memory": "Anti-Aging Secrets",
+      "Description": "Purah has used the blackboard in her room to write out the details of how she reversed her physical age. I still can't believe she got the idea from sheep's fat... Regardless, it seems she quickly got bored of her childhood form... It is amusing that, despite a hundred years passing and Purah growing old, then young, then a little older, she hasn't changed in at least one way: she will become obsessive about something yet grow tired of it quickly.",
+      "cn": "普拉在她房间的黑板上写下了她如何逆转生理年龄的细节。我还是不敢相信她是从羊脂中得到这个想法的……不管怎样，她似乎很快就厌倦了她童年的形态……有趣的是，尽管一百年过去了，普拉变老，然后变年轻，然后再变老一点，但她至少有一点没变：她会对某件事变得痴迷，然后又很快厌倦。"
+    },
+    {
+      "Number": "144",
+      "Voice Memory": "Hateno Beach",
+      "Description": "Even though a hundred years have passed and so many things have happened, this place hasn't changed a bit. Its enduring nature has shown me that it's all right not to force change.",
+      "cn": "尽管一百年过去了，发生了这么多事，这个地方一点也没变。它持久的本性告诉我，不强求改变也是可以的。"
+    },
+    {
+      "Number": "145",
+      "Voice Memory": "Divine Punishment",
+      "Description": "A strange horned statue... It suddenly spoke to me, calling itself a dealer in life and power, and I felt an overwhelming sensation, like my life was being drained away. But just as suddenly, a bolt of lightning struck the statue, toppling it into the water... That feeling... I do not think the statue had good intentions. It is best left submerged.",
+      "cn": "一个奇怪的有角雕像……它突然对我说话，自称是生命和力量的交易者，我感到一种压倒性的感觉，就像我的生命正在被抽走。但就在这时，一道闪电击中了雕像，把它击倒在水里……那种感觉……我不认为那个雕像有什么好意图。最好让它沉在水下。"
+    },
+    {
+      "Number": "146",
+      "Voice Memory": "Secret Hideout",
+      "Description": "While we were digging a well, I came upon a hidden room. It may have been connected to the main building at one time, but it seems it was forgotten as years passed... Still, it could be used again—with a little work on the more decayed areas. Hmm. I imagine something precious was once stored in that treasure chest... What could I put there?",
+      "cn": "在我们挖井的时候，我发现了一个隐藏的房间。它可能曾经与主楼相连，但似乎随着岁月的流逝而被遗忘了……不过，在对腐朽的部分稍作修缮后，它还是可以再次使用的。嗯。我想那个宝箱里曾经存放着什么珍贵的东西……我可以在那里放什么呢？"
+    },
+    {
+      "Number": "147",
+      "Voice Memory": "Zelda's Home",
+      "Description": "This room feels a little lonely, so I've decided to decorate it with pictures of the people and places I encountered on my travels. And also...with the memories of my dearest friends...",
+      "cn": "这个房间感觉有点孤单，所以我决定用我在旅途中遇到的人和地方的照片来装饰它。还有……用我最亲爱的朋友们的回忆……"
+    },
+    {
+      "Number": "148",
+      "Voice Memory": "Forest of the Deku Tree",
+      "Description": "Once you pass through the Lost Woods, you'll arrive at the forest where the Great Deku Tree lives. When I first visited here, I could hardly move from fright, but Mother soothed my fears by pointing out that where I saw scary, twisted trees, she saw interesting, expressive faces. That is when I truly learned the value of appreciating different perspectives.",
+      "cn": "穿过迷失森林，你就会到达德库大树居住的森林。我第一次来这里时，吓得几乎动弹不得，但母亲安慰我说，在我看到可怕、扭曲的树木的地方，她看到的是有趣、富有表情的面孔。就在那时，我才真正懂得了欣赏不同视角的价值。"
+    },
+    {
+      "Number": "149",
+      "Voice Memory": "A Sword's Protector",
+      "Description": "I have visited this place—and the Great Deku Tree—countless times, but the very first was shortly after I was born, when the Great Deku Tree blessed me with a cherry-blossom bud. It bloomed above my head, proving I had inherited the power of the Goddess. Though Father was joyful at this, Mother's reaction was mixed... There was difficulty and pain in the journey that lay ahead for me, but I am, in the end, happy to have been blessed with this power.",
+      "cn": "我无数次地来过这个地方——以及德库大树——但第一次是在我出生后不久，当时德库大树用一朵樱花蓓蕾祝福了我。它在我头顶绽放，证明我继承了女神的力量。虽然父亲为此感到高兴，但母亲的反应却很复杂……在我未来的旅程中充满了困难和痛苦，但最终，我很高兴能被赋予这种力量。"
+    },
+    {
+      "Number": "150",
+      "Voice Memory": "Master Sword",
+      "Description": "When Link was on the brink of death...had it not been for your voice to guide me, I wouldn't be here now. Though I cannot hear your voice anymore, I still offer you my thanks. It is because of you that the world was saved. Please...rest here and heal your wounds...",
+      "cn": "当林克濒临死亡之际……若不是你的声音指引我，我现在就不会在这里。虽然我再也听不到你的声音，但我仍然向你表示感谢。正是因为你，世界才得以拯救。请……在这里休息，治愈你的伤口……"
+    }
+  ],
+  "down": [
+    {
+      "Number": "001",
+      "Voice Memory": "Master Kohga Returns!",
+      "Description": "Is this...the afterlife? The great beyond? My final reckoning? Nah, it still hurts like I'm alive... And I'm alive thanks to this weird inflated cloth! Talk about helpful, unlike that dastardly Link! How dare he foil the secret technique of the leader of the Yiga Clan! Grrrr... Hang on. Maybe I'm in the Depths... That's where a buncha ancient people lived. Maybe?",
+      "cn": "难道这里是……死后的世界？彼岸？我最后的审判？不，还像活着一样会痛……多亏了这块奇怪的会膨胀的布，我还活着！真是帮大忙了，不像那个卑鄙的林克！竟敢挫败我这个依盖队首领的秘密技法！可恶……等等。难道我在地底……这里好像住着一群古代人。也许吧？"
+    },
+    {
+      "Number": "002",
+      "Voice Memory": "Lightroots",
+      "Description": "This place is waaay too dark! Maybe if these dim, glowing things could get brighter...or if this green...crest thingy reacted at all! And what even is this—some kind of massive plant? It goes so far up... Does it reach all the way from here to the surface?!",
+      "cn": "这个地方也太暗了吧！要是这些昏暗的发光体能再亮一点……或者这个绿色的……徽章一样的东西能有点反应就好了！这到底是什么——某种巨大的植物吗？它长得那么高……难道能从这里一直延伸到地表？！"
+    },
+    {
+      "Number": "003",
+      "Voice Memory": "Wandering Poes",
+      "Description": "Hoho! It shook a little there! But touching it also sent a shiver down MY spine. Huh... Maybe they're...spirits? But if they are, then th-that means this IS the afterlife!",
+      "cn": "嚯嚯！它刚才晃了一下！但触摸它的时候，我的脊背也感到一阵寒意。嗯……难道它们是……灵魂？但如果是的话，那岂不意味着这里就是死后的世界！"
+    },
+    {
+      "Number": "004",
+      "Voice Memory": "A Keen Sixth Sense",
+      "Description": "What's this floating green thing? Hrm...huff... This some kinda bottle? What's inside? I'll just... JUST... Fine! Don't open! I'm still gonna hang on to you. My sixth sense says you're important.",
+      "cn": "这个漂浮的绿色东西是什么？哼……呼……这是某种瓶子吗？里面装了什么？我只要……只要……好吧！打不开就算了！我还是会带着你的。我的第六感告诉我你很重要。"
+    },
+    {
+      "Number": "005",
+      "Voice Memory": "Master Kohga's Education, Part 1",
+      "Description": "Hrm. This some kinda ancient doodad? It's flat there and pointed here... Huuup... Aah, my butt! Ow, what a terrible seat. Oh, take this, terrible seat. Ha! Gah! ...Wh-what? Why are you glowing?",
+      "cn": "嗯。这是某种古代的小玩意儿吗？这边是平的，这边是尖的……嘿咻……啊，我的屁股！噢，这座位太糟糕了。哦，吃我一招，糟糕的座位。哈！呀！……什、什么？你为什么在发光？"
+    },
+    {
+      "Number": "006",
+      "Voice Memory": "Master Kohga's Education, Part 2",
+      "Description": "Aha, more ancient doodads! lots like the last one too... Crazy thing firing off into the air scared the bananas outta me. Huh... I bet the ancients used them to get around! Which means...I can too! C'mere, round thingy! Time to show Master Kohga what you can do. Hee-yah!",
+      "cn": "啊哈，更多古代的小玩意儿！和上一个很像……那疯狂地射向空中的东西把我吓得魂飞魄散。嗯……我敢打赌古代人用它们来移动！也就是说……我也可以！过来，圆东西！是时候让可盖大人看看你的能耐了。嘿呀！"
+    },
+    {
+      "Number": "007",
+      "Voice Memory": "Puffshroom",
+      "Description": "Ooo, this is a new mushroom! I've never seen anything like it on the surface... Maybe just one little bite. Ack! What is this smoke?! I can't see anything... Oh, just like a smoke screen! I should hang on to a few of these for the next time things are looking dicey...",
+      "cn": "哦哦，这是种新蘑菇！我在地表上从没见过这样的东西……或许可以尝一小口。呀！这是什么烟？！我什么都看不见了……哦，就像烟幕弹一样！我应该留几个，以备下次情况不妙时使用……"
+    },
+    {
+      "Number": "008",
+      "Voice Memory": "Invitation to Join the Yiga Clan",
+      "Description": "OK, so there are Bokoblins down here... And they're smart enough to mine for...something...using tools... But they attack me right away. Here I thought faithful servants of the Magnificent One would want to be friends... Could have at least talked first...",
+      "cn": "好吧，原来这里有波克布林……而且它们还挺聪明，会用工具开采……某种东西……但它们一上来就攻击我。我还以为那位大人的忠实仆人会想交朋友呢……至少可以先谈谈嘛……"
+    },
+    {
+      "Number": "009",
+      "Voice Memory": "Escaping the Bokoblins",
+      "Description": "Heh, good riddance to those Bokoblins... I guess they don't like this light. I was going to let them join my new Yiga Clan Depths Squad, but they definitely like attacking me too much. Makes me miss the Yiga Clan. I wonder what they're up to...",
+      "cn": "嘿，总算摆脱那些波克布林了……我猜它们不喜欢这光。我本打算让他们加入我新的依盖队地底小队，但他们实在太喜欢攻击我了。这让我想念依盖队了。不知道他们现在在干什么……"
+    },
+    {
+      "Number": "010",
+      "Voice Memory": "Abandoned Kara Kara Mine",
+      "Description": "What's the deal with this place? The furnace is blazing away but no one to be seen... Though from a distance, it did look like this green thing was moving! Hm. Maybe I should go find something to eat. Things will go bad if I start hallucinating.",
+      "cn": "这个地方是怎么回事？熔炉烧得正旺，却一个人影都看不见……不过从远处看，这个绿色的东西确实像在动！嗯。也许我该去找点吃的。如果开始出现幻觉就糟了。"
+    },
+    {
+      "Number": "011",
+      "Voice Memory": "Tempted by the Muddle Bud",
+      "Description": "Ah-ha! Is THIS the source of that horrible, rotting smell? It. Is. AWFUL. I can't stand it. I hate it! I...don't want to stop smelling it. Whoa. Little bit dizzy all of a... Hey, over there! Those aren't Bokoblins—they're Yiga! Guys! GUUUYS!",
+      "cn": "啊哈！这就是那股可怕的、腐烂气味的来源吗？简直。太。难闻了。我受不了了。我讨厌它！我……却不想停止闻它。哇哦。突然有点头晕……嘿，那边！那些不是波克布林——是依盖队的人！伙计们！伙计们！"
+    },
+    {
+      "Number": "012",
+      "Voice Memory": "Standing Shadows",
+      "Description": "Is that... At last! Someone to help me! There are Bokoblins chasing... Huh? Coulda sworn there was someone here... Grrr! No one tells you how lonely solitude is... I'd even accept the company of that Link character... NO! What am I saying? I'll never forgive him for casting me down into the Depths! Never!",
+      "cn": "那是……终于！有人来帮我了！有波克布林在追……嗯？我发誓刚才这里有人的……可恶！没人告诉过你独处有多么孤独……我甚至愿意接受那个叫林克的家伙的陪伴……不！我在说什么？我永远不会原谅他把我扔到地底！永远！"
+    },
+    {
+      "Number": "013",
+      "Voice Memory": "Silent Companions",
+      "Description": "Ugh, I was SURE this one was a person. But nope, just another statue. Figures... Hey, there are a lot of statues down here. Maybe I'll just head from one to the next, starting with where this one is looking. I haven't got anywhere else to be...",
+      "cn": "唉，我确信这个是个人。但结果不是，又是一座雕像。果然……嘿，这里下面有好多雕像。也许我就从一个雕像走向下一个，就从这个雕像看的方向开始吧。反正我也没别的地方可去……"
+    },
+    {
+      "Number": "014",
+      "Voice Memory": "Essence of Banana",
+      "Description": "Oh good, more ruins. Couldn't be an actual village, could it? Hrmph, and no water either. I keep hallucinating Yiga calling out to me. \"Kohga... Kohga...\" Feels like yesterday that I inherited that name... So long ago—that smell! That's...banana, set out to ripen for five days! JUST HOW I LIKE IT. It must be them! Yiga Clan! GUYS?!",
+      "cn": "哦，太好了，又是废墟。总不可能是个真正的村庄吧？哼，连水都没有。我一直幻听依盖队的人在叫我。“可盖……可盖……”感觉就像昨天我才继承了这个名字……那么久以前——那味道！那是……香蕉，放了五天催熟的！正是我喜欢的味道。一定是他们！依盖队！伙计们？！"
+    },
+    {
+      "Number": "015",
+      "Voice Memory": "Master Kohga's Education, Part 3",
+      "Description": "The Yiga are gathering critical bananas—I mean supplies—for us to set up the Depths branch of the Yiga Clan. While they do that, I need to figure out how this device works. Cloth with a hole at the bottom... What if I put fire here? Hmm... Uh huh... Oh! Oh, no! S-stop! Don't fly away!",
+      "cn": "依盖队正在为我们建立依盖队地底分部收集关键的香蕉——我是说物资。在他们做这些的时候，我需要搞清楚这个装置是怎么工作的。一块底部有洞的布……如果我在这里放火会怎么样？嗯……嗯哼……哦！哦，不！停、停下！别飞走了！"
+    },
+    {
+      "Number": "016",
+      "Voice Memory": "The Cemetery's Secret",
+      "Description": "Is this some kinda grave... Hmm... No bones though. Not a grave after all, are you? I bet you're hiding something... Aha! A treasure chest, ha ha! Now I'll just...open... Grr! Rusted! Anything else here? Ah, a notebook! I can't read the letters, but...... Hehehe, I know what this is! It seems luck hasn't abandoned me yet!",
+      "cn": "这是某种坟墓吗……嗯……不过没有骨头。看来你终究不是坟墓，对吧？我敢打赌你藏了什么东西……啊哈！一个宝箱，哈哈！现在我只要……打开……可恶！生锈了！这里还有别的东西吗？啊，一本笔记！我看不懂上面的字，但是……嘿嘿嘿，我知道这是什么！看来运气还没抛弃我！"
+    },
+    {
+      "Number": "017",
+      "Voice Memory": "Unsafe Gathering",
+      "Description": "Nuh-uh, hehehe! You can't fool me! This place has all the makings of a trap. See, if I get closer, like this... There! Trap sprung! Haha! So easy to— Hey, what are you— S-stop it! I don't wanna fight you!",
+      "cn": "不不，嘿嘿嘿！你骗不了我！这个地方处处都像个陷阱。看，如果我再靠近一点，像这样……有了！陷阱触发了！哈哈！太容易了——嘿，你干什么——住、住手！我不想和你打！"
+    },
+    {
+      "Number": "018",
+      "Voice Memory": "Great Skeletons of the Depths",
+      "Description": "Whoooa. I've seen some big skeletons in Gerudo Desert, but I don't think I've run into anything like that down here... Hm. Hmmmmmm. If the surface and the Depths are connected, then that means the creatures living up above could come down here! I think!",
+      "cn": "哇哦。我在格鲁德沙漠见过一些大骨架，但我不觉得在这里下面见过这样的东西……嗯。嗯嗯嗯嗯嗯。如果地表和地底是相连的，那就意味着生活在上面的生物可以下来这里！我想是这样！"
+    },
+    {
+      "Number": "019",
+      "Voice Memory": "Master Kohga's Education, Part 4",
+      "Description": "The pictures in that book from the graveyard were very, very clear. These things all attach in different ways to make something else! So if I this cloth...connect it to the platform...put this wind-blowing thing here... Ha! Then if I lit a fire under it, It'd work! Hehehe... Yeah, I need to study this notebook. Time to head to the hole under the hideout!",
+      "cn": "那本从墓地里找到的书里的图画非常非常清晰。这些东西以不同的方式连接在一起，可以制造出别的东西！所以如果我把这块布……连接到平台上……把这个吹风的东西放在这里……哈！然后如果我在下面点火，它就能工作了！嘿嘿嘿……是啊，我得研究研究这本笔记。该去藏身处下面的洞里了！"
+    },
+    {
+      "Number": "020",
+      "Voice Memory": "Building Up the Yiga Clan Empire",
+      "Description": "Hehehe... OK, so I think it'll work to set up a base here, close to the hideout... But what do I do about that graveyard notebook? The drawings in it are ab-so-lutely schematics of some kind...but they look like impossible, unbuildable wastes of time... BUT! If they aren't... I should explore the Depths some more...",
+      "cn": "嘿嘿嘿……好吧，我想在这里建一个基地是可行的，离藏身处很近……但那本墓地笔记该怎么办？里面的图纸绝对是某种设计图……但它们看起来像是无法建造、浪费时间的东西……但是！如果它们不是呢……我应该再多探索一下地底……"
+    },
+    {
+      "Number": "021",
+      "Voice Memory": "The Glutton Frox",
+      "Description": "Yooou big, stupid toad thing! Why do you have good-looking ore on your head if you're just gonna try and eat me when I check it out?! I hope you like that bomb flower I gave you! I hope it gives you gas!",
+      "cn": "你这个又大又蠢的蛤蟆东西！你头上长着好看的矿石，为什么我一查看你就要吃我？！希望你喜欢我给你的炸弹花！希望它让你胀气！"
+    },
+    {
+      "Number": "022",
+      "Voice Memory": "An Ancient Guard",
+      "Description": "The notebook had info about this thing, I'm sure. What page was that? Ummm...ummm... Aha! Here we go. According to these pictures, this creature gets all...person shaped when you get too close. Must be some kind of guard? It's got glowing red eyes, and those are ALWAYS bad news. I'll...keep my distance.",
+      "cn": "我确定，笔记里有关于这个东西的信息。是哪一页来着？嗯……嗯……啊哈！找到了。根据这些图画，当你靠得太近时，这个生物会变得……像人一样。肯定是某种守卫吧？它有发光的红眼睛，那总是坏消息。我还是……保持距离吧。"
+    },
+    {
+      "Number": "023",
+      "Voice Memory": "They Shall Be Called Zonai Devices!",
+      "Description": "I bet the notebook I found belonged to a Zonai. And if I'm right about that, then...this shape must be \"zo,\" and I think this one is \"na,\" and THIS is \"i.\" Hmmm... \"De...vice...\" \"Zonai device...\" Zonai device! Yeah, that seems right, and I don't care if it isn't!",
+      "cn": "我敢打赌我找到的笔记是属于一个左纳乌的。如果我猜对了，那么……这个形状一定是“zo”，我想这个是“na”，而这个是“i”。嗯嗯嗯……“De...vice……”“Zonai device……”左纳乌装置！是啊，听起来很对，就算不对我也不在乎！"
+    },
+    {
+      "Number": "024",
+      "Voice Memory": "A Way Up",
+      "Description": "So... Obviously this was meant to send things to the surface. What I don't understand is how it moves things through the ground. The pictures in the notebook look like it just...happens. They just...go through. Grrr... I don't get it! And I can't use this to send stuff to a base on the surface if I can't figure it out!",
+      "cn": "所以……很明显，这是用来把东西送到地表的。我不明白的是它如何让东西穿过地面。笔记里的图画看起来就像它……自然而然地发生了。它们就这么……穿过去了。可恶……我不懂！如果我搞不明白，我就没法用它把东西送到地表的基地！"
+    },
+    {
+      "Number": "025",
+      "Voice Memory": "A Stone Giant",
+      "Description": "Annnd there's the face. Hm. You're not in the notebook. Does that mean the Zonai didn't make you? And how'd you get turned to stone, anyway? Maybe the Goddess did it because you did something bad... Well, bad by her standards. And if she didn't like you, I bet we woulda gotten along.",
+      "cn": "然后……脸出现了。嗯。你不在笔记里。这是否意味着左纳乌没有制造你？话说回来，你是怎么变成石头的？也许是女神干的，因为你做了坏事……嗯，按她的标准是坏事。如果她不喜欢你，我敢打赌我们肯定能合得来。"
+    },
+    {
+      "Number": "026",
+      "Voice Memory": "Gleeok Den",
+      "Description": "Ho ho ho! Look at this level ground! And cliffs on all sides... This would be the perfect spot for a base! I...would have to get rid of those statues though. Oh! And replace them with statues of me! But...what poses would be best? Maybe...THIS! Or I could do...HA! What about—wait. Is that growling? Ah! What is THAT?! AAH!",
+      "cn": "嚯嚯嚯！看这平坦的地面！四面都是悬崖……这里简直是基地的完美地点！不过……我得把那些雕像弄走。哦！然后换成我的雕像！但是……什么姿势最好呢？也许……这个！或者我可以……哈！要不——等等。那是什么在咆哮？啊！那是什么？！啊啊啊！"
+    },
+    {
+      "Number": "027",
+      "Voice Memory": "Master Kohga's Education, Part 5",
+      "Description": "Whoa, yes! There we go! Finally, a stick-shaped Zonai device that looks like it could steer things! Like a...steering stick! With this, the Yiga Clan will be able to use Zonai Devices with only a little bit of training! Plus, now I can try making this bird-like thing from the notebook...",
+      "cn": "哇，太好了！就是这个！终于，一个像棍子一样的左纳乌装置，看起来可以用来操控东西！就像……一个操纵杆！有了这个，依盖队只需要稍加训练就能使用左纳乌装置了！另外，现在我可以试试做笔记里那个像鸟一样的东西了……"
+    },
+    {
+      "Number": "028",
+      "Voice Memory": "Death Mountain Initiation",
+      "Description": "Ugh... No, no I can't keep going. It's too hot... What's the deal? This place feels like it's under Death Mountain... Whew... Yeah, no fireproof elixirs on me, and I don't see any fireproof lizards around... Definitely...phew...definitely time we head back!",
+      "cn": "呃……不，不行，我走不动了。太热了……怎么回事？感觉这个地方在死亡之山下面……呼……是啊，我身上没有防火药，也看不到任何防火蜥蜴……绝对……呼……绝对该回去了！"
+    },
+    {
+      "Number": "029",
+      "Voice Memory": "Master Kohga's Education, Part 6",
+      "Description": "OK, I think I've finally escaped that scorching misery of a place... Oh! Wheels! Big ones AND small ones! Hmm...I bet the small ones are really maneuverable, but those big ones would be great for tough paths... Oooh, we Yiga have such good reflexes and balance, I bet we could even make a unicycle with these!",
+      "cn": "好吧，我想我终于逃离了那个酷热难耐的地方……哦！轮子！大的和小的都有！嗯……我敢打赌小的肯定很灵活，但大的在崎岖的路上会很好用……哦哦哦，我们依盖队的反应和平衡感那么好，我打赌我们甚至可以用这些做一个独轮车！"
+    },
+    {
+      "Number": "030",
+      "Voice Memory": "A Deep Firefly",
+      "Description": "OK, what is that glowing creature? Some kinda...bug. Maybe we could use it in an elixir that helps with the darkness down here... Gotta catch it first, but that'll be easy! Nothing is sneakier than a Yiga in their Yiga Clan clothes... Uuuh, what? Are you kidding me? Is that tree WALKING?!",
+      "cn": "好吧，那个发光的生物是什么？某种……虫子。也许我们可以用它来制作药剂，帮助应对这里的黑暗……得先抓住它，但这很简单！没有什么比穿着依盖队服装的依盖队成员更鬼祟的了……呃，什么？你在开玩笑吗？那棵树在走路？！"
+    },
+    {
+      "Number": "031",
+      "Voice Memory": "Zora Statues",
+      "Description": "This statue looks a lot like a Zora... Which means that statue of a woman I saw before was probably a Gerudo. And if I follow this statue, I'll probably find something man-made eventually too... I think I'm beneath the Lanayru region, but that'd mean the Depths are massive! I'll never finish exploring them...",
+      "cn": "这座雕像很像一个卓拉人……这意味着我之前看到的那座女人的雕像可能是一个格鲁德人。如果我跟着这座雕像走，我最终可能也会找到一些人造的东西……我想我在拉聂尔地区下面，但那意味着地底非常巨大！我永远也探索不完……"
+    },
+    {
+      "Number": "032",
+      "Voice Memory": "Abandoned Lanayru Mine",
+      "Description": "So this is where all those Zora statues were leading me to... kinda like how the Gerudo statues pointed the way. Must be important! And sturdy, by the look of it. A perfect place for a Yiga Clan base!",
+      "cn": "所以这就是所有那些卓拉雕像指引我来的地方……有点像格鲁德雕像指路的方式。一定很重要！而且看样子很坚固。是依盖队基地的完美地点！"
+    },
+    {
+      "Number": "033",
+      "Voice Memory": "What Lives in the Abandoned Mine?",
+      "Description": "This thing was definitely moving! It withdrew the moment it noticed me, but I saw it! Its neck was all stretched out just like the pictures in the notebook! I can't believe something so ancient still works... Better take it with me. OK lift with your legs and— Oh, wow you're heavy! Never mind! The younger Yiga can haul this home.",
+      "cn": "这个东西肯定动了！它一注意到我就缩回去了，但我看见了！它的脖子伸得长长的，就像笔记里的图画一样！真不敢相信这么古老的东西还能用……最好把它带走。好吧，用腿发力——哦，哇，你好重！算了！让年轻的依盖队成员把它拖回家吧。"
+    },
+    {
+      "Number": "034",
+      "Voice Memory": "Oozing Madness",
+      "Description": "Ho-ho, I knew it the moment I saw it—that red ooze is NOT good. It feels like part of my soul is being stolen right out of me at the slightest touch. And lately the stuff has been getting everywhere. BUT! I figured out the secret: don't touch it! And THAT is why the HOVERDOOM MK. 1 is the best thing ever.",
+      "cn": "嚯嚯，我一看到它就知道了——那红色的黏液不是好东西。感觉轻轻一碰，我的一部分灵魂就被抽走了。而且最近这东西到处都是。但是！我发现了秘密：别碰它！这就是为什么“悬浮末日一号”是史上最棒的东西。"
+    },
+    {
+      "Number": "035",
+      "Voice Memory": "Spirit Temple",
+      "Description": "Turns out if I stare at Zonai letters long enough, I can learn to read them! It also turns out someone named Mineru wrote this notebook I found. They were apparently the last Zonai to manage this place... Anyway, I came here looking for prototype constructs, not a big owl statue. And that isn't a construct! Err...right?",
+      "cn": "原来只要我盯着左纳乌文字足够久，就能学会读它们！还发现一个叫米涅鲁的人写了我找到的这本笔记。他们显然是最后一个管理这个地方的左纳乌……总之，我来这里是找原型魔像的，不是找一个大猫头鹰雕像。而且那不是魔像！呃……对吧？"
+    },
+    {
+      "Number": "036",
+      "Voice Memory": "Construct Factory",
+      "Description": "All right, so instead of prototype constructs, this place is...empty. That's great. Not like I had plans to use everything I was gonna find... At least I have the schematics for Mineru's construct! I can just make that myself. A construct by me, for me. Heeheeheeheehee...",
+      "cn": "好吧，所以这里没有原型魔像，而是……空的。太棒了。又不是我本来就计划用上我能找到的所有东西……至少我有米涅鲁魔像的设计图！我自己就能造一个。一个由我制造、为我所用的魔像。嘻嘻嘻嘻嘻……"
+    },
+    {
+      "Number": "037",
+      "Voice Memory": "Mecha Kohga 5000 - Deluxe",
+      "Description": "So I thought Zonai devices were only good for getting around, but a fire-breathing dragon head? That's really...dangerous... Oh-ho, I have an idea! If I take this and some spikes and add them to my construct... Yes, YES! This could be amazing. This could be incredible! This could be...\"Mecha Kohga 5000 - Deluxe\"!",
+      "cn": "我原以为左纳乌装置只适合用来移动，但一个会喷火的龙头？那真的……很危险……哦嚯，我有个主意！如果我把这个和一些尖刺加到我的魔像上……是啊，是啊！这会很惊人。这会很不可思议！这会是……“机械可盖5000 - 豪华版”！"
+    },
+    {
+      "Number": "038",
+      "Voice Memory": "Uninvited Guests",
+      "Description": "So that last earthquake opened up a bunch of holes to the surface, and apparently Zelda has some new minions. They're calling themselves a \"survey team\"—boring—and they have started poking around down here in the Depths. Rude. RUDE! I was here first! I could erase them from existence the moment I see them, but... Maybe I should let them look around and see what they find? THEN erase them! HA!",
+      "cn": "上次地震在地表上打开了好多洞，显然塞尔达有了一些新的手下。他们自称“调查队”——真无聊——并且开始在地底这里到处乱逛。无礼。太无礼了！我先来的！我可以在看到他们的瞬间就让他们从世界上消失，但是……也许我应该让他们四处看看，看看他们能发现什么？然后再消灭他们！哈！"
+    },
+    {
+      "Number": "039",
+      "Voice Memory": "Great Abandoned Central Mine",
+      "Description": "Yeah, this is definitely the place the notebook mentioned. It says a construct here will let you use Zonai power to memorize and rebuild a design once it's been made. That would be really useful, except there's another one of those green crests! And it doesn't do anything! Grrr... Someone else can figure it out!",
+      "cn": "是啊，这绝对是笔记里提到的地方。上面说这里的一个魔像能让你用左纳乌的力量来记忆并重建一个已经做好的设计。那会很有用，只可惜这里又有另一个那种绿色的徽章！而且它什么用都没有！可恶……让别人去搞明白吧！"
+    },
+    {
+      "Number": "040",
+      "Voice Memory": "Spy Report",
+      "Description": "It is a good day! I got a report from one of my spies in the survey team—they say the Demon King has awakened! And both Zelda and Link have gone missing! This is the perfect opportunity to show the Magnificent One that we, his best and most loyal retainers, are ready to support him!",
+      "cn": "真是个好日子！我从调查队的一个间谍那里得到报告——他们说魔王已经觉醒了！而且塞尔达和林克都失踪了！这是向那位大人展示我们——他最优秀、最忠诚的部下——已经准备好支持他的绝佳机会！"
+    },
+    {
+      "Number": "041",
+      "Voice Memory": "Secret Spring of Revival",
+      "Description": "Ahhhh... OK, the Yiga Clan knows where and how to build the base. They can handle the menial work from here. Meanwhile after I'm done soaking—I need to hurry to the Magnificent One. A meeting with him is not something I would leave to anyone else... Ahhh...",
+      "cn": "啊……好吧，依盖队知道在哪里以及如何建造基地。从现在开始，他们可以处理这些琐碎的工作。与此同时，等我泡完澡——我得赶紧去见那位大人。与他的会面，我可不会交给任何其他人……啊……"
+    },
+    {
+      "Number": "042",
+      "Voice Memory": "Zonai Charge",
+      "Description": "I heard a reeeally interesting bit of news from one of my spies in the Zonai Survey Team. It seems there's lots of Zonai stuff down here because the ancient Zonai were digging all over the Depths to find an ore called Zonaite. Which must mean the place with the big furnace is an abandoned mine... And THAT obviously means this incredible source of energy was meant for me to control!",
+      "cn": "我从左纳乌调查队的一个间谍那里听到了一个非常非常有趣的消息。看来这里下面有很多左纳乌的东西，因为古代的左纳乌人在整个地底到处挖掘，寻找一种叫做左纳尼乌姆的矿石。那肯定意味着那个有大熔炉的地方是一个废弃的矿井……而那显然意味着这个不可思议的能源是注定要由我来控制的！"
+    },
+    {
+      "Number": "043",
+      "Voice Memory": "Abandoned Hebra Mine",
+      "Description": "It seemed really strange that the Rito statues ended abruptly, but turns out the entrance is on the surface, and it's right under Rito Village. Hmm... Maybe all the mines those statues point to are under big settlements? If that's true, we could employ some sneaky-sneaky stabby-stabby and attack from below while they're distracted. Magnificent One, I hope you approve of my incredibly clever plan!",
+      "cn": "利特族的雕像突然中止，这看起来真的很奇怪，但原来入口在地表，就在利特村的正下方。嗯……也许那些雕像指向的所有矿井都在大型聚落下面？如果这是真的，我们可以用些偷偷摸摸、刺刺杀杀的手段，趁他们分心的时候从下面攻击。大人，希望您能批准我这个绝顶聪明的计划！"
+    },
+    {
+      "Number": "044",
+      "Voice Memory": "Lomei",
+      "Description": "Grrr...ugh...heee... Almost... Gah! No good. Curse my banana gut! The price I pay for those lovely yellow fruits... Ugh, I just KNOW there's gotta be a great treasure if a Flux Construct is here. But no. Bananas are once again my undoing. I'm done with this. That treasure chest probably won't open anyway!",
+      "cn": "可恶……呃……嘿……就差一点……呀！不行。该死的我的香蕉肚！为了那些可爱的黄色水果我付出的代价……唉，我就知道如果这里有方块魔像，肯定有大宝藏。但是不行。香蕉又一次成了我的败因。我不干了。那个宝箱反正也可能打不开！"
+    },
+    {
+      "Number": "045",
+      "Voice Memory": "The Dragon's Path",
+      "Description": "Huh? What's that? It feels like something is overhead... And the wind... Did it just pick up? But I don't... Oh. OH! What's that?! It's hard to make it out but... Is that a dra...a dra...a dragon? HOW DID I NOT NOTICE A DRAGON?!",
+      "cn": "嗯？那是什么？感觉头顶上有什么东西……还有风……是刚才刮起来的吗？但是我没……哦。哦！那是什么？！很难看清楚，但是……那是一条……一条……一条龙吗？我怎么会没注意到一条龙？！"
+    },
+    {
+      "Number": "046",
+      "Voice Memory": "Yiga Clan: Aquatics Division",
+      "Description": "Ho...hooo... That is a really big lake. Perfect for the Aquatic Division of the Yiga Clan. We'll have to move quickly to build more powerful water vehicles. And obviously we'll need to train Yiga to use them! We must be ready for whatever the Magnificent One needs!",
+      "cn": "嚯……嚯哦哦……那真是一个很大的湖。非常适合依盖队的水上部队。我们必须迅速行动，建造更强大的水上载具。而且很明显，我们需要训练依盖队成员来使用它们！我们必须为那位大人的任何需求做好准备！"
+    },
+    {
+      "Number": "047",
+      "Voice Memory": "Little Frox Farm",
+      "Description": "All of the monsters down here are so strong! Stronger than a hundred men! But...none of them listen to me! The moment I find one, I get attacked. I hate getting attacked! Annnd that's why I've launched the \"Monster Training Program.\" Just as every child bonds with their parent, every monster I raise will bond with me! And they will serve the Demon King! Bwahaha—heeey! I'm not food! No I'm nooot. Stop biting meee.",
+      "cn": "这里所有的怪物都太强了！比一百个人还强！但是……没有一个听我的！我一找到一个，就被攻击了。我讨厌被攻击！所以，我启动了“怪物训练计划”。就像每个孩子都会和父母建立亲情一样，我养的每个怪物都会和我建立感情！他们将为魔王服务！哇哈哈——嘿！我不是食物！我不是。别咬我了。"
+    },
+    {
+      "Number": "048",
+      "Voice Memory": "Origins of the Gloom",
+      "Description": "So there's a name for that red stuff I keep finding all over the Depths: gloom! I wish I'd known it was flowing from the Magnificent One—I would have just followed it to him! I can't now, though—the blasted stuff is all over the place and impossible to back track. Stupid no good... Errr... I mean... I like the Magnificent One's gloom! A lot! So much! the acoustics down here just made it SOUND like I was complaining. But I wasn't. Gloom gloom gloom!",
+      "cn": "原来我一直在地底到处发现的红色东西有个名字：瘴气！要是我早知道它是从那位大人那里流出来的——我早就跟着它找到他了！但现在不行了——这该死的东西到处都是，根本无法回头。愚蠢没用的……呃……我的意思是……我喜欢那位大人的瘴气！非常喜欢！非常非常喜欢！只是这里的音响效果让它听起来像我在抱怨。但我没有。瘴气瘴气瘴气！"
+    },
+    {
+      "Number": "049",
+      "Voice Memory": "The Giant and the Bokoblin",
+      "Description": "At first, I thought this was a giant Bokoblin—and I absolutely didn't even flinch at the sight—but it seems to just be a Statue... Hm? Hang on, is this the back? Why would there be a big Bokoblin face there? Could it be some kind of disguise? Hrm. Reminds me of that guy on the surface who makes monster masks.",
+      "cn": "起初，我以为这是一个巨大的波克布林——而且我看到它时绝对连眼睛都没眨一下——但它似乎只是一座雕像……嗯？等等，这是背面吗？为什么那里会有一个大的波克布林脸？难道是某种伪装？嗯。让我想起了地表上那个做怪物面具的家伙。"
+    },
+    {
+      "Number": "050",
+      "Voice Memory": "Signs of the Demon King",
+      "Description": "I understand that the gloom is a blessing given to us by the Magnificent One...and that stepping on it is basically an insult to him. BUT... It's really gotten all over the place. I don't know how people on the surface avoid it, even if it is less thick up there. Wait. Could that mean... The Magnificent One must be in the Depths with us!",
+      "cn": "我明白瘴气是那位大人赐予我们的祝福……踩在上面基本上是对他的侮辱。但是……它真的到处都是。我不知道地表的人是怎么避开它的，即使那里的瘴气没那么浓。等等。那是不是意味着……那位大人一定和我们一起在地底！"
+    },
+    {
+      "Number": "051",
+      "Voice Memory": "Sundelions",
+      "Description": "I'm willing to bet all my bananas that the Magnificent One is down here. The gloom is so thick...like a red oozy soup. But it's too thick for even the Yiga Clan to avoid it while searching. Wasn't there something one of my spies said about sundelions and the gloom? I'll need to look into that...",
+      "cn": "我敢用我所有的香蕉打赌，那位大人就在这下面。瘴气太浓了……就像红色的黏糊糊的汤。但它太浓了，连依盖队在搜索时都无法避开。我的一个间谍不是提过关于向阳草和瘴气的事吗？我得去查查……"
+    },
+    {
+      "Number": "052",
+      "Voice Memory": "Master Kohga's Wish",
+      "Description": "The notebook says this is where people wished for matchmaking. Or something... Well, in that case, I wish to meet the Demon King! Hm... Maybe there's a trick to it? I wish to meet the Demon King! I wish to meet the Demon King! I WISH TO MEET THE DEMON KING!",
+      "cn": "笔记上说这里是人们许愿求姻缘的地方。或者之类的……嗯，既然如此，我希望能见到魔王！嗯……也许有什么诀窍？我希望能见到魔王！我希望能见到魔王！我希望能见到魔王！"
+    },
+    {
+      "Number": "053",
+      "Voice Memory": "Yiga Clan HQ",
+      "Description": "Monsters and gloom don't seem to like the water in the Depths, making lakes the perfect place for bases! We've already got a perfect site up and running, and the Yiga are making progress using Zonai devices. They're turning out one schematic after another! Hahaha... But also I should really get to work on...Mecha Kohga 5000 - Deluxe!",
+      "cn": "怪物和瘴气似乎不喜欢地底的水，这使得湖泊成为基地的完美地点！我们已经有一个完美的基地在运行了，依盖队在使用左纳乌装置方面取得了进展。他们一个接一个地搞出了设计图！哈哈哈……不过我也该开始着手……机械可盖5000 - 豪华版了！"
+    },
+    {
+      "Number": "054",
+      "Voice Memory": "Unwelcome News",
+      "Description": "Grrr... That cursed Link is back! I knew rumors of him vanishing were too good to be true! And where you find Link, you'll find someone pulling his strings! It can't be Zelda though. She's long gone from this world... Or is she? The royal family can be tricky... Hmmm. OK. Assume nothing, and only rest when I'm SURE the job is done!",
+      "cn": "可恶……那个该死的林克回来了！我就知道他失踪的谣言好得不像是真的！有林克的地方，就有人在背后操纵他！不过不可能是塞尔达。她早就离开这个世界了……或者她还在？王室的人很狡猾……嗯。好吧。不要做任何假设，只有在我确定任务完成时才能休息！"
+    },
+    {
+      "Number": "055",
+      "Voice Memory": "Unlocking an Ancient Power",
+      "Description": "Where could the Magnificent One be? We've searched high and low with nothing to— Hmm? Hey, you! Why are you in such a hurry? Slow down, there's no need to— What? The green crest? You've figured out how to make it work? Then we have to hurry to the Great Abandoned Central Mine! Hurry! GO FASTER!",
+      "cn": "那位大人会在哪里呢？我们上上下下都找遍了，什么也没——嗯？嘿，你！你为什么这么着急？慢点，没必要——什么？那个绿色的徽章？你搞清楚怎么让它工作了？那我们得赶紧去中央大废矿！快！再快点！"
+    }
+  ]
+}

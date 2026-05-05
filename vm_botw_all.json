@@ -1,0 +1,752 @@
+[
+  {
+    "Number": "001",
+    "Voice Memory": "Skilled Assembly",
+    "Description": "I understand that the gates of Hyrule Castle are being built in preparation for the Calamity. At the moment, Sheikah researchers and skilled Goron blacksmiths are working together and have gathered within the castle walls. It's clear to me that Father is taking the threat of the Calamity seriously.",
+    "cn": "我了解到，为了应对灾厄，海拉鲁城堡的大门正在修建。目前，希卡族的研究人员和技艺精湛的鼓隆族铁匠正在合作，并已聚集在城堡的围墙内。很明显，父亲正在认真对待灾厄的威胁。"
+  },
+  {
+    "Number": "002",
+    "Voice Memory": "Dreading Banquets",
+    "Description": "The dining hall is occasionally used for grand banquets. I cannot say I enjoy the looks other attendees give me—they are always ones of expectation and disappointment. But whenever I feel such pressure, I fix my eyes on the knight who stands at the entrance to the hall. His unchanging nature is a welcome relief to me...",
+    "cn": "餐厅偶尔会用来举办盛大的宴会。我不能说我喜欢其他与会者看我的眼神——那总是充满期待和失望的眼神。但每当我感到这种压力时，我就会把目光投向站在大厅入口处的骑士。他那不变的本性对我来说是一种可喜的慰藉……"
+  },
+  {
+    "Number": "003",
+    "Voice Memory": "Down Below...",
+    "Description": "Ah, the observation room. Father would often stand here, looking with kind eyes down upon the bustling town below. I recall him saying, \"One cannot rule a country without knowing its people.\"",
+    "cn": "啊，观景室。父亲常常站在这里，用慈祥的目光俯瞰着下面熙熙攘攘的城镇。我记得他说过：“不了解人民，就无法治理一个国家。”"
+  },
+  {
+    "Number": "004",
+    "Voice Memory": "The Protective Gate",
+    "Description": "The purpose of a gatehouse such as this is to allow enemy soldiers in—only to seal the entrance shut, cutting them off from their forces before wiping them out entirely. Over its long history, the first gatehouse has never been breached.",
+    "cn": "像这样的门楼，其目的就是放敌军进来——然后封死入口，将他们与主力部队切断，再将其一网打尽。在其悠久的历史中，第一门楼从未被攻破过。"
+  },
+  {
+    "Number": "005",
+    "Voice Memory": "A Stream of Support",
+    "Description": "We are fortunate that so many aspiring soldiers have come to our aid from many different settlements. The guards' chamber is so crowded now that the sound of clashing swords seems unending... I, too, must contribute as best I can during these times.",
+    "cn": "我们很幸运，有这么多有志之士从各个不同的定居点前来援助我们。卫兵室现在拥挤不堪，刀剑碰撞的声音似乎永无止境……在这样的时期，我也必须尽我所能做出贡献。"
+  },
+  {
+    "Number": "006",
+    "Voice Memory": "Rusted Prison",
+    "Description": "If the sturdy iron bars are any indication, those who are brought to the lockup must've committed weighty crimes. I don't believe it's been in use for a very long time, so the guards who would normally stand post here have instead been sent to watch over the castle.",
+    "cn": "如果这些坚固的铁栏能说明什么的话，那么被带到拘留所的人一定犯下了重罪。我不认为这里已经使用了很长时间，所以通常在这里站岗的卫兵都被派去看守城堡了。"
+  },
+  {
+    "Number": "007",
+    "Voice Memory": "Busy Days",
+    "Description": "I've heard the docks were originally built as an escape route for emergencies. Now, instead, it serves as a bustling hub for merchants and fishers. Hm... I've not seen that large brazier lit before. I wonder if there is a reason for it.",
+    "cn": "我听说码头最初是作为紧急情况下的逃生路线而建造的。现在，它反而成了商人和渔民的繁华枢纽。嗯……我以前没见过那个大火盆被点燃。不知道是不是有什么原因。"
+  },
+  {
+    "Number": "008",
+    "Voice Memory": "A Princess's Secret",
+    "Description": "Books from all around Hyrule live here in this library. As such, it is a critical place for conducting research, but Father has forbidden entry. Guards are on constant watch just outside the entrance, so for now, it's better to enter using the hidden passage from the docks.",
+    "cn": "这座图书馆里收藏着来自海拉鲁各地的书籍。因此，这里是进行研究的关键场所，但父亲禁止入内。入口外有卫兵持续看守，所以目前最好还是从码头的密道进入。"
+  },
+  {
+    "Number": "009",
+    "Voice Memory": "Two Thrones",
+    "Description": "The throne room sits at the center of the castle and is the site of many official events. Father would take the throne to the left, and Mother, the one on the right. Her throne remains unchanged and untouched since her passing.",
+    "cn": "王座厅位于城堡的中心，是许多官方活动的举办地。父亲会坐左边的王座，而母亲则坐右边的。自她去世后，她的王座一直保持原样，未曾动过。"
+  },
+  {
+    "Number": "010",
+    "Voice Memory": "The Bell That Tolls",
+    "Description": "Days begin and end with the toll of this bell. Typically, it is heard throughout the castle and the town below. In the event of an emergency, however, its tone rings loud and clear all through Hyrule.",
+    "cn": "日子的开始和结束都伴随着这口钟的鸣响。通常，在整个城堡和下方的城镇都能听到它的声音。然而，在紧急情况下，它的钟声会响亮而清晰地传遍整个海拉鲁。"
+  },
+  {
+    "Number": "011",
+    "Voice Memory": "Sleepless Nights",
+    "Description": "Despite my lovely bed prepared for me here in my room, I cannot remember the last time I was able to sleep the night through. I suppose it's to be expected. If what was prophesied holds true, there is little time left.",
+    "cn": "尽管在我的房间里为我准备了可爱的床，但我已经不记得上一次能安稳睡通宵是什么时候了。我想这也是意料之中的事。如果预言成真，那么所剩的时间就不多了。"
+  },
+  {
+    "Number": "012",
+    "Voice Memory": "The Princess's Refuge",
+    "Description": "This place was originally used as a watchtower, but I've repurposed it into my own study. It's perfect for conducting my studies away from Father's prying eyes. At the moment, I'm learning about ancient relics as well as the preservation of endangered species.",
+    "cn": "这个地方最初是作为瞭望塔使用的，但我已将其改造成我自己的书房。这里非常适合进行我的研究，远离父亲探究的目光。目前，我正在学习古代遗物以及濒危物种的保护。"
+  },
+  {
+    "Number": "013",
+    "Voice Memory": "Memories at the Gazebo",
+    "Description": "Among the many overlooks, this is my favorite. I remember spending time with Mother here. Back then, Father still laughed—frequently... I wonder if the day will come when we can laugh together like that again.",
+    "cn": "在众多的观景台中，这是我最喜欢的一个。我记得曾和母亲在这里度过时光。那时候，父亲还经常笑……不知道我们还能像那样一起欢笑的日子会不会到来。"
+  },
+  {
+    "Number": "014",
+    "Voice Memory": "Barred from the Prison",
+    "Description": "Beyond the moat bridge lies a prison where those who have committed grave crimes are sent. Ever since I was small, I have been forbidden to cross here.",
+    "cn": "护城河桥的另一边是一座监狱，犯下重罪的人会被送到那里。从小时候起，我就被禁止从这里通过。"
+  },
+  {
+    "Number": "015",
+    "Voice Memory": "Origin of the Name",
+    "Description": "The origin of the Dragon's Blood tree's name is unknown. At one time, the water from the surrounding mountains flowed into a network of rivers on this plateau. Perhaps the water itself was likened to bleeding—the network of blood vessels, and over time, it came to be associated with dragons. Thus, the current name.",
+    "cn": "龙血树名字的由来不详。曾经，来自周围山脉的水流汇入这片高原上的河网。也许水本身被比作流血的血管网络，随着时间的推移，它便与龙联系在了一起。因此有了现在的名字。"
+  },
+  {
+    "Number": "016",
+    "Voice Memory": "Open Gate",
+    "Description": "It has been decided that we will investigate ancient Sheikah ruins in preparation for the Calamity. The entrance to the Royal Ancient Lab, which we were forbidden from opening, now stands open. Things such as blueprints still remain, and Purah and Robbie have been absorbed in reading them, sparing no time for sleep.",
+    "cn": "我们已经决定，为了应对灾厄，将调查古代希卡族的遗迹。我们曾被禁止打开的王室古代研究所的入口，现在敞开了。蓝图之类的东西仍然保留着，普尔亚和罗贝利正废寝忘食地沉浸在阅读之中。"
+  },
+  {
+    "Number": "017",
+    "Voice Memory": "Specialties",
+    "Description": "With the Rito and Gerudo coming here to offer up specialty wares from across Hyrule, Maritta Exchange is always a lively place. In particular, the fish being sold here are popular among Rito and Gerudo alike—they sell out almost immediately.",
+    "cn": "随着利特族和格鲁德族前来这里出售来自海拉鲁各地的特产，玛丽塔交易所总是热闹非凡。尤其是在这里出售的鱼，深受利特族和格鲁德族的喜爱——几乎立刻就销售一空。"
+  },
+  {
+    "Number": "018",
+    "Voice Memory": "Solitary Moving Stable",
+    "Description": "I've been told the people of Serenne Stable just moved here, hence the many wooden boxes all around. Originally, stables were started up by nomadic people who would host travelers—it seems the tents at these stables are a relic of such times. Nowadays, stables stay put, so finding a mobile one such as this is a rare thing.",
+    "cn": "我听说西诺克斯马厩的人刚搬到这里，所以周围有很多木箱。最初，马厩是由游牧民族建立的，用来招待旅行者——看来这些马厩的帐篷就是那个时代的遗物。如今，马厩都固定在一个地方，所以找到像这样可移动的马厩是很罕见的事情。"
+  },
+  {
+    "Number": "019",
+    "Voice Memory": "Over Capacity",
+    "Description": "The bridge on the south side of Tanagar Canyon is closed because of deterioration, which means the travelers coming and going from Hebra are funneling here to Snowfield Stable. It's flooded with travelers, and the innkeeps seem exhausted. Once the Calamity is behind us, one of the first orders of business will be repairing the bridge.",
+    "cn": "塔纳加尔峡谷南侧的桥因老化而关闭，这意味着往返于海布拉的旅客都涌向了雪原驿站。这里挤满了旅客，旅店老板们似乎都筋疲力尽了。一旦灾厄过去，首要任务之一就是修复这座桥。"
+  },
+  {
+    "Number": "020",
+    "Voice Memory": "Village Blanketed by Snow",
+    "Description": "Year after year, more villagers depart from Tabantha Village, never to return. It seems the bitter cold is challenging company. Now there are few who live here and lines of empty homes. Many of the people who work at Snowfield Stable are originally from here.",
+    "cn": "年复一年，越来越多的村民离开塔邦挞村，再也没有回来。看来严寒是个难熬的伴侣。现在住在这里的人很少，到处都是空置的房屋。许多在雪原驿站工作的人最初都来自这里。"
+  },
+  {
+    "Number": "021",
+    "Voice Memory": "Unwavering Devotion",
+    "Description": "The proprietor was proud to tell me that, of all of them, Rito Stable boasts the oldest history. He also shared that no matter what price was offered, he would never sell it. His passion for this place will surely be carried on through his family line.",
+    "cn": "老板自豪地告诉我，在所有马厩中，利特马厩的历史最为悠久。他还说，无论出价多少，他都绝不会卖掉它。他对这个地方的热情必将通过他的家族传承下去。"
+  },
+  {
+    "Number": "022",
+    "Voice Memory": "Divine Beast of Wind",
+    "Description": "Divine Beast Vah Medoh seems to be soaring easily through the air. Training must be going well. Among all of the Divine Beasts, I am told that Medoh, controlled by air currents, is the most challenging to maneuver. Yet Revali continues to impress. I imagine he, with his strong sense of duty and work ethic, has trained more than anyone else.",
+    "cn": "神兽瓦·梅德似乎在空中轻松翱翔。训练一定进展顺利。在所有神兽中，我听说由气流控制的梅德是最难驾驭的。然而力巴尔的表现一直令人印象深刻。我想，凭借他强烈的责任感和职业道德，他的训练一定比任何人都多。"
+  },
+  {
+    "Number": "023",
+    "Voice Memory": "Medoh's Perch",
+    "Description": "This stone pillar towers overheard in the center of the village. It occurred to me that it may be Medoh's perch...and a frightful image sprang to mind, one of the pillar crumbling beneath the weight of Medoh. However, this Divine Beast is far lighter than it appears as compared to the others. My concerns, ultimately, are unfounded.",
+    "cn": "这根石柱高耸于村庄中心。我突然想到这可能是梅德的栖息之所……一个可怕的画面浮现在脑海中，石柱在梅德的重压下 crumbling。然而，与其他神兽相比，这只神兽远比看起来要轻。我的担忧，最终是多余的。"
+  },
+  {
+    "Number": "024",
+    "Voice Memory": "Soaring Village",
+    "Description": "The winged inhabitants of this land call Rito Village their home. The wind currents facilitate upward mobility throughout its vertical design, allowing the Rito to fly from one area to another with ease. Additionally, platforms were originally constructed to connect the areas for other peoples, but it seems even the Rito are using them more and more.",
+    "cn": "这片土地上的有翼居民称利特村为家。风流在其垂直设计中促进了向上的流动性，使利特人能够轻松地从一个区域飞到另一个区域。此外，平台最初是为了连接其他民族的区域而建造的，但现在看来，连利特人也越来越频繁地使用它们了。"
+  },
+  {
+    "Number": "025",
+    "Voice Memory": "Feathered Traditions",
+    "Description": "Rito fabrics are high quality, making them popular at the Exchange. Mother adored this store and special ordered this coat—it is made with the finest of down feathers. It fits me so perfectly that it feels as though it were custom made for me. To think, I am the same height as Mother now... It brings up such feelings in me...",
+    "cn": "利特族的布料质量上乘，在交易所很受欢迎。母亲非常喜欢这家店，并特别订制了这件外套——它是由最上等的羽绒制成的。它非常合身，感觉就像是为我量身定做的一样。没想到，我现在和母亲一样高了……这让我百感交集……"
+  },
+  {
+    "Number": "026",
+    "Voice Memory": "Masterful Performance",
+    "Description": "It tends to be their fabrics that garner attention, but the Rito have the best woodworking techniques in Hyrule, as well. From their serving dishes to their structures, even the very framework of their village, the Rito have made everything from wood. I'm told the way they transport lumber midair is quite the sight, and I'd love to see it someday.",
+    "cn": "通常是他们的布料引人注目，但利特人也拥有海拉鲁最好的木工技术。从他们的餐具到建筑，甚至村庄的骨架，利特人用木头制作了一切。我听说他们在空中运输木材的方式相当壮观，我希望有一天能亲眼看到。"
+  },
+  {
+    "Number": "027",
+    "Voice Memory": "Iron-Clad Force",
+    "Description": "I've heard that the Rito use refined group tactics in combat. Their elder has incredible intellect—the sharpest among the Rito, in fact. And Revali is said to be the strongest Rito in history. It is said that they're an iron-clad force unlike any ever witnessed. I even sensed remarkable composure from the elder as he told us not to worry about them. It was reassuring.",
+    "cn": "我听说利特人在战斗中使用精妙的集体战术。他们的长老拥有非凡的智慧——事实上，是利特人中最聪明的。而力巴尔据说是历史上最强的利特人。据说他们是一支前所未见的铁甲雄师。当长老告诉我们不要为他们担心时，我甚至能感受到他非凡的镇定。这让人很安心。"
+  },
+  {
+    "Number": "028",
+    "Voice Memory": "Bedraggled Wings",
+    "Description": "Watching him practice here at the Flight Range, it is clear to me that he is a truly unique Champion. He creates an updraft and then catches it, soaring upward rapidly. He is the only one capable of such a feat, and yet it isn't even what makes him so remarkable.",
+    "cn": "在飞行训练场看着他练习，我清楚地看到他是一位真正独特的英杰。他制造一股上升气流，然后乘着它迅速飞升。他是唯一能做到这种壮举的人，然而这甚至不是他如此出众的原因。"
+  },
+  {
+    "Number": "029",
+    "Voice Memory": "Secret Rito Spring",
+    "Description": "Revali brought me to Goflam's Secret Hot Spring, telling me I was overworking myself. Since he can only carry one person, he said he would act as my guard, so Link is waiting at the village. I cannot remember the last time I relaxed on my own like this...",
+    "cn": "力巴尔带我去了哥弗拉姆的秘密温泉，说我工作过度了。因为他只能带一个人，所以他说他会做我的护卫，林克就在村里等着。我不记得上一次像这样独自放松是什么时候了……"
+  },
+  {
+    "Number": "030",
+    "Voice Memory": "The Scar's Story",
+    "Description": "I've always wanted to investigate the Hebra Mountains up close. It appears the mountainside has been scarred by an energy blast. Naturally, I would think this scarring was a direct result of the Calamity ten thousands years ago. But were that the case... Hmm... From what I can tell by looking at it, it would seem the mountain was blasted from the direction of Hyrule Castle... I find this unsettling.",
+    "cn": "我一直想近距离调查海布拉山脉。山腰似乎被一次能量爆炸留下了伤疤。很自然地，我会认为这伤疤是一万年前灾厄的直接后果。但如果真是这样……嗯……从我观察来看，似乎山是从海拉鲁城堡的方向被炸开的……这让我感到不安。"
+  },
+  {
+    "Number": "031",
+    "Voice Memory": "Forgotten Temple (Voice Memory)",
+    "Description": "These ruins are thought to date back to the kingdom's founding. It seems likely that something of great value was once here, as there are many Guardians in the area. Additionally, according to ancient documents, there was a room beyond the Goddess Statue, but it now appears to be buried in sediment.",
+    "cn": "这些遗迹被认为可以追溯到王国建立之初。这里很可能曾经存放着非常有价值的东西，因为该地区有很多守护者。此外，根据古代文献，女神像后面曾有一个房间，但现在看来已被沉积物掩埋。"
+  },
+  {
+    "Number": "032",
+    "Voice Memory": "Slumbering Ruins",
+    "Description": "The existence of a shrine has been confirmed here at Thyphlo Ruins. Could that darkness act as a test to the one chosen by the sword that seals the darkness? I don't think I can go much farther, however. I wonder if I will have to ask him to come investigate? No, I don't want to have to rely on him for this.",
+    "cn": "在奇奇马乌神庙这里已经确认了一座神庙的存在。那片黑暗是否是对被封印黑暗之剑选中的人的考验？不过，我想我不能再往前走了。不知道是否要请他来调查？不，我不想在这件事上依赖他。"
+  },
+  {
+    "Number": "033",
+    "Voice Memory": "An Atypical Request",
+    "Description": "We received a request from Daruk to move this stable, but...it's a critical hub, offering refuge to travelers entering Death Mountain. It also houses the many rescue dogs here on standby in case something happens. With all that in mind, I don't see why he'd want to move it. I shall need to ask him for more information.",
+    "cn": "我们收到了达尔克尔移动这个马厩的请求，但是……这是一个重要的枢纽，为进入死亡之山的旅行者提供庇护。这里还饲养着许多救援犬，以备不时之需。考虑到所有这些，我不明白他为什么要移动它。我需要向他询问更多信息。"
+  },
+  {
+    "Number": "034",
+    "Voice Memory": "Death Mountain Initiation",
+    "Description": "Just beyond the Maw of Death Mountain is a scorching region. The heat from the flow of lava can be intense—so intense, in fact, that it can take one's life should they fail to prepare accordingly. My bodyguards forbade me from going any farther, yet it is my duty to keep a close watch on the Divine Beasts we will be fighting alongside. This mission proves to be exceedingly dangerous...",
+    "cn": "死亡之山之口外便是一片灼热的区域。熔岩流的热量非常强烈——事实上，如果准备不当，足以致命。我的护卫禁止我再往前走，但我的职责是密切关注我们将与之并肩作战的神兽。这个任务证明是极其危险的……"
+  },
+  {
+    "Number": "035",
+    "Voice Memory": "Operation Fireproof",
+    "Description": "Goron City is watched over by Daruk, chief of the Gorons. Despite coming equipped with fireproof elixir, I didn't quite bring enough of it. I settled on making more myself, but I was having trouble catching fireproof lizards. The Gorons, seeing my struggle, decided to help me, and well...now I have enough fireproof elixir to last the rest of my life.",
+    "cn": "鼓隆城由鼓隆族族长达尔克尔守护。尽管我带了防火药，但带得不够。我决定自己制作更多，但在捕捉防火蜥蜴时遇到了困难。鼓隆人看到我的困境，决定帮助我，结果……现在我有了足够用一辈子的防火药。"
+  },
+  {
+    "Number": "036",
+    "Voice Memory": "Business Opportunity",
+    "Description": "When I dropped an apple here, it wasn't long before it became a baked apple. After that, I tried my hand at grilling some meat and fish in the same way. I found it rather convenient, without need of a pot or a fire. Although, one Goron watched me curiously. I imagine it must've been an unusual sight for him—after all, they primarily feast upon rocks.",
+    "cn": "我在这里掉了一个苹果，没过多久它就变成了烤苹果。之后，我尝试用同样的方法烤了一些肉和鱼。我发现这相当方便，不需要锅也不需要火。不过，有一个鼓隆人好奇地看着我。我想对他来说这一定是个不寻常的景象——毕竟，他们主要以岩石为食。"
+  },
+  {
+    "Number": "037",
+    "Voice Memory": "Blacksmith on Retainer",
+    "Description": "This blacksmithing shop doesn't seem to have a name. I get the sense that the blacksmith himself is more concerned with his skills than he is about naming things. Truly, he is a master at his craft—his stature both grand and indomitable. Without so much as a momentary pause while striking the iron, he proudly told me that he was the very one who made Daruk's Boulder Breaker.",
+    "cn": "这家铁匠铺似乎没有名字。我感觉铁匠本人更关心他的技艺，而不是给东西命名。他确实是手艺大师——身形魁梧，不屈不挠。在打铁时没有片刻停顿，他自豪地告诉我，他就是制作达尔克尔的碎岩巨剑的人。"
+  },
+  {
+    "Number": "038",
+    "Voice Memory": "Carving of Daruk",
+    "Description": "Generations of chiefs have been carved into rock. Daruk stands in a prominent position, a clear indication of how highly regarded he is among the Gorons. It's such an incredible carving, but Daruk never mentions it... Perhaps he's a bit embarrassed.",
+    "cn": "历代族长的雕像都被刻在岩石上。达尔克尔站在一个显眼的位置，这清楚地表明了他在鼓隆人中备受尊敬。这是个如此令人难以置信的雕刻，但达尔克尔从未提及……也许他有点不好意思。"
+  },
+  {
+    "Number": "039",
+    "Voice Memory": "Divine Beast of Flame",
+    "Description": "Camouflaged as rock, Divine Beast Vah Rudania was concealed in Death Mountain. Then the flow of lava shifted, and Rudania appeared. It could be mere coincidence, but... No, perhaps it has awoken on behalf of all of us, sensing the return of the Calamity.",
+    "cn": "神兽瓦·鲁达尼亚伪装成岩石，隐藏在死亡之山中。然后熔岩流改变了方向，鲁达尼亚出现了。这可能只是巧合，但……不，也许它代表我们所有人，感应到灾厄的回归而苏醒了。"
+  },
+  {
+    "Number": "040",
+    "Voice Memory": "Goron Snacks",
+    "Description": "One might find many eggs floating in the water of Goron Hot Springs. I had the impression that they eat only rocks, but apparently Gorons consider hard-boiled eggs a favored snack. The Gorons appear comfortable soaking in the steaming water, but I suspect a Hylian would end up rather boiled themselves...",
+    "cn": "在鼓隆温泉的水中可能会发现许多漂浮的鸡蛋。我本以为他们只吃岩石，但显然鼓隆人认为煮鸡蛋是一种喜爱的零食。鼓隆人在蒸汽腾腾的水中浸泡看起来很舒服，但我怀疑一个海利亚人自己也会被煮熟……"
+  },
+  {
+    "Number": "041",
+    "Voice Memory": "Zora Stone Monuments (Voice Memory)",
+    "Description": "These stone monuments erected along this path detail the history of the Zora in King Dorephan's words. Thus far, only three have been made, but once the rest are completed, travelers will be able to learn even more about the Zora.",
+    "cn": "沿着这条路竖立的这些石碑，用多雷凡王的话语详细记述了卓拉族的历史。到目前为止，只制作了三块，但一旦其余的完成，旅行者将能够更多地了解卓拉族。"
+  },
+  {
+    "Number": "042",
+    "Voice Memory": "Divine Beast of Water",
+    "Description": "Divine Beast Vah Ruta is named after the Zora sage. I wonder if it was submerged in water by the king of Hyrule when the reservoir was made. In any case, I have heard that its trunk, capable of releasing vast amounts of water, lowered when Mipha approached—a clear invitation for her, almost as though it was an old friend.",
+    "cn": "神兽瓦·露塔是以卓拉族的贤者命名的。我不知道在修建水库时，它是否被海拉鲁国王沉入了水中。无论如何，我听说它那能释放大量水的象鼻，在米法靠近时降低了——这显然是对她的邀请，几乎就像一个老朋友。"
+  },
+  {
+    "Number": "043",
+    "Voice Memory": "Promenade",
+    "Description": "The land of the Zora, known as Zora's Domain, is home to the Champion Mipha and the guardians of the Great Spring. We have a long history of cultural exchange with them, dating back even further than ten thousand years ago. This promenade is a testament to that long standing relationship between the Zora and Hyrule.",
+    "cn": "卓拉族的土地，即卓拉领地，是英杰米法和伟大泉水守护者的家园。我们与他们有着悠久的文化交流历史，甚至可以追溯到一万多年前。这条长廊就是卓拉族与海拉鲁之间长期关系的见证。"
+  },
+  {
+    "Number": "044",
+    "Voice Memory": "Audience with King Dorephan",
+    "Description": "King Dorephan rules over the Zora and is father to Mipha. He's known for his incredible strength—in fact, he fights with his fins rather than wielding a weapon. One of the guards here even told me excitedly about an army of monsters who were eradicated with a single blow from the king.",
+    "cn": "多雷凡王统治着卓拉族，是米法的父亲。他以其惊人的力量而闻名——事实上，他用鱼鳍战斗，而不是使用武器。这里的一位卫兵甚至兴奋地告诉我，国王曾一击消灭了一支怪物大军。"
+  },
+  {
+    "Number": "045",
+    "Voice Memory": "Two Miphas",
+    "Description": "This depiction of Mipha is truly exquisite, though that is hardly surprising—Zora's Domain is home to talented metalworking artisans, after all. It is said that this statue was made not only to honor her elevation as a Champion, but also to act as a beacon for her safety, in the hopes that she will return home. She was embarrassed by it, however, and has asked King Dorephan to move it somewhere less prominent once she completes her duty.",
+    "cn": "这尊米法的雕像确实精美绝伦，但这并不奇怪——毕竟卓拉领地是才华横溢的金属工匠的家园。据说制作这尊雕像不仅是为了纪念她成为英杰，也是为了作为她安全的灯塔，希望她能平安归来。然而，她对此感到不好意思，并请求多雷凡王在她完成职责后，将它移到不那么显眼的地方。"
+  },
+  {
+    "Number": "046",
+    "Voice Memory": "Luminous Art in the Water",
+    "Description": "The stone architecture and metal engravings of the Zora are astonishing. Truly, the village itself is a work of art. The Zora made the buildings, furniture, and even the books out of a water-resistant ore. Technology such as this could be developed only by the Zora.",
+    "cn": "卓拉族的石质建筑和金属雕刻令人惊叹。真的，整个村庄本身就是一件艺术品。卓拉人用一种防水的矿石建造了建筑、家具，甚至书籍。这样的技术只有卓拉族才能发展出来。"
+  },
+  {
+    "Number": "047",
+    "Voice Memory": "Seabed Inn (Voice Memory)",
+    "Description": "The beds in the Zora inn are hard and apparently quite unpopular among travelers. The owner consulted with me about it, saying that since Zora sleep in the water, they aren't sure what makes a bed good or bad. I offered a suggestion of creating a bed that's akin to floating in water. That may have been too unrealistic...",
+    "cn": "卓拉旅馆的床很硬，显然在旅行者中很不受欢迎。老板就此向我咨询，说因为卓拉人在水里睡觉，他们不确定什么样的床是好是坏。我建议制作一张类似于漂浮在水中的床。这可能太不现实了……"
+  },
+  {
+    "Number": "048",
+    "Voice Memory": "Shatterback Point (Voice Memory)",
+    "Description": "The Zora use Shatterback Point as an area to demonstrate their courage. I understand this was once a crowded and lively place—many young people came to test their mettle. But ever since a Lynel took residence in the mountain, no one dares go near. No one except Sidon, I fear. Mipha expressly told him not to go, but he got a look in his eye when she did...",
+    "cn": "卓拉族用碎石山顶作为展示他们勇气的地方。我了解到这里曾经是一个拥挤而热闹的地方——许多年轻人来这里考验自己的勇气。但自从一只莱尼尔在山上定居后，就没人敢靠近了。除了希多，我担心。米法明确告诉他不要去，但她这么说的时候，他眼中闪过一丝神情……"
+  },
+  {
+    "Number": "049",
+    "Voice Memory": "The Horse-Rearing Village",
+    "Description": "Here in Goponga Village, they're working to make it possible to manage horses with just a few people. This would be achievable by using the small islands scattered about Lanayru Wetlands as stables. There's a grassy field at the village's entrance where the horses seem to be living at ease. And the villagers here even told me my white horse is beautiful.",
+    "cn": "在哥邦嘉村，他们正努力实现只用几个人就能管理马匹。这可以通过利用散布在拉聂尔湿地的众多小岛作为马厩来实现。村口有一片草地，马儿们似乎在那里安逸地生活着。这里的村民甚至告诉我我的白马很漂亮。"
+  },
+  {
+    "Number": "050",
+    "Voice Memory": "The Stable Association",
+    "Description": "Father decided that the stables would be places of refuge in preparation for the Calamity. In his words, \"There is more to protecting our people than simply fighting.\" The Stable Association was thus established to further strengthen cooperation, and Mestro, proprietor of Wetland Stable, was appointed as its first chairman.",
+    "cn": "父亲决定，马厩将作为应对灾厄的避难所。用他的话说，“保护我们的人民，不仅仅是战斗。” 因此成立了马厩协会以进一步加强合作，湿地马厩的老板梅斯特罗被任命为第一任主席。"
+  },
+  {
+    "Number": "051",
+    "Voice Memory": "Do Not Stray",
+    "Description": "Gerudo Canyon provides the only path leading to Gerudo Town. It seems monsters have made the former quarry into their base, and even the Gerudo, who are intimately familiar with the land, stay exclusively on the main road. Urbosa warned me countless times to exercise the utmost caution when traveling through here.",
+    "cn": "格鲁德峡谷是通往格鲁德小镇的唯一路径。看来怪物们把以前的采石场变成了他们的基地，即使是熟悉这片土地的格鲁德人，也只走主路。乌尔波扎无数次警告我，在这里旅行时要格外小心。"
+  },
+  {
+    "Number": "052",
+    "Voice Memory": "Divine Beast of Lightning",
+    "Description": "Divine Beast Vah Naboris... Ten thousand years ago, the Divine Beasts were active, and they, along with the ancient relics, were intentionally hidden away. This was because they were feared due to their astonishing power. Having heard a prophecy speak of this place, we deduced that this was the location of Divine Beast Vah Naboris. Coming upon it now is truly breathtaking...",
+    "cn": "神兽瓦·娜波力斯……一万年前，神兽们活跃着，它们和古代遗物一起被有意地隐藏起来。这是因为它们惊人的力量令人畏惧。听到一个关于这个地方的预言后，我们推断这里就是神兽瓦·娜波力斯的位置。现在亲眼见到它，真是令人叹为观止……"
+  },
+  {
+    "Number": "053",
+    "Voice Memory": "A Canyon Stable",
+    "Description": "Trade with Gerudo Town is going well, but apparently there is no end to the traveling merchants meeting with disaster in the canyon. Though the Gerudo may be accustomed to the road, it is a difficult one for Hylians. I'll speak with Father about whether we can have a stable built here.",
+    "cn": "与格鲁德小镇的贸易进展顺利，但显然在峡谷中遭遇灾难的旅行商人络绎不绝。虽然格鲁德人可能习惯了这条路，但对海利亚人来说却很困难。我会和父亲谈谈我们是否可以在这里建一个马厩。"
+  },
+  {
+    "Number": "054",
+    "Voice Memory": "Those Who Reside in the Desert",
+    "Description": "Here in Gerudo Desert, the temperatures vary wildly—enough so to be life threatening. In addition, traveling across the sand by foot is challenging. These conditions certainly explain the strength of body and spirit that the Gerudo possess. Which has me thinking... While Mother was prone to illness, she would often visit here, despite the harsh environment...",
+    "cn": "在格鲁德沙漠，温度变化极大——甚至足以危及生命。此外，徒步穿越沙地也很有挑战性。这些条件无疑解释了格鲁德人所拥有的身心力量。这让我想……虽然母亲体弱多病，但尽管环境恶劣，她却经常来这里……"
+  },
+  {
+    "Number": "055",
+    "Voice Memory": "Desert Oasis",
+    "Description": "Kara Kara Bazaar serves as a trading post for those who cannot enter Gerudo Town. It's a smart thing, since the town only allows women to enter. Urbosa warned me to be on alert for the Yiga Clan here, but I cannot imagine they would attack in a place as crowded as this. She worries a bit too much.",
+    "cn": "卡拉卡拉集市是为那些无法进入格鲁德小镇的人服务的交易站。这很聪明，因为小镇只允许女性进入。乌尔波扎警告我要在这里警惕伊盖队，但我无法想象他们会在这么拥挤的地方发动攻击。她有点太担心了。"
+  },
+  {
+    "Number": "056",
+    "Voice Memory": "Fortress in the Sand",
+    "Description": "Gerudo Town is ruled over by Urbosa and is also the largest oasis in the desert. The buildings look as if they were carved out of large boulders—quite sturdy indeed. When your home is a desert with numerous dangers, having strong walls is a sure way to stay safe.",
+    "cn": "格鲁德小镇由乌尔波扎统治，也是沙漠中最大的绿洲。这些建筑看起来像是从巨大的岩石中雕刻出来的——确实非常坚固。当你的家是一个充满危险的沙漠时，拥有坚固的墙壁是确保安全的可靠方法。"
+  },
+  {
+    "Number": "057",
+    "Voice Memory": "Audience with Urbosa",
+    "Description": "Chief Urbosa has made the decision to offer the Gerudo's support in subduing the Calamity. She and I have been close friends for a long time now, but the conversation leading to this decision was the first time we spoke as formal representatives of our people. She is as transparent as always in her motivations: to protect those she cares for. And this is also why she is so trustworthy.",
+    "cn": "族长乌尔波扎已经决定，让格鲁德族协助我们平息灾厄。我和她是很久的朋友了，但促成这个决定的那次谈话，是我们第一次作为各自人民的正式代表进行交谈。她的动机一如既往地坦诚：保护她在乎的人。这也是她如此值得信赖的原因。"
+  },
+  {
+    "Number": "058",
+    "Voice Memory": "Sand Seals",
+    "Description": "The sand seals—which I understand to have evolved from an aquatic creature of some kind—reside only in Gerudo and move through the desert as if swimming. The Gerudo use them as a means of transportation; however, they are quite difficult to handle. Without Urbosa's training, I might never have been able to maneuver one.",
+    "cn": "沙海象——我了解到它们是由某种水生生物进化而来——只栖息在格鲁德，在沙漠中移动时如同游泳。格鲁德人把它们用作交通工具；然而，它们很难驾驭。没有乌尔波扎的训练，我可能永远也无法驾驭一只。"
+  },
+  {
+    "Number": "059",
+    "Voice Memory": "Adorned with Gems",
+    "Description": "Among other things, the Gerudo are known for their craft in jewelry. They consider the gems used in their jewelry as talismans, absorbing both sunlight and moonlight, which cleanses evil. As such, they wear the jewelry as much as possible. Even Urbosa's shield and knife have been crafted by a jeweler rather than a blacksmith.",
+    "cn": "除其他外，格鲁德人以其珠宝工艺而闻名。他们认为珠宝中使用的宝石是护身符，能吸收日月光华，净化邪恶。因此，他们尽可能多地佩戴珠宝。甚至乌尔波扎的盾牌和刀都是由珠宝匠而不是铁匠制作的。"
+  },
+  {
+    "Number": "060",
+    "Voice Memory": "Not Quite Yet",
+    "Description": "The Noble Canteen's famous cocktail is known as the Noble Pursuit. Gerudo preparing to seek the voe of their dreams drink it for good luck. I wanted to partake in one but was told that I'm not ready for it yet...",
+    "cn": "高贵酒吧的著名鸡尾酒被称为“高贵的追求”。准备寻找梦中情人的格鲁德人会喝它来祈求好运。我也想喝一杯，但被告知我还不到时候……"
+  },
+  {
+    "Number": "061",
+    "Voice Memory": "All That Remains of Warriors' Dreams",
+    "Description": "The North Gerudo Ruins are the largest in all of the desert. Based on the sizable quarry and numerous ruins scattered about Gerudo Highlands, it appears that Gerudo Town was once quite large. I've heard that this area of the town was destroyed by a rampaging Molduga employed by a tyrant. But it is merely a theory.",
+    "cn": "北格鲁德遗迹是整个沙漠中最大的。根据格鲁德高地散布的大型采石场和众多遗迹来看，格鲁德小镇曾经相当大。我听说小镇的这个区域是被一个暴君雇佣的狂暴莫尔德拉吉克摧毁的。但这仅仅是一个理论。"
+  },
+  {
+    "Number": "062",
+    "Voice Memory": "Dragon's Path",
+    "Description": "There have been accounts of dragon sightings since ancient times. I have been traveling to places related to these accounts in hopes of receiving the dragons' blessings, but so far I have had no luck. It seems many of the rumors are little more than folklore. As such, I thought that people were likely mistaken about seeing a dragon here in Gerudo Highlands. But the way this snow has been disturbed... It does appear as though a sizable creature moved through it. Perhaps this is the dragon's path.",
+    "cn": "自古以来就有龙的目击记录。我一直在与这些记录相关的地方旅行，希望能得到龙的祝福，但至今没有运气。看来许多谣言不过是民间传说。因此，我曾认为人们在格鲁德高地看到龙很可能是看错了。但是这雪被扰乱的方式……看起来确实有相当大的生物穿过。也许这就是龙的路径。"
+  },
+  {
+    "Number": "063",
+    "Voice Memory": "An In-Between Place",
+    "Description": "Urbosa has requested the construction of a new stable. The Gerudo often leave the city to travel when they come of age, so she asked for the stable to be set up near the entrance to Gerudo Canyon so they can prepare for their journey. This seems like just the right location for such a place. Normally a stable is named after the area it's built upon, but this one sits upon a boundary... I wonder what it will be called.",
+    "cn": "乌尔波扎请求建造一个新的马厩。格鲁德人成年后常常离开城市去旅行，所以她要求在格鲁德峡谷入口附近设立马厩，以便他们为旅程做准备。这似乎是这样一个地方的绝佳位置。通常马厩以其建造地命名，但这一个坐落在边界上……不知道它会被叫什么名字。"
+  },
+  {
+    "Number": "064",
+    "Voice Memory": "Home of White Horses",
+    "Description": "The area around Sanidin Park is a vast grassland, making it Hyrule's finest habitat for horses. The white horses of the royal family have been bred for generations, but I heard that the very first generation was born here. Apparently, there are still white horses around this area.",
+    "cn": "萨丁公园周围地区是一片广阔的草原，是海拉鲁最好的马匹栖息地。王室的白马已经繁育了多代，但我听说第一代就是在这里出生的。显然，这个地区仍然有白马。"
+  },
+  {
+    "Number": "065",
+    "Voice Memory": "Satori Mountain's Cherry Blossoms",
+    "Description": "There are only two cherry blossom trees in Hyrule. They have been referred to as the Father Tree and Mother Tree. I imagine this is because the cherry blossom trees are sometimes worshipped for their supposed ability to purge evil spirits. Satori, who is said to live on this mountain, may be a protector of Mother Tree, sent by Father Tree.",
+    "cn": "海拉鲁只有两棵樱花树。它们被称为父树和母树。我想这是因为樱花树有时因其据说能驱除邪灵而被崇拜。据说住在这座山上的萨托利，可能是父树派来保护母树的守护者。"
+  },
+  {
+    "Number": "066",
+    "Voice Memory": "Castle Town Fountain",
+    "Description": "This is the center of Castle Town, otherwise known as Central Square. The fountain area is crowded with people and vendors—it's always so lively. The mood and scents here sometimes cause a wave of nostalgia in me, reminding me of the flower crown Mother bought me here when I was little.",
+    "cn": "这里是城堡镇的中心，也被称为中央广场。喷泉区挤满了人和小贩——总是那么热闹。这里的气氛和气味有时会让我涌起一阵怀旧之情，让我想起小时候母亲在这里给我买的花冠。"
+  },
+  {
+    "Number": "067",
+    "Voice Memory": "Mother's Prayer",
+    "Description": "Hyrule Cathedral... When I was small, I used to imitate how Mother prayed when she came here. I should have watched her more closely... Or, no. Perhaps instead, I must find my own prayer.",
+    "cn": "海拉鲁大教堂……小时候，我常常模仿母亲来这里祈祷的样子。我应该更仔细地看她……或者，不。也许，我必须找到我自己的祈祷方式。"
+  },
+  {
+    "Number": "068",
+    "Voice Memory": "Insurmountable Obstacle",
+    "Description": "This is a sacred place. Once, Daruk suggested I re-create a ceremony believed to have been held here in the past, the knighting ceremony for the one wielding the sword that seals the darkness. It...did not go well. Urbosa tells me I should look the knight in the eye rather than looking at the sword, but whenever I try, I simply...can't.",
+    "cn": "这是一个神圣的地方。有一次，达尔克尔建议我重现一个据信过去在这里举行的仪式，即为挥舞封印黑暗之剑的人举行的授爵仪式。结果……不太顺利。乌尔波扎告诉我应该直视骑士的眼睛，而不是看剑，但每当我尝试时，我就是……做不到。"
+  },
+  {
+    "Number": "069",
+    "Voice Memory": "Royal Forest",
+    "Description": "It is said that Hyrule Forest Park began with a single tree planted by the first king and queen of Hyrule. Since then, a tree has been planted each time the throne is succeeded, and now they make up this thriving woodland.",
+    "cn": "据说海拉鲁森林公园始于海拉鲁第一位国王和王后种下的一棵树。从那时起，每当王位继承时，都会种下一棵树，现在它们组成了这片繁茂的林地。"
+  },
+  {
+    "Number": "070",
+    "Voice Memory": "Rauru Settlement (Voice Memory)",
+    "Description": "Though it is small, this settlement is the oldest in the land. Named after the founding king of Hyrule, there are various theories regarding the specificity of that name. Some believe that it was the king's residence, others that it was a village of his most ardent supporters, and yet others claim it was the birthplace of the Hylian queen. Ultimately, I'm not sure even the villagers themselves know the true origins of the name.",
+    "cn": "虽然很小，但这个定居点是这片土地上最古老的。它以海拉鲁的开国国王命名，关于这个名字的具体来历有各种理论。一些人认为这是国王的住所，另一些人认为这是他最热心支持者的村庄，还有人声称这是海利亚王后的出生地。最终，我不确定连村民自己是否知道这个名字的真正起源。"
+  },
+  {
+    "Number": "071",
+    "Voice Memory": "Adorned Steeds",
+    "Description": "The proprietor of Woodland Stable was deeply moved by how beautifully ornamented Mother's horse was and is now studying techniques for adorning them himself. He even braided my horse's mane to match my own braids. Mother's care for horses lives on, in this way. It fills me with joy to see it.",
+    "cn": "森林驿站的老板被母亲的马装饰得如此美丽而深受感动，现在他自己也在研究装饰马匹的技术。他甚至把我的马的鬃毛编成和我自己的辫子相配的样子。母亲对马的关爱以这种方式延续着。看到这一切，我心中充满了喜悦。"
+  },
+  {
+    "Number": "072",
+    "Voice Memory": "Guidance of the Spirits",
+    "Description": "Great Hyrule Forest is a sacred place where spirits reside. Only by following the wind's guidance can a traveler make their way through. The guidance is only offered up to a chosen few by the spirits themselves. Those who do not receive this blessing of wind will quickly find that they are right back where they started. It's easy to see how this grove came to be called the Lost Woods.",
+    "cn": "大海拉鲁森林是精灵居住的神圣之地。只有跟随风的指引，旅行者才能穿过。这种指引只由精灵们提供给少数被选中的人。那些没有得到风之祝福的人很快就会发现自己回到了起点。很容易理解这片树林为何被称为迷失森林。"
+  },
+  {
+    "Number": "073",
+    "Voice Memory": "The Knight Who Wields the Fated Sword",
+    "Description": "When I heard Father announce that the knight chosen by the sword that seals the darkness was Link, I felt anything but calm inside. Whenever I hear that name, an anxiousness sets in. Even more challenging are my feelings of envy toward him... I wonder if there will ever be a day when I can look him in the eyes...",
+    "cn": "当我听到父亲宣布，被封印黑暗之剑选中的骑士是林克时，我内心一点也不平静。每当听到那个名字，我就会感到一阵焦虑。更具挑战性的是我对他的嫉妒之情……不知道会不会有那么一天，我能直视他的眼睛……"
+  },
+  {
+    "Number": "074",
+    "Voice Memory": "A Sword's Protector",
+    "Description": "The Great Deku Tree watches over the sword that seals the darkness. I also view this tree as a mentor, in a sense. When the knight was chosen to wield the darkness-sealing sword, I felt nearly overcome by my feelings. But the Great Deku Tree offered me words of wisdom in that moment, encouraging me not to give up and that I had my own path to follow. Those words provide comfort to me still.",
+    "cn": "德库大树守护着封印黑暗的剑。在某种意义上，我也把这棵树看作一位导师。当骑士被选中挥舞封印黑暗之剑时，我几乎被自己的情绪淹没。但德库大树在那一刻给了我智慧的话语，鼓励我不要放弃，要走自己的路。那些话语至今仍给我带来安慰。"
+  },
+  {
+    "Number": "075",
+    "Voice Memory": "Ancient Tree Stump (Voice Memory)",
+    "Description": "In Hyrule, there are a number of large, decaying trees that are likely over one thousand years old, not unlike this tree stump. There is a legend about this tree in particular that says it was inhabited by a dignitary spirit. I, too, sense something important from this tree. An archaeological survey will soon take place here, so I cannot wait to hear about their findings.",
+    "cn": "在海拉鲁，有许多巨大的、腐烂的树木，可能已经超过一千年了，就像这个树桩一样。关于这棵树有一个特别的传说，说它曾居住着一个高贵的精灵。我也从这棵树上感觉到了一些重要的东西。这里很快将进行一次考古调查，我迫不及待地想听到他们的发现。"
+  },
+  {
+    "Number": "076",
+    "Voice Memory": "Hyrule's Origin Point",
+    "Description": "Hyrule Castle was here on the Great Plateau in ancient times and is still under the protection of the kingdom. Father has decreed that the people are free to worship at the Temple of Time. Barring that, however, only the royal family may enter here. I imagine that is because the royal family still has many connections to this area.",
+    "cn": "海拉鲁城堡在古代就位于初始台地，至今仍在王国的保护之下。父亲已下令，人民可以自由地在时之神殿敬拜。但除此之外，只有王室成员才能进入这里。我想这是因为王室与这个地区仍有许多联系。"
+  },
+  {
+    "Number": "077",
+    "Voice Memory": "The Duty of a Princess",
+    "Description": "Royal princesses have a sacred power, which is claimed to have been passed down generation after generation. In fact, the lineage traces all the way back to the first queen, when Hyrule was founded. The ritual at the Temple of Time falls upon the princess to carry out. But...do my prayers even reach the Goddess when my powers have yet to awaken?",
+    "cn": "王室公主拥有一种神圣的力量，据说这种力量代代相传。事实上，这个血统可以追溯到海拉鲁建立时的第一位王后。时之神殿的仪式由公主来执行。但是……当我的力量尚未觉醒时，我的祈祷能传达给女神吗？"
+  },
+  {
+    "Number": "078",
+    "Voice Memory": "Taboo Relics",
+    "Description": "Many ancient relics of the Sheikah were considered dangerous and were therefore entombed in darkness by the king of Hyrule long ago... In particular, the Shrine of Resurrection was considered especially dangerous, as it controls people's fates. It was kept under close watch by the royal family. Now that recent investigations into the Divine Beasts have revealed that this shrine was built in preparation against the Calamity, however, we should move forward with its study.",
+    "cn": "许多希卡族的古代遗物被认为是危险的，因此很久以前被海拉鲁国王封印在黑暗中……特别是，复苏神庙被认为尤其危险，因为它控制着人们的命运。它一直受到王室的严密监视。然而，现在对神兽的最新调查显示，这座神庙是为了应对灾厄而建造的，我们应该推进对其的研究。"
+  },
+  {
+    "Number": "079",
+    "Voice Memory": "Frigid Landscape",
+    "Description": "Past this gate is a snowy landscape—cold enough for one to freeze there. The area is a place where heroes can test their skills, but the landscape is clearly not a natural phenomenon. Perhaps some ancient technology we have yet to learn about is being used here...",
+    "cn": "穿过这扇门是一片雪景——冷得足以让人在那里冻僵。这个区域是英雄们考验技能的地方，但这片景观显然不是自然现象。也许这里使用了我们尚未了解的某种古代技术……"
+  },
+  {
+    "Number": "080",
+    "Voice Memory": "Memories with Father",
+    "Description": "From here, you can see the Great Plateau—or rather, Hyrule itself. At the castle, we are king and princess, but while here, we were father and daughter. It was in this place that I learned about everything from paragliders to cooking... I still remember the feeling of the warm doublet Father wrapped around my shoulders...",
+    "cn": "从这里，你可以看到初始台地——或者更确切地说，是整个海拉鲁。在城堡里，我们是国王和公主，但在这里，我们是父亲和女儿。就是在这个地方，我学会了从滑翔伞到烹饪的一切……我仍然记得父亲把温暖的短上衣披在我肩上的感觉……"
+  },
+  {
+    "Number": "081",
+    "Voice Memory": "The Hut's Owner?",
+    "Description": "There are many gaps in this mountain hut, and even the rope holding the logs together seems dubious... It is far too shabby for a hunter's cabin... I didn't enter—the hut seemed it may collapse at any moment, so I was unable to identify the owner. It should probably be dismantled before someone gets hurt.",
+    "cn": "这座山间小屋有很多缝隙，连捆绑木头的绳子都看起来不太可靠……对于一个猎人的小屋来说，它太破旧了……我没有进去——小屋似乎随时可能倒塌，所以我无法确定主人是谁。在有人受伤之前，它可能应该被拆除。"
+  },
+  {
+    "Number": "082",
+    "Voice Memory": "Where Spirits Reside",
+    "Description": "Here on the plateau, the Forest of Spirits is the only area dense enough to be called a forest. Back before the founding of Hyrule, however, the entire plateau was apparently covered with trees. Where the spirits plant roots, trees flourish, and forests are formed... In ancient times, this may have been a village of spirits.",
+    "cn": "在这片高原上，精灵森林是唯一足够茂密可以被称为森林的区域。然而，在海拉鲁建立之前，整个高原显然都覆盖着树木。精灵扎根之处，树木繁茂，森林形成……在古代，这里可能是一个精灵的村庄。"
+  },
+  {
+    "Number": "083",
+    "Voice Memory": "Hot-Footed Frog (Voice Memory)",
+    "Description": "When I first saw a hot-footed frog at Hopper Pond, I couldn't take my eyes off of it. I came here every day to observe it. Mother's face grew stiff when I showed her the frog, though she never expressed outward disdain for them. She probably didn't want to speak poorly of something I liked.",
+    "cn": "当我在霍珀池塘第一次看到一只精力青蛙时，我简直移不开眼睛。我每天都来这里观察它。当我把青蛙拿给母亲看时，她的脸变得僵硬，尽管她从未表现出对它们的公开厌恶。她可能不想说我喜欢的东西的坏话。"
+  },
+  {
+    "Number": "084",
+    "Voice Memory": "Hyrule Outpost (Voice Memory)",
+    "Description": "This is Hyrule's largest outpost, but it had humble beginnings as an encampment for travelers on a spiritual journey. Recently, a garrison was completed nearby, so the outpost now seems to serve as a place for soldiers to rest after long days—its watchtower apparently a gift from them.",
+    "cn": "这是海拉鲁最大的前哨站，但它起初只是一个为进行精神之旅的旅行者设立的营地。最近，附近建成了一个驻军营地，所以现在这个前哨站似乎成了士兵们在漫长一天后休息的地方——它的瞭望塔显然是他们送的礼物。"
+  },
+  {
+    "Number": "085",
+    "Voice Memory": "A Soothing Place",
+    "Description": "In addition to protecting the castle, it has become necessary to deploy our soldiers all across Hyrule. Outpost ruins are being temporarily used as military bases. The fountain at the center of Hyrule Garrison looks quite out of place, but it serves as an area of respite for the soldiers.",
+    "cn": "除了保卫城堡，我们还有必要将士兵部署到海拉鲁各地。前哨站的废墟被临时用作军事基地。海拉鲁驻军中心的喷泉看起来相当不协调，但它为士兵们提供了一个休憩之所。"
+  },
+  {
+    "Number": "086",
+    "Voice Memory": "Fastidious Villagers",
+    "Description": "Mabe Village boasts the largest farm in all of Hyrule, with more animals than villagers. From making hay to processing milk, it's clear when something has come from Mabe Village, and the villagers take pride in that fact.",
+    "cn": "马佩村拥有全海拉鲁最大的农场，动物比村民还多。从制作干草到加工牛奶，只要是来自马佩村的东西，都一目了然，村民们也为此感到自豪。"
+  },
+  {
+    "Number": "087",
+    "Voice Memory": "Impregnable Citadel",
+    "Description": "The captain of Akkala Citadel was quite proud to tell me how its defenses are even more fortified now, with the brand-new cannons installed. He also detailed how the bridge at the entrance is a simple structure, which can be quickly removed in case of enemy advancement. It's clear why this citadel is considered impregnable.",
+    "cn": "阿卡莱城堡的队长非常自豪地告诉我，安装了全新的大炮后，它的防御更加坚固了。他还详细说明了入口处的桥梁结构简单，可以在敌人进攻时迅速拆除。很明显，这座城堡为何被认为是坚不可摧的。"
+  },
+  {
+    "Number": "088",
+    "Voice Memory": "Village Lost to the Mud",
+    "Description": "There are ruins scattered across Torin Wetland. It would appear this place was once a settlement. I imagine the village may have been abandoned due to the inhospitable nature of the wetlands here. The soil is so damp that it would prove challenging to build on...",
+    "cn": "托林湿地散布着废墟。看来这个地方曾经是一个定居点。我想这个村庄可能是因为这里湿地环境恶劣而被遗弃的。土壤如此潮湿，在上面建造会很有挑战性……"
+  },
+  {
+    "Number": "089",
+    "Voice Memory": "The Sheep Stable...",
+    "Description": "At Purah's urging, South Akkala Stable was built. It seems she gave the stable owners many sheep to celebrate the opening, so now the grounds are filled with them. There are more sheep than there are horses here. I have to wonder...why sheep?",
+    "cn": "在普尔亚的催促下，南阿卡莱驿站建成了。看来她为了庆祝开业，送了马厩主人很多羊，所以现在院子里到处都是羊。这里的羊比马还多。我不得不怀疑……为什么是羊？"
+  },
+  {
+    "Number": "090",
+    "Voice Memory": "The Shadow People",
+    "Description": "The Shadow Hamlet is a secluded village where people prefer to live somewhat disconnected from the rest of society. Many in Hyrule do not even know this place exists. I at least knew the name, but I had no idea it would be like this. I came to warn the people here about the Calamity, but they turned me away...",
+    "cn": "影之村是一个与世隔绝的村庄，那里的人们喜欢与社会脱节地生活。海拉鲁的许多人甚至不知道这个地方的存在。我至少知道它的名字，但我不知道它会是这个样子。我来这里警告人们关于灾厄的事，但他们把我拒之门外……"
+  },
+  {
+    "Number": "091",
+    "Voice Memory": "Spring of Power (Voice Memory)",
+    "Description": "This is the spring where Din, Goddess of Power, is worshipped. Once she was one of the Three Goddesses, alongside Courage and Wisdom, but it is said that faith in her dimmed due to power being seen as a symbol of the Demon King. The terrain around the spring is complex and covered with roughly chopped trees, suggesting this place was once used as a training site of some kind.",
+    "cn": "这里是供奉力量女神丁的泉水。她曾是三女神之一，与勇气和智慧女神并列，但据说由于力量被视为魔王的象征，对她的信仰逐渐减弱。泉水周围的地形复杂，覆盖着粗略砍伐的树木，表明这个地方曾经被用作某种训练场。"
+  },
+  {
+    "Number": "092",
+    "Voice Memory": "Flowers Beneath the Surface of Skull Lake",
+    "Description": "The buds are swelling and look as if they might bloom at any moment... These flowers submerged beneath the surface of the water have been considered prophetic since ancient times—their blooming is said to herald natural disasters... Perhaps they sense the evil spirit of the Calamity...",
+    "cn": "花蕾正在膨胀，看起来随时可能绽放……这些淹没在水面下的花朵自古以来就被认为具有预言性——据说它们的绽放预示着自然灾害……也许它们感觉到了灾厄的邪恶之气……"
+  },
+  {
+    "Number": "093",
+    "Voice Memory": "Akkala Lighthouse",
+    "Description": "It's called a lighthouse, but my understanding is that it was built as more of a watchtower. But to watch over what, I wonder. Beyond here lies Lomei Labyrinth Island, home to ancient ruins shrouded by mystery. Even approaching the ruins proves challenging. Some scholars posit that evil spirits are trapped there... Perhaps this lighthouse served to watch over the island? I'm probably overthinking it...",
+    "cn": "它被称为灯塔，但我的理解是它更像一座瞭望塔。但要监视什么呢，我很好奇。远处是洛美迷宫岛，那里有被神秘笼罩的古代遗迹。即使是接近遗迹也很有挑战性。一些学者推测那里困着邪灵……也许这座灯塔是用来监视那座岛的？我可能想多了……"
+  },
+  {
+    "Number": "094",
+    "Voice Memory": "Goddess Statue (Voice Memory)",
+    "Description": "A Goddess Statue stands alone in the center of a large basin here. The ground is loose due to water saturation—the surrounding area probably collapsed, leaving this space behind. Perhaps the Goddess Statue was enshrined here as a means of preventing further damage. Although, I wonder... Is this place instead protected because of the Goddess Statue's presence?",
+    "cn": "一座女神像独自矗立在这里一个大盆地的中央。由于水分饱和，地面松软——周围地区可能塌陷了，留下了这个空间。也许女神像被供奉在这里是为了防止进一步的损害。不过，我很好奇……这个地方是不是因为女神像的存在而受到保护？"
+  },
+  {
+    "Number": "095",
+    "Voice Memory": "Den of Madness",
+    "Description": "I have heard that the giant fossil in Bottomless Swamp was once worshipped by cultists who considered it the Demon King from ancient times. It is said that their blasphemous words against the Goddess summoned evil spirits, turning the water impure and changing the very shapes of the rocks to ominous forms... Now it serves as a den for monsters, so setting foot inside is not possible.",
+    "cn": "我听说无底沼泽的巨大化石曾被邪教徒崇拜，他们认为那是古代的魔王。据说他们对女神的亵渎之语召唤了邪灵，使水变得不纯，岩石的形状也变得不祥……现在它成了怪物的巢穴，所以无法踏入。"
+  },
+  {
+    "Number": "096",
+    "Voice Memory": "Horse Charmers",
+    "Description": "The Highland Stable. This area of vast green lands is home to people skilled in horse handling. Here, horseback archery is a popular pastime. Even Link has admiration for these people's talent in horsemanship.",
+    "cn": "高原驿站。这片广阔的绿地是擅长驯马的人的家园。在这里，骑马射箭是一项流行的消遣。连林克都对这些人的马术才能表示钦佩。"
+  },
+  {
+    "Number": "097",
+    "Voice Memory": "Broken Boars",
+    "Description": "There was a time when boars were worshipped as symbols of power. However, I remember reading in literature that the Demon King took the form of a boar and that, upon learning this, people came to regard them as evil. I checked around this entire area, and all the stone boar statues show considerable damage...",
+    "cn": "曾有一段时间，野猪被崇拜为力量的象征。然而，我记得在文献中读到，魔王曾化身为野猪，人们得知此事后，便开始将它们视为邪恶。我检查了整个区域，所有的石野猪雕像都显示出相当大的损坏……"
+  },
+  {
+    "Number": "098",
+    "Voice Memory": "Spring of Courage (Voice Memory)",
+    "Description": "I have come to this spring countless times since I was young to receive the protection of Farore, Goddess of Courage. Despite that, my sealing power has yet to be awakened... But soon I will turn 17. I'm certain that if I train on Mount Lanayru, that will change things...",
+    "cn": "从小时候起，我无数次来到这处泉水，以获得勇气女神法罗尔的庇护。尽管如此，我的封印之力仍未觉醒……但我很快就要满17岁了。我确信，如果我在拉聂尔山进行修行，情况就会有所改变……"
+  },
+  {
+    "Number": "099",
+    "Voice Memory": "Rumored Beasts",
+    "Description": "Here at Lakeside Stable, the jungle is dense, and much of the land remains undeveloped. I'm confident that there are many new discoveries to be made in such a place. There are even rumors of an unidentified creature of some sort, but I hear the harsh weather conditions are such a deterrent that even researchers keen to learn more hesitate to travel here.",
+    "cn": "在湖畔驿站这里，丛林茂密，大部分土地仍未开发。我相信在这样的地方会有许多新发现。甚至有传言说有某种不明生物，但我听说恶劣的天气条件是一个很大的威慑，即使是渴望了解更多的研究人员也犹豫是否来这里旅行。"
+  },
+  {
+    "Number": "100",
+    "Voice Memory": "Hospitality",
+    "Description": "The cove here in Lurelin Village is so lively with its many boats. Even before anyone recognized who I was, I was treated with hospitality and warmth. The villagers served me a dish with an exquisite, vibrantly colored fish. You cannot find such a fish anywhere around the castle. Everyone here is so cheerful and kind... Spending time among them, I was able to forget the current hardships, even if momentarily.",
+    "cn": "乌莱利村这里的海湾因其众多的船只而如此热闹。甚至在任何人认出我之前，我就受到了热情好客的款待。村民们给我上了一道菜，用的是一种精美的、色彩鲜艳的鱼。在城堡周围任何地方都找不到这样的鱼。这里的每个人都那么开朗和善良……和他们在一起，我能够忘记当前的困境，哪怕只是片刻。"
+  },
+  {
+    "Number": "101",
+    "Voice Memory": "Quality Shipwrights",
+    "Description": "I'm told the houses of Lurelin Village were built by shipwrights, so they're as sturdy as ships. Perhaps that is a tradition among fishing villages. The head of the village told me, however, that there are fewer and fewer shipwrights these days, and it may be challenging to rebuild if the existing homes were destroyed.",
+    "cn": "我听说乌莱利村的房子是造船工建造的，所以它们像船一样坚固。也许这是渔村的传统。然而，村长告诉我，如今造船工越来越少，如果现有的房屋被毁，重建可能会很困难。"
+  },
+  {
+    "Number": "102",
+    "Voice Memory": "Guardian of Fishing",
+    "Description": "Ah, the Goddess Statue of Lurelin Village. Here she is worshipped as the guardian of fishing—she has been enshrined in this location to keep watch over the docks. The villagers provide offerings of their catches each day. I noted a rather large pile of fresh fish and crabs placed at her feet.",
+    "cn": "啊，乌莱利村的女神像。在这里，她被崇拜为渔业的守护神——她被供奉在这里，以看守码头。村民们每天都提供他们的渔获作为祭品。我注意到她脚下放着一大堆新鲜的鱼和螃蟹。"
+  },
+  {
+    "Number": "103",
+    "Voice Memory": "Treasure Games",
+    "Description": "Occasionally while out fishing, the fishers will find treasure chests that have sunken to the ocean floor. They enjoy playing a game wherein they attempt to guess the chest's contents. Everyone who plays takes the game quite seriously, as the rules include that guessing correctly means that person keeps whatever is inside the chest.",
+    "cn": "偶尔出海捕鱼时，渔民会发现沉到海底的宝箱。他们喜欢玩一个游戏，试图猜测箱子里的东西。每个玩游戏的人都非常认真，因为规则包括猜对的人可以保留箱子里的任何东西。"
+  },
+  {
+    "Number": "104",
+    "Voice Memory": "Demon King's Claw",
+    "Description": "Cape Cresia is commonly referred to as \"Demon King's Claw,\" but nobody seems to know the origin of that name. Areas where evil spirits gather occasionally experience unique topographical shifts. I find myself wondering if this is such a place...",
+    "cn": "克雷西亚角通常被称为“魔王之爪”，但似乎没人知道这个名字的由来。邪灵聚集的地区偶尔会经历独特的地形变化。我开始怀疑这里是否就是这样一个地方……"
+  },
+  {
+    "Number": "105",
+    "Voice Memory": "Monk Training Ground",
+    "Description": "I convinced a fisher from Lurelin Village to take me to Eventide Island by boat. I've heard this island served as a final training ground for monks. I wonder what kind of rigorous trial awaited them here. Now, however, the island is overrun by monsters—I had no choice but to abandon going ashore...",
+    "cn": "我说服了乌莱利村的一位渔夫用船带我去了孤岛。我听说这座岛曾是僧侣的最终训练场。我好奇什么样的严酷考验在这里等待着他们。然而，现在岛上怪物横行——我别无选择，只能放弃上岸……"
+  },
+  {
+    "Number": "106",
+    "Voice Memory": "Mountain of Prayers",
+    "Description": "Tuft Mountain is a destination for many mountaineers. It's also known as the matchmaking mountain. The custom is to climb in total silence, and upon reaching the top, pray as the sun dips below the horizon. I set out to climb the mountain myself, but I was stopped by Link who observed how very steep it is. Personally, I feel he was being overly cautious.",
+    "cn": "塔夫特山是许多登山者的目的地。它也被称为姻缘山。习俗是完全沉默地攀登，到达山顶后，在太阳落山时祈祷。我准备自己去爬山，但被林克拦住了，他看到山路非常陡峭。我个人觉得他过于谨慎了。"
+  },
+  {
+    "Number": "107",
+    "Voice Memory": "Village in the Lake",
+    "Description": "Deya Lake is artificially created. It is said that long, long ago there was a great drought that threatened to dry up Lake Hylia, so Deya Lake was created as a reservoir, just in case. The name Deya stems from the name of the village that the lake has flooded.",
+    "cn": "德亚湖是人工湖。据说很久很久以前，一场大旱威胁要使海利亚湖干涸，所以为了以防万一，建造了德亚湖作为水库。德亚这个名字来源于被湖水淹没的村庄的名字。"
+  },
+  {
+    "Number": "108",
+    "Voice Memory": "A Sundered Mountain",
+    "Description": "Once upon a time, Dueling Peaks was one mountain. There are a few prevailing theories about its unusual split. Some posit the split was a path carved by a dragon, while others say it was caused by a great tremor beneath the surface. Personally, I believe it to be a scar on the mountain caused by the battle against the Calamity ten thousand years ago. Of course, there is no way to confirm my theory at this point...",
+    "cn": "很久以前，双子山是一座山。关于它不寻常的分裂有几种主流理论。一些人认为分裂是龙开辟的道路，另一些人则说是由地表下的大地震引起的。我个人认为，这是一万年前对抗灾厄的战斗在山上留下的伤疤。当然，目前无法证实我的理论……"
+  },
+  {
+    "Number": "109",
+    "Voice Memory": "Preparing for the Calamity",
+    "Description": "Though it is a fort by name, Fort Hateno was originally a checkpoint for travelers. It's clear it hasn't been in use for some time—I can see areas where the structural integrity is in question. If we repair it now, while we are able, it may serve as an outpost for soldiers. It seems a useful repurposing as the Calamity approaches.",
+    "cn": "虽然名为要塞，但哈特诺堡垒最初是旅行者的检查站。很明显它已经有一段时间没有使用了——我可以看到一些地方的结构完整性存在问题。如果我们现在有能力修复它，它可能会成为士兵的前哨。随着灾厄的临近，这似乎是一个有用的再利用。"
+  },
+  {
+    "Number": "110",
+    "Voice Memory": "A Blissful Life",
+    "Description": "Peace reigns supreme in Hateno Village. It's easy to see why, with all the farmland. Yet, they have little sense of the impending crisis of the Calamity... Perhaps the best measure is to increase the number of soldiers at Fort Hateno. Or...perhaps not. No, instead, I should begin by speaking with the mayor about putting guards at the village entrance.",
+    "cn": "哈特诺村洋溢着和平。有这么多农田，原因显而易见。然而，他们对即将到来的灾厄危机几乎没有感觉……也许最好的措施是增加哈特诺堡垒的士兵数量。或者……也许不是。不，我应该先和村长谈谈在村口设置守卫的事。"
+  },
+  {
+    "Number": "111",
+    "Voice Memory": "East Wind (Voice Memory)",
+    "Description": "There is a sign out front that reads \"Ventest Clothing Boutique,\" though this is partially covering the sign's original wording, \"East Wind.\" Inside the shop, traditional Hyrulean clothing and colorful, Hateno-dyed modern clothing is lined up as if in competition with the other. Apparently, the current owner and their predecessor are at odds about differences in the shop's direction. I was pressed about which clothing was better and promptly fled.",
+    "cn": "前面有一个牌子写着“文特斯特服装精品店”，但这部分遮盖了牌子原来的字样“东风”。店里，传统的海拉鲁服装和色彩鲜艳的哈特诺染色现代服装并排陈列，仿佛在互相竞争。显然，现任店主和前任店主在店铺方向上存在分歧。我被追问哪种服装更好，于是迅速逃离了。"
+  },
+  {
+    "Number": "112",
+    "Voice Memory": "Royal Blue for Champions",
+    "Description": "The Kochi Dye Shop is considered without peer all across Hyrule. The owner, too, is without peer... I brought five garments here to have them dyed using the shop's special technique, and a unique royal-blue color was achieved by taking extracts from a silent princess. I wonder if everyone will appreciate them.",
+    "cn": "科奇染色店在整个海拉鲁被认为是无与伦比的。店主也是无与伦比的……我带了五件衣服来这里，用店里的特殊技术染色，通过从静谧公主中提取精华，得到了一种独特的宝蓝色。不知道大家会不会喜欢它们。"
+  },
+  {
+    "Number": "113",
+    "Voice Memory": "Unforgettable Flavor",
+    "Description": "The founder of Hateno Pasture let me try a sample of food that was processed using milk. The subtle texture and mild flavor were so enjoyable that I couldn't stop myself from eating quite a bit of it. I asked to see the recipe, but unfortunately the handwriting was scrawled in such a way that I couldn't make out a single word...",
+    "cn": "哈特诺牧场的创始人让我尝了一份用牛奶加工的食物样品。那微妙的质地和温和的味道非常享受，我忍不住吃了不少。我请求看食谱，但不幸的是字迹潦草，我一个字也看不懂……"
+  },
+  {
+    "Number": "114",
+    "Voice Memory": "Property with Purpose",
+    "Description": "The mayor lamented struggling to find a buyer for this vacant home due to the distance from the village center. I do recall Purah wanting a place where she could devote herself to research without any prying eyes...",
+    "cn": "村长感叹，由于离村中心太远，这栋空房子很难找到买家。我确实记得普尔亚想要一个可以专心研究而没有窥探目光的地方……"
+  },
+  {
+    "Number": "115",
+    "Voice Memory": "Hateno Beach (Voice Memory)",
+    "Description": "The view from here is, as ever, unchanging. This place is one of the few I know that remains constant. Am I weak for feeling relief at that?",
+    "cn": "这里的景色一如既往，没有变化。这个地方是我所知的少数几个保持不变的地方之一。为此感到宽慰，是我软弱吗？"
+  },
+  {
+    "Number": "116",
+    "Voice Memory": "The Broken Heart",
+    "Description": "I've heard stories that if you want to cut ties with someone or something, chanting their name while crossing through the middle of the pond will do precisely that. The pond's shape resembles a heart, and I wonder if the path in the center was created as more and more people walked it, compacting the soil. I hope that Malice never forms here.",
+    "cn": "我听说过一些故事，如果你想与某人或某物断绝关系，在穿过池塘中央时念诵他们的名字就能做到。池塘的形状像一颗心，我好奇中间的小路是不是越来越多的人走过，压实了土壤而形成的。我希望这里永远不要形成怨念。"
+  },
+  {
+    "Number": "117",
+    "Voice Memory": "Anathema of the Village",
+    "Description": "The horned statue... People have long detested it, obscuring its name to history. No one remembers its origin. Its face has a sad expression, almost as if it's saying it doesn't belong here...",
+    "cn": "那座有角的雕像……人们长期以来一直厌恶它，使其名字湮没于历史。没人记得它的起源。它的脸上带着悲伤的表情，仿佛在说它不属于这里……"
+  },
+  {
+    "Number": "118",
+    "Voice Memory": "Hidden Village of the Sheikah",
+    "Description": "For generations, the Sheikah have lived in Kakariko Village. The town has been their refuge ever since they were banished from Hyrule—their advanced technology was viewed as a threat. The village itself is nestled in the mountains, as an intentional hiding place. I imagine it feels as a haven to them...",
+    "cn": "世世代代，希卡族都生活在卡卡利科村。自从他们被海拉鲁驱逐以来，这个小镇就成了他们的避难所——他们先进的技术被视为一种威胁。村庄本身坐落在山中，是一个有意的藏身之处。我想对他们来说，这里就像一个避风港……"
+  },
+  {
+    "Number": "119",
+    "Voice Memory": "Impa's Duty",
+    "Description": "Impa will be the next elder. I am thrilled to see her take up the mantle. At present, she is the royal advisor, however, and is responsible for the internal investigation of the Divine Beasts. As such, she implored the current elder to wait until her work with the investigation is complete, after which she will officially step into her new role.",
+    "cn": "因帕将是下一任长老。我很高兴看到她接任。然而，目前她是王室顾问，负责神兽的内部调查。因此，她恳求现任长老等到她的调查工作完成后，再正式担任新角色。"
+  },
+  {
+    "Number": "120",
+    "Voice Memory": "Carp Under the Falls",
+    "Description": "The researchers here are hard at work raising ornamental carp. They were inspired when they saw a beautiful fish called the mighty porgy that lives in the sea to the south. They tell me they're breeding rare carp that were born with mutations.",
+    "cn": "这里的研​​究人员正在努力饲养观赏鲤鱼。他们是在看到一种生活在南部海域、名为铠甲鲷的美丽鱼类后受到启发的。他们告诉我，他们正在培育带有突变的稀有鲤鱼。"
+  },
+  {
+    "Number": "121",
+    "Voice Memory": "Frog Guardian",
+    "Description": "This frog statue is the guardian of travelers, though I don't believe anyone knows why it's a frog, specifically... It is fascinating that a group as technologically advanced as the Sheikah would still believe in such symbols of good fortune. Maybe it somehow relates to when the Sheikah splintered after a disagreement regarding the royal family... A symbol of hope to one day reunite, perhaps?",
+    "cn": "这座青蛙雕像是旅行者的守护神，虽然我不认为有人知道为什么偏偏是青蛙……像希卡族这样技术先进的群体，仍然相信这种好运的象征，真是令人着迷。也许这与希卡族因与王室意见不合而分裂有关……或许是希望有朝一日能重聚的象征？"
+  },
+  {
+    "Number": "122",
+    "Voice Memory": "A Special Plum Tree",
+    "Description": "The people of Kakariko Village cherish plum trees as a symbol of Sheikah history. Rejoicing that a dear friend had been blessed with a baby, Impa planted one such tree and ended up covered in mud in the process. It was her wish that her friend's child would end up healthy and happy.",
+    "cn": "卡卡利科村的人们珍视梅树，将其作为希卡族历史的象征。因帕为一位挚友喜得贵子而高兴，种下了一棵这样的树，结果弄得满身是泥。她希望朋友的孩子能健康快乐地成长。"
+  },
+  {
+    "Number": "123",
+    "Voice Memory": "Great Fairy Cotera (Voice Memory)",
+    "Description": "Cotera is worshipped as the goddess of the land, and the villagers' offerings to her tend to be vegetables rather than rupees. It sounds like she's been less lively due to a decrease in rupee donations lately. Self-sufficiency is taking root in Kakariko Village, so perhaps fewer people see the value in rupees...",
+    "cn": "可可拉被崇拜为土地女神，村民们给她的供品往往是蔬菜而不是卢比。听起来，由于最近卢比捐款减少，她变得不那么活跃了。自给自足正在卡卡利科村扎根，所以也许更少的人看到卢比的价值了……"
+  },
+  {
+    "Number": "124",
+    "Voice Memory": "When the Time Comes...",
+    "Description": "Purifier Lake is used for cleansing prior to visiting Mount Lanayru for worship. It is a very sacred place, so there are detailed steps which must be followed here. I cannot visit yet because I'm not old enough according to custom. That said, I have practiced the steps many times in preparation for when that time comes. I'm sure I will manage just fine... But perhaps I will practice just once more.",
+    "cn": "净化之湖用于在前往拉聂尔山朝拜前进行净化。这是一个非常神圣的地方，所以这里有必须遵循的详细步骤。根据习俗，我还不够年龄，所以还不能去。话虽如此，为了那一天的到来，我已经练习了很多次这些步骤。我相信我能应付得很好……但也许我该再练习一次。"
+  },
+  {
+    "Number": "125",
+    "Voice Memory": "Spring of Wisdom (Voice Memory)",
+    "Description": "This is the spring where Nayru, Goddess of Wisdom, is worshipped. \"Those younger than 17 lack wisdom and are forbidden from entering the mountain.\" Hm. Today, all I can do is look up at it, but tomorrow, I climb Mount Lanayru. If my sealing power doesn't awaken... No...it will. I'm certain it will be fine.",
+    "cn": "这里是供奉智慧女神奈露的泉水。“未满17岁者缺乏智慧，禁止入山。”嗯。今天，我所能做的只是仰望它，但明天，我就要攀登拉聂尔山了。如果我的封印之力没有觉醒……不……它会的。我确信一切都会顺利的。"
+  }
+]
